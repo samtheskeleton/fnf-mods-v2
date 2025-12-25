@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="neo-gf-dialogue.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angry instance 10000" x="20" y="20" width="981" height="1197" frameX="-4" frameY="-8" frameWidth="990" frameHeight="1205"/>
+	<SubTexture name="angry instance 10001" x="1021" y="20" width="988" height="1195" frameX="0" frameY="-8" frameWidth="990" frameHeight="1205"/>
+	<SubTexture name="angry instance 10002" x="2029" y="20" width="981" height="1197" frameX="-4" frameY="-1" frameWidth="990" frameHeight="1205"/>
+	<SubTexture name="angry instance 10003" x="3030" y="20" width="980" height="1186" frameX="-10" frameY="0" frameWidth="990" frameHeight="1205"/>
+	<SubTexture name="angry instance 10004" x="4030" y="20" width="980" height="1186" frameX="-10" frameY="0" frameWidth="990" frameHeight="1205"/>
+	<SubTexture name="angry instance 10005" x="5030" y="20" width="980" height="1186" frameX="-10" frameY="0" frameWidth="990" frameHeight="1205"/>
+	<SubTexture name="angry instance 10006" x="6030" y="20" width="983" height="1189" frameX="-7" frameY="-1" frameWidth="990" frameHeight="1205"/>
+	<SubTexture name="annoyed instance 10000" x="7033" y="20" width="981" height="1197" frameX="-4" frameY="-8" frameWidth="990" frameHeight="1205"/>
+	<SubTexture name="annoyed instance 10001" x="20" y="1237" width="988" height="1195" frameX="0" frameY="-8" frameWidth="990" frameHeight="1205"/>
+	<SubTexture name="annoyed instance 10002" x="1028" y="1237" width="981" height="1197" frameX="-4" frameY="-1" frameWidth="990" frameHeight="1205"/>
+	<SubTexture name="annoyed instance 10003" x="2029" y="1237" width="980" height="1186" frameX="-10" frameY="0" frameWidth="990" frameHeight="1205"/>
+	<SubTexture name="annoyed instance 10004" x="3029" y="1237" width="980" height="1186" frameX="-10" frameY="0" frameWidth="990" frameHeight="1205"/>
+	<SubTexture name="annoyed instance 10005" x="4029" y="1237" width="980" height="1186" frameX="-10" frameY="0" frameWidth="990" frameHeight="1205"/>
+	<SubTexture name="annoyed instance 10006" x="5029" y="1237" width="983" height="1189" frameX="-7" frameY="-1" frameWidth="990" frameHeight="1205"/>
+	<SubTexture name="confused instance 10000" x="6032" y="1237" width="981" height="1197" frameX="-4" frameY="-8" frameWidth="990" frameHeight="1205"/>
+	<SubTexture name="confused instance 10001" x="7033" y="1237" width="988" height="1195" frameX="0" frameY="-8" frameWidth="990" frameHeight="1205"/>
+	<SubTexture name="confused instance 10002" x="20" y="2454" width="981" height="1197" frameX="-4" frameY="-1" frameWidth="990" frameHeight="1205"/>
+	<SubTexture name="confused instance 10003" x="1021" y="2454" width="980" height="1186" frameX="-10" frameY="0" frameWidth="990" frameHeight="1205"/>
+	<SubTexture name="confused instance 10004" x="2021" y="2454" width="980" height="1186" frameX="-10" frameY="0" frameWidth="990" frameHeight="1205"/>
+	<SubTexture name="confused instance 10005" x="3021" y="2454" width="980" height="1186" frameX="-10" frameY="0" frameWidth="990" frameHeight="1205"/>
+	<SubTexture name="confused instance 10006" x="4021" y="2454" width="983" height="1189" frameX="-7" frameY="-1" frameWidth="990" frameHeight="1205"/>
+	<SubTexture name="cute instance 10000" x="5024" y="2454" width="981" height="1197" frameX="-4" frameY="-8" frameWidth="990" frameHeight="1205"/>
+	<SubTexture name="cute instance 10001" x="6025" y="2454" width="988" height="1195" frameX="0" frameY="-8" frameWidth="990" frameHeight="1205"/>
+	<SubTexture name="cute instance 10002" x="7033" y="2454" width="981" height="1197" frameX="-4" frameY="-1" frameWidth="990" frameHeight="1205"/>
+	<SubTexture name="cute instance 10003" x="20" y="3671" width="980" height="1186" frameX="-10" frameY="0" frameWidth="990" frameHeight="1205"/>
+	<SubTexture name="cute instance 10004" x="1020" y="3671" width="980" height="1186" frameX="-10" frameY="0" frameWidth="990" frameHeight="1205"/>
+	<SubTexture name="cute instance 10005" x="2020" y="3671" width="980" height="1186" frameX="-10" frameY="0" frameWidth="990" frameHeight="1205"/>
+	<SubTexture name="cute instance 10006" x="3020" y="3671" width="983" height="1189" frameX="-7" frameY="-1" frameWidth="990" frameHeight="1205"/>
+	<SubTexture name="happy instance 10000" x="4023" y="3671" width="981" height="1197" frameX="-4" frameY="-8" frameWidth="990" frameHeight="1205"/>
+	<SubTexture name="happy instance 10001" x="5024" y="3671" width="988" height="1195" frameX="0" frameY="-8" frameWidth="990" frameHeight="1205"/>
+	<SubTexture name="happy instance 10002" x="6032" y="3671" width="981" height="1197" frameX="-4" frameY="-1" frameWidth="990" frameHeight="1205"/>
+	<SubTexture name="happy instance 10003" x="7033" y="3671" width="980" height="1186" frameX="-10" frameY="0" frameWidth="990" frameHeight="1205"/>
+	<SubTexture name="happy instance 10004" x="20" y="4888" width="980" height="1186" frameX="-10" frameY="0" frameWidth="990" frameHeight="1205"/>
+	<SubTexture name="happy instance 10005" x="1020" y="4888" width="980" height="1186" frameX="-10" frameY="0" frameWidth="990" frameHeight="1205"/>
+	<SubTexture name="happy instance 10006" x="2020" y="4888" width="983" height="1189" frameX="-7" frameY="-1" frameWidth="990" frameHeight="1205"/>
+	<SubTexture name="neutral instance 10000" x="3023" y="4888" width="981" height="1197" frameX="-4" frameY="-8" frameWidth="990" frameHeight="1205"/>
+	<SubTexture name="neutral instance 10001" x="4024" y="4888" width="988" height="1195" frameX="0" frameY="-8" frameWidth="990" frameHeight="1205"/>
+	<SubTexture name="neutral instance 10002" x="5032" y="4888" width="981" height="1197" frameX="-4" frameY="-1" frameWidth="990" frameHeight="1205"/>
+	<SubTexture name="neutral instance 10003" x="6033" y="4888" width="980" height="1186" frameX="-10" frameY="0" frameWidth="990" frameHeight="1205"/>
+	<SubTexture name="neutral instance 10004" x="7033" y="4888" width="980" height="1186" frameX="-10" frameY="0" frameWidth="990" frameHeight="1205"/>
+	<SubTexture name="neutral instance 10005" x="20" y="6105" width="980" height="1186" frameX="-10" frameY="0" frameWidth="990" frameHeight="1205"/>
+	<SubTexture name="neutral instance 10006" x="1020" y="6105" width="983" height="1189" frameX="-7" frameY="-1" frameWidth="990" frameHeight="1205"/>
+</TextureAtlas>

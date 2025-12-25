@@ -1,0 +1,50 @@
+{
+	"storyName": "Polus Problems",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Sussus Moogus",
+			"icon-red",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Sabotage",
+			"icon-red",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Meltdown",
+			"icon-meltdown",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}
