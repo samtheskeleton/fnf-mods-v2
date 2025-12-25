@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tv.png"><SubTexture name="tv0000" x="0" y="0" width="504" height="267" frameX="0" frameY="0" frameWidth="504" frameHeight="267" />
+<SubTexture name="tv20001" x="504" y="0" width="504" height="267" frameX="0" frameY="0" frameWidth="504" frameHeight="267" />
+<SubTexture name="tv20002" x="1008" y="0" width="504" height="267" frameX="0" frameY="0" frameWidth="504" frameHeight="267" />
+<SubTexture name="tv20003" x="0" y="267" width="504" height="267" frameX="0" frameY="0" frameWidth="504" frameHeight="267" />
+<SubTexture name="tv20004" x="504" y="267" width="504" height="267" frameX="0" frameY="0" frameWidth="504" frameHeight="267" />
+<SubTexture name="tv20005" x="1008" y="267" width="504" height="267" frameX="0" frameY="0" frameWidth="504" frameHeight="267" />
+<SubTexture name="tv20006" x="0" y="534" width="504" height="267" frameX="0" frameY="0" frameWidth="504" frameHeight="267" />
+<SubTexture name="tv20007" x="504" y="534" width="504" height="267" frameX="0" frameY="0" frameWidth="504" frameHeight="267" />
+<SubTexture name="tv20008" x="1008" y="534" width="504" height="267" frameX="0" frameY="0" frameWidth="504" frameHeight="267" />
+</TextureAtlas>

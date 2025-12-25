@@ -1,0 +1,63 @@
+{
+	"storyName": "Wonderland Calamity",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"reception",
+			"ozzy",
+			[
+				120,
+				35,
+				155
+			]
+		],
+	
+		[
+			"breakdown",
+			"ozzyangy",
+			[
+				60,
+				0,
+				75
+			]
+		],
+		[
+			"dilemma",
+			"ozzo",
+			[
+				40,
+				0,
+				55
+			]
+		],
+
+		
+			[
+			"crazy-rabbit",
+			"ozzo",
+			[
+				40,
+				0,
+				55
+			]
+		]
+		
+	],
+	"hideStoryMode": true,
+	"weekName": "CD 1",
+	"hiddenUntilUnlocked": false
+}

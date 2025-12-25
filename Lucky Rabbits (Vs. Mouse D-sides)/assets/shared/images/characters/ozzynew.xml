@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ozzynew.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down_Ozzy0000" x="0" y="0" width="439" height="416"/>
+	<SubTexture name="Down_Ozzy0001" x="0" y="0" width="439" height="416"/>
+	<SubTexture name="Down_Ozzy0002" x="439" y="0" width="439" height="416"/>
+	<SubTexture name="Down_Ozzy0003" x="439" y="0" width="439" height="416"/>
+	<SubTexture name="Down_Ozzy0004" x="878" y="0" width="439" height="416"/>
+	<SubTexture name="Down_Ozzy0005" x="878" y="0" width="439" height="416"/>
+	<SubTexture name="Down_Ozzy0006" x="1317" y="0" width="439" height="416"/>
+	<SubTexture name="Down_Ozzy0007" x="1317" y="0" width="439" height="416"/>
+	<SubTexture name="Down_Ozzy0008" x="1756" y="0" width="439" height="416"/>
+	<SubTexture name="Down_Ozzy0009" x="1756" y="0" width="439" height="416"/>
+	<SubTexture name="Down_Ozzy0010" x="2195" y="0" width="439" height="416"/>
+	<SubTexture name="Idle_Ozzy0000" x="2634" y="0" width="439" height="416"/>
+	<SubTexture name="Idle_Ozzy0001" x="2634" y="0" width="439" height="416"/>
+	<SubTexture name="Idle_Ozzy0002" x="3073" y="0" width="439" height="416"/>
+	<SubTexture name="Idle_Ozzy0003" x="3073" y="0" width="439" height="416"/>
+	<SubTexture name="Idle_Ozzy0004" x="3512" y="0" width="439" height="416"/>
+	<SubTexture name="Idle_Ozzy0005" x="3512" y="0" width="439" height="416"/>
+	<SubTexture name="Idle_Ozzy0006" x="0" y="416" width="439" height="416"/>
+	<SubTexture name="Idle_Ozzy0007" x="0" y="416" width="439" height="416"/>
+	<SubTexture name="Idle_Ozzy0008" x="439" y="416" width="439" height="416"/>
+	<SubTexture name="Idle_Ozzy0009" x="439" y="416" width="439" height="416"/>
+	<SubTexture name="Idle_Ozzy0010" x="878" y="416" width="439" height="416"/>
+	<SubTexture name="Idle_Ozzy0011" x="878" y="416" width="439" height="416"/>
+	<SubTexture name="Idle_Ozzy0012" x="1317" y="416" width="439" height="416"/>
+	<SubTexture name="Idle_Ozzy0013" x="1317" y="416" width="439" height="416"/>
+	<SubTexture name="Left_Ozzy0000" x="1756" y="416" width="439" height="416"/>
+	<SubTexture name="Left_Ozzy0001" x="1756" y="416" width="439" height="416"/>
+	<SubTexture name="Left_Ozzy0002" x="2195" y="416" width="439" height="416"/>
+	<SubTexture name="Left_Ozzy0003" x="2195" y="416" width="439" height="416"/>
+	<SubTexture name="Left_Ozzy0004" x="2634" y="416" width="439" height="416"/>
+	<SubTexture name="Left_Ozzy0005" x="2634" y="416" width="439" height="416"/>
+	<SubTexture name="Left_Ozzy0006" x="3073" y="416" width="439" height="416"/>
+	<SubTexture name="Left_Ozzy0007" x="3073" y="416" width="439" height="416"/>
+	<SubTexture name="Left_Ozzy0008" x="3512" y="416" width="439" height="416"/>
+	<SubTexture name="Left_Ozzy0009" x="3512" y="416" width="439" height="416"/>
+	<SubTexture name="Left_Ozzy0010" x="0" y="832" width="439" height="416"/>
+	<SubTexture name="Right_Ozzy0000" x="439" y="832" width="439" height="416"/>
+	<SubTexture name="Right_Ozzy0001" x="439" y="832" width="439" height="416"/>
+	<SubTexture name="Right_Ozzy0002" x="878" y="832" width="439" height="416"/>
+	<SubTexture name="Right_Ozzy0003" x="878" y="832" width="439" height="416"/>
+	<SubTexture name="Right_Ozzy0004" x="1317" y="832" width="439" height="416"/>
+	<SubTexture name="Right_Ozzy0005" x="1317" y="832" width="439" height="416"/>
+	<SubTexture name="Right_Ozzy0006" x="1756" y="832" width="439" height="416"/>
+	<SubTexture name="Right_Ozzy0007" x="1756" y="832" width="439" height="416"/>
+	<SubTexture name="Right_Ozzy0008" x="2195" y="832" width="439" height="416"/>
+	<SubTexture name="Right_Ozzy0009" x="2195" y="832" width="439" height="416"/>
+	<SubTexture name="Right_Ozzy0010" x="2634" y="832" width="439" height="416"/>
+	<SubTexture name="Up_Ozzy0000" x="3073" y="832" width="439" height="416"/>
+	<SubTexture name="Up_Ozzy0001" x="3073" y="832" width="439" height="416"/>
+	<SubTexture name="Up_Ozzy0002" x="3512" y="832" width="439" height="416"/>
+	<SubTexture name="Up_Ozzy0003" x="3512" y="832" width="439" height="416"/>
+	<SubTexture name="Up_Ozzy0004" x="0" y="1248" width="439" height="416"/>
+	<SubTexture name="Up_Ozzy0005" x="0" y="1248" width="439" height="416"/>
+	<SubTexture name="Up_Ozzy0006" x="439" y="1248" width="439" height="416"/>
+	<SubTexture name="Up_Ozzy0007" x="439" y="1248" width="439" height="416"/>
+	<SubTexture name="Up_Ozzy0008" x="878" y="1248" width="439" height="416"/>
+	<SubTexture name="Up_Ozzy0009" x="878" y="1248" width="439" height="416"/>
+	<SubTexture name="Up_Ozzy0010" x="1317" y="1248" width="439" height="416"/>
+</TextureAtlas>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BillyRabbitMad.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down_Crisis0000" x="0" y="0" width="437" height="607"/>
+	<SubTexture name="Down_Crisis0001" x="0" y="0" width="437" height="607"/>
+	<SubTexture name="Down_Crisis0002" x="437" y="0" width="433" height="606" frameX="-4" frameY="-1" frameWidth="437" frameHeight="607"/>
+	<SubTexture name="Down_Crisis0003" x="437" y="0" width="433" height="606" frameX="-4" frameY="-1" frameWidth="437" frameHeight="607"/>
+	<SubTexture name="Down_Crisis0004" x="437" y="0" width="433" height="606" frameX="-4" frameY="-1" frameWidth="437" frameHeight="607"/>
+	<SubTexture name="Down_Crisis0005" x="437" y="0" width="433" height="606" frameX="-4" frameY="-1" frameWidth="437" frameHeight="607"/>
+	<SubTexture name="Down_Crisis0006" x="437" y="0" width="433" height="606" frameX="-4" frameY="-1" frameWidth="437" frameHeight="607"/>
+	<SubTexture name="Down_Crisis0007" x="437" y="0" width="433" height="606" frameX="-4" frameY="-1" frameWidth="437" frameHeight="607"/>
+	<SubTexture name="Down_Crisis0008" x="437" y="0" width="433" height="606" frameX="-4" frameY="-1" frameWidth="437" frameHeight="607"/>
+	<SubTexture name="Down_Crisis0009" x="437" y="0" width="433" height="606" frameX="-4" frameY="-1" frameWidth="437" frameHeight="607"/>
+	<SubTexture name="Down_Crisis0010" x="437" y="0" width="433" height="606" frameX="-4" frameY="-1" frameWidth="437" frameHeight="607"/>
+	<SubTexture name="Down_Crisis0011" x="437" y="0" width="433" height="606" frameX="-4" frameY="-1" frameWidth="437" frameHeight="607"/>
+	<SubTexture name="Down_Crisis0012" x="437" y="0" width="433" height="606" frameX="-4" frameY="-1" frameWidth="437" frameHeight="607"/>
+	<SubTexture name="Down_Crisis0013" x="437" y="0" width="433" height="606" frameX="-4" frameY="-1" frameWidth="437" frameHeight="607"/>
+	<SubTexture name="Down_Crisis0014" x="437" y="0" width="433" height="606" frameX="-4" frameY="-1" frameWidth="437" frameHeight="607"/>
+	<SubTexture name="Down_Crisis0015" x="437" y="0" width="433" height="606" frameX="-4" frameY="-1" frameWidth="437" frameHeight="607"/>
+	<SubTexture name="Idle_Crisis0000" x="870" y="0" width="437" height="604" frameX="-6" frameY="-8" frameWidth="454" frameHeight="612"/>
+	<SubTexture name="Idle_Crisis0001" x="870" y="0" width="437" height="604" frameX="-6" frameY="-8" frameWidth="454" frameHeight="612"/>
+	<SubTexture name="Idle_Crisis0002" x="1307" y="0" width="453" height="608" frameX="-1" frameY="-4" frameWidth="454" frameHeight="612"/>
+	<SubTexture name="Idle_Crisis0003" x="1307" y="0" width="453" height="608" frameX="-1" frameY="-4" frameWidth="454" frameHeight="612"/>
+	<SubTexture name="Idle_Crisis0004" x="1760" y="0" width="448" height="607" frameX="0" frameY="-5" frameWidth="454" frameHeight="612"/>
+	<SubTexture name="Idle_Crisis0005" x="2208" y="0" width="437" height="599" frameX="-6" frameY="-13" frameWidth="454" frameHeight="612"/>
+	<SubTexture name="Idle_Crisis0006" x="2208" y="0" width="437" height="599" frameX="-6" frameY="-13" frameWidth="454" frameHeight="612"/>
+	<SubTexture name="Idle_Crisis0007" x="2645" y="0" width="437" height="607" frameX="-6" frameY="-5" frameWidth="454" frameHeight="612"/>
+	<SubTexture name="Idle_Crisis0008" x="2645" y="0" width="437" height="607" frameX="-6" frameY="-5" frameWidth="454" frameHeight="612"/>
+	<SubTexture name="Idle_Crisis0009" x="3082" y="0" width="437" height="612" frameX="-6" frameY="0" frameWidth="454" frameHeight="612"/>
+	<SubTexture name="Idle_Crisis0010" x="3082" y="0" width="437" height="612" frameX="-6" frameY="0" frameWidth="454" frameHeight="612"/>
+	<SubTexture name="Idle_Crisis0011" x="3519" y="0" width="438" height="610" frameX="-5" frameY="-2" frameWidth="454" frameHeight="612"/>
+	<SubTexture name="Idle_Crisis0012" x="3519" y="0" width="438" height="610" frameX="-5" frameY="-2" frameWidth="454" frameHeight="612"/>
+	<SubTexture name="Idle_Crisis0013" x="0" y="612" width="440" height="608" frameX="-3" frameY="-4" frameWidth="454" frameHeight="612"/>
+	<SubTexture name="Idle_Crisis0014" x="0" y="612" width="440" height="608" frameX="-3" frameY="-4" frameWidth="454" frameHeight="612"/>
+	<SubTexture name="Idle_Crisis0015" x="0" y="612" width="440" height="608" frameX="-3" frameY="-4" frameWidth="454" frameHeight="612"/>
+	<SubTexture name="Left_Crisis0000" x="440" y="612" width="457" height="607" frameX="-11" frameY="0" frameWidth="469" frameHeight="607"/>
+	<SubTexture name="Left_Crisis0001" x="440" y="612" width="457" height="607" frameX="-11" frameY="0" frameWidth="469" frameHeight="607"/>
+	<SubTexture name="Left_Crisis0002" x="897" y="612" width="469" height="599" frameX="0" frameY="-8" frameWidth="469" frameHeight="607"/>
+	<SubTexture name="Left_Crisis0003" x="897" y="612" width="469" height="599" frameX="0" frameY="-8" frameWidth="469" frameHeight="607"/>
+	<SubTexture name="Left_Crisis0004" x="897" y="612" width="469" height="599" frameX="0" frameY="-8" frameWidth="469" frameHeight="607"/>
+	<SubTexture name="Left_Crisis0005" x="897" y="612" width="469" height="599" frameX="0" frameY="-8" frameWidth="469" frameHeight="607"/>
+	<SubTexture name="Left_Crisis0006" x="897" y="612" width="469" height="599" frameX="0" frameY="-8" frameWidth="469" frameHeight="607"/>
+	<SubTexture name="Left_Crisis0007" x="897" y="612" width="469" height="599" frameX="0" frameY="-8" frameWidth="469" frameHeight="607"/>
+	<SubTexture name="Right_Crisis0000" x="1366" y="612" width="448" height="617" frameX="-7" frameY="0" frameWidth="455" frameHeight="617"/>
+	<SubTexture name="Right_Crisis0001" x="1366" y="612" width="448" height="617" frameX="-7" frameY="0" frameWidth="455" frameHeight="617"/>
+	<SubTexture name="Right_Crisis0002" x="1814" y="612" width="439" height="606" frameX="0" frameY="-11" frameWidth="455" frameHeight="617"/>
+	<SubTexture name="Right_Crisis0003" x="1814" y="612" width="439" height="606" frameX="0" frameY="-11" frameWidth="455" frameHeight="617"/>
+	<SubTexture name="Right_Crisis0004" x="1814" y="612" width="439" height="606" frameX="0" frameY="-11" frameWidth="455" frameHeight="617"/>
+	<SubTexture name="Right_Crisis0005" x="1814" y="612" width="439" height="606" frameX="0" frameY="-11" frameWidth="455" frameHeight="617"/>
+	<SubTexture name="Right_Crisis0006" x="1814" y="612" width="439" height="606" frameX="0" frameY="-11" frameWidth="455" frameHeight="617"/>
+	<SubTexture name="Right_Crisis0007" x="1814" y="612" width="439" height="606" frameX="0" frameY="-11" frameWidth="455" frameHeight="617"/>
+	<SubTexture name="Right_Crisis0008" x="1814" y="612" width="439" height="606" frameX="0" frameY="-11" frameWidth="455" frameHeight="617"/>
+	<SubTexture name="Right_Crisis0009" x="1814" y="612" width="439" height="606" frameX="0" frameY="-11" frameWidth="455" frameHeight="617"/>
+	<SubTexture name="Up_Crisis0000" x="2253" y="612" width="472" height="627"/>
+	<SubTexture name="Up_Crisis0001" x="2253" y="612" width="472" height="627"/>
+	<SubTexture name="Up_Crisis0002" x="2725" y="612" width="444" height="615" frameX="-7" frameY="-12" frameWidth="472" frameHeight="627"/>
+	<SubTexture name="Up_Crisis0003" x="2725" y="612" width="444" height="615" frameX="-7" frameY="-12" frameWidth="472" frameHeight="627"/>
+	<SubTexture name="Up_Crisis0004" x="2725" y="612" width="444" height="615" frameX="-7" frameY="-12" frameWidth="472" frameHeight="627"/>
+	<SubTexture name="Up_Crisis0005" x="2725" y="612" width="444" height="615" frameX="-7" frameY="-12" frameWidth="472" frameHeight="627"/>
+	<SubTexture name="Up_Crisis0006" x="2725" y="612" width="444" height="615" frameX="-7" frameY="-12" frameWidth="472" frameHeight="627"/>
+	<SubTexture name="Up_Crisis0007" x="2725" y="612" width="444" height="615" frameX="-7" frameY="-12" frameWidth="472" frameHeight="627"/>
+	<SubTexture name="Up_Crisis0008" x="2725" y="612" width="444" height="615" frameX="-7" frameY="-12" frameWidth="472" frameHeight="627"/>
+	<SubTexture name="Up_Crisis0009" x="2725" y="612" width="444" height="615" frameX="-7" frameY="-12" frameWidth="472" frameHeight="627"/>
+	<SubTexture name="Up_Crisis0010" x="2725" y="612" width="444" height="615" frameX="-7" frameY="-12" frameWidth="472" frameHeight="627"/>
+	<SubTexture name="Up_Crisis0011" x="2725" y="612" width="444" height="615" frameX="-7" frameY="-12" frameWidth="472" frameHeight="627"/>
+	<SubTexture name="Up_Crisis0012" x="2725" y="612" width="444" height="615" frameX="-7" frameY="-12" frameWidth="472" frameHeight="627"/>
+	<SubTexture name="Up_Crisis0013" x="2725" y="612" width="444" height="615" frameX="-7" frameY="-12" frameWidth="472" frameHeight="627"/>
+	<SubTexture name="Up_Crisis0014" x="2725" y="612" width="444" height="615" frameX="-7" frameY="-12" frameWidth="472" frameHeight="627"/>
+	<SubTexture name="Up_Crisis0015" x="2725" y="612" width="444" height="615" frameX="-7" frameY="-12" frameWidth="472" frameHeight="627"/>
+</TextureAtlas>
