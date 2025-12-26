@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Welcome", "markus", [165, 0, 77]],
+	["Unsettled", "markus", [165, 0, 77]],
+		["Repentance", "markus-crazy", [165, 0, 77]],
+			["Maniacal", "marko-martha", [165, 0, 77]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "stage",
+	"difficulties": "Normal",
+	"storyName": "",
+	"weekBefore": "Vs Mouse Rookie Edition",
+	"weekName": "Vs Mouse Rookie Edition",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
