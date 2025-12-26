@@ -1,0 +1,41 @@
+{
+	"storyName": "Skeld Symphony",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "skeld",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Emergency",
+			"red",
+			[
+				255,
+				60,
+				80
+			]
+		],
+		[
+			"Double Trouble",
+			"cyan",
+			[
+				0,
+				120,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "skeld"
+}

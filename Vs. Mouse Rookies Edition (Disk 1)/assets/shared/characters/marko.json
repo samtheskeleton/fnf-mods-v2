@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				138.8,
+				95
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Marko_left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				124.2,
+				79.2
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Marko_down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				65.4,
+				289.6
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Marko_up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-111.8,
+				185
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Marko_right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-1.6,
+				216
+			],
+			"loop": true,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Marko_idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/marko",
+	"position": [
+		150,
+		300
+	],
+	"healthicon": "marko",
+	"flip_x": false,
+	"healthbar_colors": [
+		221,
+		6,
+		45
+	],
+	"camera_position": [
+		-90,
+		-170
+	],
+	"sing_duration": 7.5,
+	"scale": 1.25,
+	"_editor_isPlayer": false
+}

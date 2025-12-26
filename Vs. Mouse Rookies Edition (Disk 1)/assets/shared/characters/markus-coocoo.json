@@ -1,0 +1,35 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				5,
+				-5
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "IdleV2",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/markus-coocoo",
+	"position": [
+		-10,
+		50
+	],
+	"healthicon": "markus-coocoo",
+	"flip_x": false,
+	"healthbar_colors": [
+		221,
+		6,
+		45
+	],
+	"camera_position": [
+		0,
+		-20
+	],
+	"sing_duration": 4.9,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,57 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-179,
+				-37
+			],
+			"loop": false,
+			"anim": "deathConfirm",
+			"fps": 18,
+			"name": "Retry-Ready instance 1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-179,
+				-30
+			],
+			"loop": true,
+			"anim": "deathLoop",
+			"fps": 18,
+			"name": "LoopDeath instance 1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"anim": "firstDeath",
+			"fps": 18,
+			"name": "Death instance 1",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf-rook-death",
+	"position": [
+		-212,
+		115
+	],
+	"healthicon": "bf-rook-death",
+	"flip_x": true,
+	"healthbar_colors": [
+		123,
+		214,
+		246
+	],
+	"camera_position": [
+		0,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

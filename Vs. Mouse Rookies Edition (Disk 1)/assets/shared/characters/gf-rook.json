@@ -1,0 +1,57 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "cheer",
+			"fps": 24,
+			"name": "ComboBreak",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-3
+			],
+			"loop": false,
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "Idle_Dance_Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-2
+			],
+			"loop": false,
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "Idle_dance_right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gf-rook",
+	"position": [
+		100,
+		275
+	],
+	"healthicon": "gf-rook",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

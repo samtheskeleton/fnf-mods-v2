@@ -1,0 +1,90 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-56.67,
+				-82.5
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": " Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56.67,
+				70
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": " Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-71.67,
+				-15
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": " Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": " Idleleft"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9.17,
+				-4.17
+			],
+			"fps": 24,
+			"anim": "idle2",
+			"indices": [],
+			"name": " Idleright"
+		},
+		{
+			"offsets": [
+				-70,
+				16.67
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": " Left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/martha",
+	"position": [
+		-400,
+		120
+	],
+	"healthicon": "martha",
+	"flip_x": false,
+	"healthbar_colors": [
+		144,
+		80,
+		91
+	],
+	"camera_position": [
+		270,
+		0
+	],
+	"sing_duration": 7.5,
+	"scale": 1.12,
+	"_editor_isPlayer": false
+}
