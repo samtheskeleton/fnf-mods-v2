@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				200,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "knuxleft"
+		},
+		{
+			"offsets": [
+				96,
+				-190
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "knuxdown"
+		},
+		{
+			"offsets": [
+				30,
+				170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "knuxup"
+		},
+		{
+			"offsets": [
+				13,
+				88
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "knuxright"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				128,
+				341
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "sonicorigins",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "knuxidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				40
+			],
+			"anim": "idle-hey",
+			"fps": 24,
+			"name": "hey sonic",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				616,
+				344
+			],
+			"anim": "break",
+			"fps": 24,
+			"name": "knux break",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/knuxlore",
+	"position": [
+		100,
+		140
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		120,
+		-100
+	],
+	"sing_duration": 5,
+	"scale": 1
+}

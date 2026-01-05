@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="miles_assets.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="milesdown0000" x="0" y="0" width="457" height="472"/>
+	<SubTexture name="milesdown0001" x="461" y="0" width="457" height="472"/>
+	<SubTexture name="milesdown0002" x="922" y="0" width="453" height="442" frameX="0" frameY="-20" frameWidth="457" frameHeight="472"/>
+	<SubTexture name="milesdown0003" x="1379" y="0" width="453" height="442" frameX="0" frameY="-20" frameWidth="457" frameHeight="472"/>
+	<SubTexture name="milesdown0004" x="1836" y="0" width="451" height="434" frameX="0" frameY="-28" frameWidth="457" frameHeight="472"/>
+	<SubTexture name="milesdown0005" x="2291" y="0" width="451" height="434" frameX="0" frameY="-28" frameWidth="457" frameHeight="472"/>
+	<SubTexture name="milesdown0006" x="2746" y="0" width="450" height="431" frameX="0" frameY="-31" frameWidth="457" frameHeight="472"/>
+	<SubTexture name="milesdown0007" x="3200" y="0" width="450" height="431" frameX="0" frameY="-31" frameWidth="457" frameHeight="472"/>
+	<SubTexture name="milesdown0008" x="2746" y="0" width="450" height="431" frameX="0" frameY="-31" frameWidth="457" frameHeight="472"/>
+	<SubTexture name="milesdown0009" x="3200" y="0" width="450" height="431" frameX="0" frameY="-31" frameWidth="457" frameHeight="472"/>
+	<SubTexture name="milesdown0010" x="2746" y="0" width="450" height="431" frameX="0" frameY="-31" frameWidth="457" frameHeight="472"/>
+	<SubTexture name="milesdown0011" x="3200" y="0" width="450" height="431" frameX="0" frameY="-31" frameWidth="457" frameHeight="472"/>
+	<SubTexture name="milesdown0012" x="2746" y="0" width="450" height="431" frameX="0" frameY="-31" frameWidth="457" frameHeight="472"/>
+	<SubTexture name="milesdown0013" x="3200" y="0" width="450" height="431" frameX="0" frameY="-31" frameWidth="457" frameHeight="472"/>
+	<SubTexture name="milesidle0000" x="3654" y="0" width="441" height="454"/>
+	<SubTexture name="milesidle0001" x="0" y="476" width="441" height="454"/>
+	<SubTexture name="milesidle0002" x="445" y="476" width="441" height="453" frameX="0" frameY="0" frameWidth="441" frameHeight="454"/>
+	<SubTexture name="milesidle0003" x="890" y="476" width="441" height="453" frameX="0" frameY="0" frameWidth="441" frameHeight="454"/>
+	<SubTexture name="milesidle0004" x="1335" y="476" width="441" height="453" frameX="0" frameY="0" frameWidth="441" frameHeight="454"/>
+	<SubTexture name="milesidle0005" x="1780" y="476" width="441" height="453" frameX="0" frameY="0" frameWidth="441" frameHeight="454"/>
+	<SubTexture name="milesidle0006" x="2225" y="476" width="441" height="453" frameX="0" frameY="0" frameWidth="441" frameHeight="454"/>
+	<SubTexture name="milesidle0007" x="2670" y="476" width="441" height="453" frameX="0" frameY="0" frameWidth="441" frameHeight="454"/>
+	<SubTexture name="milesidle0008" x="3115" y="476" width="441" height="453" frameX="0" frameY="0" frameWidth="441" frameHeight="454"/>
+	<SubTexture name="milesidle0009" x="3560" y="476" width="441" height="453" frameX="0" frameY="0" frameWidth="441" frameHeight="454"/>
+	<SubTexture name="milesidle0010" x="0" y="934" width="441" height="453" frameX="0" frameY="0" frameWidth="441" frameHeight="454"/>
+	<SubTexture name="milesidle0011" x="445" y="934" width="441" height="453" frameX="0" frameY="0" frameWidth="441" frameHeight="454"/>
+	<SubTexture name="milesidle0012" x="0" y="934" width="441" height="453" frameX="0" frameY="0" frameWidth="441" frameHeight="454"/>
+	<SubTexture name="milesidle0013" x="445" y="934" width="441" height="453" frameX="0" frameY="0" frameWidth="441" frameHeight="454"/>
+	<SubTexture name="milesleft0000" x="890" y="934" width="408" height="471"/>
+	<SubTexture name="milesleft0001" x="1302" y="934" width="408" height="471"/>
+	<SubTexture name="milesleft0002" x="1714" y="934" width="408" height="471"/>
+	<SubTexture name="milesleft0003" x="2126" y="934" width="408" height="471"/>
+	<SubTexture name="milesleft0004" x="2538" y="934" width="407" height="471" frameX="0" frameY="0" frameWidth="408" frameHeight="471"/>
+	<SubTexture name="milesleft0005" x="2949" y="934" width="407" height="471" frameX="0" frameY="0" frameWidth="408" frameHeight="471"/>
+	<SubTexture name="milesleft0006" x="3360" y="934" width="406" height="471" frameX="0" frameY="0" frameWidth="408" frameHeight="471"/>
+	<SubTexture name="milesleft0007" x="0" y="1409" width="406" height="471" frameX="0" frameY="0" frameWidth="408" frameHeight="471"/>
+	<SubTexture name="milesleft0008" x="3360" y="934" width="406" height="471" frameX="0" frameY="0" frameWidth="408" frameHeight="471"/>
+	<SubTexture name="milesleft0009" x="0" y="1409" width="406" height="471" frameX="0" frameY="0" frameWidth="408" frameHeight="471"/>
+	<SubTexture name="milesleft0010" x="3360" y="934" width="406" height="471" frameX="0" frameY="0" frameWidth="408" frameHeight="471"/>
+	<SubTexture name="milesleft0011" x="0" y="1409" width="406" height="471" frameX="0" frameY="0" frameWidth="408" frameHeight="471"/>
+	<SubTexture name="milesleft0012" x="3360" y="934" width="406" height="471" frameX="0" frameY="0" frameWidth="408" frameHeight="471"/>
+	<SubTexture name="milesleft0013" x="0" y="1409" width="406" height="471" frameX="0" frameY="0" frameWidth="408" frameHeight="471"/>
+	<SubTexture name="milesright0000" x="410" y="1409" width="451" height="464" frameX="0" frameY="0" frameWidth="451" frameHeight="465"/>
+	<SubTexture name="milesright0001" x="865" y="1409" width="451" height="464" frameX="0" frameY="0" frameWidth="451" frameHeight="465"/>
+	<SubTexture name="milesright0002" x="1320" y="1409" width="451" height="459" frameX="0" frameY="-6" frameWidth="451" frameHeight="465"/>
+	<SubTexture name="milesright0003" x="1775" y="1409" width="451" height="459" frameX="0" frameY="-6" frameWidth="451" frameHeight="465"/>
+	<SubTexture name="milesright0004" x="2230" y="1409" width="451" height="459" frameX="0" frameY="-6" frameWidth="451" frameHeight="465"/>
+	<SubTexture name="milesright0005" x="2685" y="1409" width="451" height="459" frameX="0" frameY="-6" frameWidth="451" frameHeight="465"/>
+	<SubTexture name="milesright0006" x="3140" y="1409" width="451" height="459" frameX="0" frameY="-6" frameWidth="451" frameHeight="465"/>
+	<SubTexture name="milesright0007" x="3595" y="1409" width="451" height="459" frameX="0" frameY="-6" frameWidth="451" frameHeight="465"/>
+	<SubTexture name="milesright0008" x="3140" y="1409" width="451" height="459" frameX="0" frameY="-6" frameWidth="451" frameHeight="465"/>
+	<SubTexture name="milesright0009" x="3595" y="1409" width="451" height="459" frameX="0" frameY="-6" frameWidth="451" frameHeight="465"/>
+	<SubTexture name="milesright0010" x="3140" y="1409" width="451" height="459" frameX="0" frameY="-6" frameWidth="451" frameHeight="465"/>
+	<SubTexture name="milesright0011" x="3595" y="1409" width="451" height="459" frameX="0" frameY="-6" frameWidth="451" frameHeight="465"/>
+	<SubTexture name="milesright0012" x="3140" y="1409" width="451" height="459" frameX="0" frameY="-6" frameWidth="451" frameHeight="465"/>
+	<SubTexture name="milesright0013" x="3595" y="1409" width="451" height="459" frameX="0" frameY="-6" frameWidth="451" frameHeight="465"/>
+	<SubTexture name="milesup0000" x="0" y="1884" width="411" height="528" frameX="0" frameY="0" frameWidth="412" frameHeight="530"/>
+	<SubTexture name="milesup0001" x="415" y="1884" width="411" height="528" frameX="0" frameY="0" frameWidth="412" frameHeight="530"/>
+	<SubTexture name="milesup0002" x="830" y="1884" width="411" height="521" frameX="0" frameY="-9" frameWidth="412" frameHeight="530"/>
+	<SubTexture name="milesup0003" x="1245" y="1884" width="411" height="521" frameX="0" frameY="-9" frameWidth="412" frameHeight="530"/>
+	<SubTexture name="milesup0004" x="1660" y="1884" width="411" height="516" frameX="0" frameY="-14" frameWidth="412" frameHeight="530"/>
+	<SubTexture name="milesup0005" x="2075" y="1884" width="411" height="516" frameX="0" frameY="-14" frameWidth="412" frameHeight="530"/>
+	<SubTexture name="milesup0006" x="2490" y="1884" width="411" height="516" frameX="0" frameY="-14" frameWidth="412" frameHeight="530"/>
+	<SubTexture name="milesup0007" x="2905" y="1884" width="411" height="516" frameX="0" frameY="-14" frameWidth="412" frameHeight="530"/>
+	<SubTexture name="milesup0008" x="2490" y="1884" width="411" height="516" frameX="0" frameY="-14" frameWidth="412" frameHeight="530"/>
+	<SubTexture name="milesup0009" x="2905" y="1884" width="411" height="516" frameX="0" frameY="-14" frameWidth="412" frameHeight="530"/>
+	<SubTexture name="milesup0010" x="2490" y="1884" width="411" height="516" frameX="0" frameY="-14" frameWidth="412" frameHeight="530"/>
+	<SubTexture name="milesup0011" x="2905" y="1884" width="411" height="516" frameX="0" frameY="-14" frameWidth="412" frameHeight="530"/>
+	<SubTexture name="milesup0012" x="2490" y="1884" width="411" height="516" frameX="0" frameY="-14" frameWidth="412" frameHeight="530"/>
+	<SubTexture name="milesup0013" x="2905" y="1884" width="411" height="516" frameX="0" frameY="-14" frameWidth="412" frameHeight="530"/>
+</TextureAtlas>

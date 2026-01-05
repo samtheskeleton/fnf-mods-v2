@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-2,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "forward"
+		},
+		{
+			"offsets": [
+				23,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-1,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-5,
+				-34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "back"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				-44
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "cringe",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-2,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "STFU",
+			"indices": [],
+			"name": "STFU"
+		},
+		{
+			"offsets": [
+				-2,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "WTF",
+			"indices": [],
+			"name": "WTF"
+		},
+		{
+			"offsets": [
+				25,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "angry",
+			"indices": [],
+			"name": "grraAAA"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/soniclockon",
+	"position": [
+		100,
+		430
+	],
+	"healthicon": "sonic",
+	"flip_x": false,
+	"healthbar_colors": [
+		32,
+		32,
+		156
+	],
+	"camera_position": [
+		10,
+		0
+	],
+	"sing_duration": 5,
+	"scale": 1
+}

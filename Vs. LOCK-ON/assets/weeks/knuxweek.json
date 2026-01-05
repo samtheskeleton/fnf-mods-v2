@@ -1,0 +1,50 @@
+{
+	"storyName": "hi",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Lock-On",
+			"knux",
+			[
+				146,
+				0,
+				35
+			]
+		],
+		[
+			"Lore",
+			"mj",
+			[
+				100,
+				100,
+				100
+			]
+		],
+		[
+			"Portable",
+			"sonic4",
+			[
+				255,
+				140,
+				55
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

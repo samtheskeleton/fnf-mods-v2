@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "knuckles idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				5
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "knuckles left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				-7
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "knuckles down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				35
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "knuckles up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				21
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "knuckles right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				5
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "knuckles miss left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				-7
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "knuckles miss down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				46
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "knuckles miss up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				21
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "knuckles miss right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/knux_epic",
+	"position": [
+		-10,
+		70
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-110,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="knux_dead.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="knux dies0000" x="4" y="4" width="359" height="435" frameX="-117" frameY="-161" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0001" x="4" y="4" width="359" height="435" frameX="-117" frameY="-161" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0002" x="367" y="4" width="350" height="429" frameX="-121" frameY="-40" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0003" x="367" y="4" width="350" height="429" frameX="-121" frameY="-40" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0004" x="721" y="4" width="346" height="411" frameX="-110" frameY="-4" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0005" x="721" y="4" width="346" height="411" frameX="-110" frameY="-4" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0006" x="1071" y="4" width="345" height="406" frameX="-107" frameY="0" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0007" x="1071" y="4" width="345" height="406" frameX="-107" frameY="0" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0008" x="1420" y="4" width="346" height="408" frameX="-103" frameY="-1" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0009" x="1420" y="4" width="346" height="408" frameX="-103" frameY="-1" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0010" x="4" y="443" width="348" height="416" frameX="-93" frameY="-12" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0011" x="4" y="443" width="348" height="416" frameX="-93" frameY="-12" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0012" x="356" y="443" width="371" height="454" frameX="-58" frameY="-47" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0013" x="731" y="443" width="429" height="480" frameX="-26" frameY="-89" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0014" x="1164" y="443" width="444" height="374" frameX="-15" frameY="-293" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0015" x="4" y="927" width="482" height="443" frameX="0" frameY="-626" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0016" x="490" y="927" width="346" height="410" frameX="-93" frameY="-1151" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0017" x="490" y="927" width="346" height="410" frameX="-93" frameY="-1151" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0018" x="490" y="927" width="346" height="410" frameX="-93" frameY="-1151" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0019" x="490" y="927" width="346" height="410" frameX="-93" frameY="-1151" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0020" x="490" y="927" width="346" height="410" frameX="-93" frameY="-1151" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0021" x="490" y="927" width="346" height="410" frameX="-93" frameY="-1151" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0022" x="490" y="927" width="346" height="410" frameX="-93" frameY="-1151" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0023" x="490" y="927" width="346" height="410" frameX="-93" frameY="-1151" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0024" x="490" y="927" width="346" height="410" frameX="-93" frameY="-1151" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0025" x="490" y="927" width="346" height="410" frameX="-93" frameY="-1151" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0026" x="490" y="927" width="346" height="410" frameX="-93" frameY="-1151" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0027" x="490" y="927" width="346" height="410" frameX="-93" frameY="-1151" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0028" x="490" y="927" width="346" height="410" frameX="-93" frameY="-1151" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0029" x="490" y="927" width="346" height="410" frameX="-93" frameY="-1151" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0030" x="490" y="927" width="346" height="410" frameX="-93" frameY="-1151" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0031" x="490" y="927" width="346" height="410" frameX="-93" frameY="-1151" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0032" x="490" y="927" width="346" height="410" frameX="-93" frameY="-1151" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0033" x="490" y="927" width="346" height="410" frameX="-93" frameY="-1151" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0034" x="490" y="927" width="346" height="410" frameX="-93" frameY="-1151" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0035" x="490" y="927" width="346" height="410" frameX="-93" frameY="-1151" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0036" x="490" y="927" width="346" height="410" frameX="-93" frameY="-1151" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0037" x="490" y="927" width="346" height="410" frameX="-93" frameY="-1151" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0038" x="490" y="927" width="346" height="410" frameX="-93" frameY="-1151" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0039" x="490" y="927" width="346" height="410" frameX="-93" frameY="-1151" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0040" x="490" y="927" width="346" height="410" frameX="-93" frameY="-1151" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0041" x="490" y="927" width="346" height="410" frameX="-93" frameY="-1151" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0042" x="490" y="927" width="346" height="410" frameX="-93" frameY="-1151" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0043" x="490" y="927" width="346" height="410" frameX="-93" frameY="-1151" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0044" x="490" y="927" width="346" height="410" frameX="-93" frameY="-1151" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0045" x="490" y="927" width="346" height="410" frameX="-93" frameY="-1151" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0046" x="490" y="927" width="346" height="410" frameX="-93" frameY="-1151" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0047" x="490" y="927" width="346" height="410" frameX="-93" frameY="-1151" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0048" x="490" y="927" width="346" height="410" frameX="-93" frameY="-1151" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0049" x="490" y="927" width="346" height="410" frameX="-93" frameY="-1151" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0050" x="490" y="927" width="346" height="410" frameX="-93" frameY="-1151" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0051" x="490" y="927" width="346" height="410" frameX="-93" frameY="-1151" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0052" x="490" y="927" width="346" height="410" frameX="-93" frameY="-1151" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0053" x="490" y="927" width="346" height="410" frameX="-93" frameY="-1151" frameWidth="482" frameHeight="1561"/>
+	<SubTexture name="knux dies0054" x="490" y="927" width="346" height="410" frameX="-93" frameY="-1151" frameWidth="482" frameHeight="1561"/>
+</TextureAtlas>

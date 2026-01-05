@@ -1,0 +1,213 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-4
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "tails idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-1,
+				-4
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "tails idle",
+			"indices": [
+				9,
+				10,
+				11,
+				12
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				52,
+				115
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "tails up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-32
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "tails down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				101
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "tails forward",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "tails back",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				52,
+				115
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "tails up",
+			"indices": [
+				9,
+				10,
+				11,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-14,
+				-32
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "tails down",
+			"indices": [
+				9,
+				10,
+				11,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				28,
+				101
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "tails forward",
+			"indices": [
+				9,
+				10,
+				11,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				21,
+				3
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "tails back",
+			"indices": [
+				9,
+				10,
+				11,
+				12
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				19
+			],
+			"anim": "canyou",
+			"fps": 24,
+			"name": "canyou",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-40
+			],
+			"anim": "depressed",
+			"fps": 24,
+			"name": "depressed",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				58,
+				110
+			],
+			"anim": "dontworry",
+			"fps": 24,
+			"name": "dontworry",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				59,
+				110
+			],
+			"anim": "sonic...",
+			"fps": 24,
+			"name": "sonic...",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-20
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "scared",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/lockontails",
+	"position": [
+		110,
+		270
+	],
+	"healthicon": "tails",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		70,
+		-10
+	],
+	"sing_duration": 4.1,
+	"scale": 1
+}

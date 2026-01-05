@@ -1,0 +1,8 @@
+LOCK-ON
+Knuckles::knux::Main Director::https://www.amazon.com/Great-Eastern-Animation-Classic-Knuckles/dp/B0028WR0WO#::0xFFb8281d
+Pancho::pancho::Composer/Charter::https://twitter.com/panchonatorr::0xFFde107a
+Bun::cherribun::Artist/Animator::https://casinobunbun.tumblr.com/::0xFFFF0051
+Blon::blon::VA for Tails::https://twitter.com/_blon_::0xFFe8e538
+Saturn7::saturn7::VA for Sonic and Knuckles:: ::0xFF530f96
+Genesis::gen::VA for Portable Sonic::https://twitter.com/GenesisXlivia::0xFF4391f7
+Mustard::mustard::Created the Sonic chromatic used in Portable::https://twitter.com/squijay1::0xFFcfe010

@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "knuxback0"
+		},
+		{
+			"offsets": [
+				7,
+				36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "knucklesforward0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				32,
+				-15
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "knucklesdown0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				46
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "knuxup0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				38
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "knucklesforward MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				39
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "knuxback MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				53,
+				-8
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "knucklesdown MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				53
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "knuxup MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				30
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "knucklesidle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				32,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "lastha",
+			"indices": [],
+			"name": "lastha"
+		},
+		{
+			"offsets": [
+				6,
+				35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "no",
+			"indices": [],
+			"name": "no"
+		},
+		{
+			"offsets": [
+				65,
+				35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "later",
+			"indices": [],
+			"name": "later"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1051,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "knucklesidle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/knucklelockon",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "knux",
+	"flip_x": true,
+	"healthbar_colors": [
+		156,
+		0,
+		32
+	],
+	"camera_position": [
+		60,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
