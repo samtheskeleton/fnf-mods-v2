@@ -1,0 +1,68 @@
+{
+	"storyName": "the loneliness has consumed his soul",
+	"difficulties": "dside",
+	"hideFreeplay": false,
+	"weekBackground": "loneliness",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"widower",
+			"oswald-sad",
+			[
+				82,
+				89,
+				81
+			]
+		],
+		[
+			"despondency",
+			"oswald-what",
+			[
+				82,
+				89,
+				81
+			]
+		],
+		[
+			"untold loneliness",
+			"Oswald",
+			[
+				62,
+				69,
+				61
+			]
+		],
+		[
+			"uselessness",
+			"oswald-end",
+			[
+				82,
+				89,
+				81
+			]
+		],
+		[
+			"life on hiatus",
+			"oswald-hell",
+			[
+				62,
+				69,
+				61
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "oswald"
+}

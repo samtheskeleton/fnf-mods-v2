@@ -1,0 +1,41 @@
+{
+	"storyName": "the loneliness has consumed his soul",
+	"difficulties": "dside",
+	"hideFreeplay": false,
+	"weekBackground": "loneliness",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"lucks abyss",
+			"oswald-hell",
+			[
+				62,
+				69,
+				61
+			]
+		],
+		[
+			"tenebris",
+			"Oswald",
+			[
+				82,
+				89,
+				81
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "oswald 2"
+}

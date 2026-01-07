@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="oswald-suicide.png">
+<SubTexture name="angryish0000" x="0" y="0" width="120" height="142" frameX="-3" frameY="-2" frameWidth="111" frameHeight="137" />
+<SubTexture name="angryish0001" x="120" y="0" width="120" height="138" frameX="0" frameY="-4" frameWidth="111" frameHeight="137" />
+<SubTexture name="angryish0002" x="0" y="142" width="121" height="143" frameX="0" frameY="0" frameWidth="111" frameHeight="137" />
+<SubTexture name="angryish0003" x="121" y="142" width="116" height="144" frameX="-4" frameY="-4" frameWidth="111" frameHeight="137" />
+<SubTexture name="angryish0004" x="0" y="286" width="118" height="149" frameX="-1" frameY="0" frameWidth="111" frameHeight="137" />
+<SubTexture name="idle0000" x="118" y="286" width="134" height="122" frameX="0" frameY="0" frameWidth="122" frameHeight="110" />
+</TextureAtlas>

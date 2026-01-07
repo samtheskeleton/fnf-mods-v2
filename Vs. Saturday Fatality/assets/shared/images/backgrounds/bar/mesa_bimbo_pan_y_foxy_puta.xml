@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mesa bimbo pan y foxy puta.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mesa de foxy y el bimbo pan0000" x="0" y="0" width="957" height="754" frameX="0" frameY="-13" frameWidth="957" frameHeight="767"/>
+	<SubTexture name="mesa de foxy y el bimbo pan0001" x="0" y="0" width="957" height="754" frameX="0" frameY="-13" frameWidth="957" frameHeight="767"/>
+	<SubTexture name="mesa de foxy y el bimbo pan0002" x="957" y="0" width="957" height="764" frameX="0" frameY="-3" frameWidth="957" frameHeight="767"/>
+	<SubTexture name="mesa de foxy y el bimbo pan0003" x="957" y="0" width="957" height="764" frameX="0" frameY="-3" frameWidth="957" frameHeight="767"/>
+	<SubTexture name="mesa de foxy y el bimbo pan0004" x="0" y="764" width="957" height="767"/>
+	<SubTexture name="mesa de foxy y el bimbo pan0005" x="0" y="764" width="957" height="767"/>
+	<SubTexture name="mesa de foxy y el bimbo pan0006" x="0" y="764" width="957" height="767"/>
+	<SubTexture name="mesa de foxy y el bimbo pan0007" x="0" y="764" width="957" height="767"/>
+	<SubTexture name="mesa de foxy y el bimbo pan0008" x="0" y="764" width="957" height="767"/>
+	<SubTexture name="mesa de foxy y el bimbo pan0009" x="0" y="764" width="957" height="767"/>
+	<SubTexture name="mesa de foxy y el bimbo pan0010" x="0" y="764" width="957" height="767"/>
+	<SubTexture name="mesa de foxy y el bimbo pan0011" x="0" y="764" width="957" height="767"/>
+	<SubTexture name="mesa de foxy y el bimbo pan0012" x="0" y="764" width="957" height="767"/>
+	<SubTexture name="mesa de foxy y el bimbo pan0013" x="0" y="764" width="957" height="767"/>
+	<SubTexture name="mesa de foxy y el bimbo pan0014" x="0" y="764" width="957" height="767"/>
+</TextureAtlas>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Toony Mickey.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Toony Pasta Mouse Attack0000" x="0" y="0" width="887" height="884" frameX="0" frameY="-20" frameWidth="1608" frameHeight="904"/>
+	<SubTexture name="Toony Pasta Mouse Attack0001" x="0" y="0" width="887" height="884" frameX="0" frameY="-20" frameWidth="1608" frameHeight="904"/>
+	<SubTexture name="Toony Pasta Mouse Attack0002" x="887" y="0" width="887" height="898" frameX="0" frameY="-6" frameWidth="1608" frameHeight="904"/>
+	<SubTexture name="Toony Pasta Mouse Attack0003" x="1774" y="0" width="887" height="898" frameX="0" frameY="-6" frameWidth="1608" frameHeight="904"/>
+	<SubTexture name="Toony Pasta Mouse Attack0004" x="2661" y="0" width="887" height="901" frameX="0" frameY="-3" frameWidth="1608" frameHeight="904"/>
+	<SubTexture name="Toony Pasta Mouse Attack0005" x="2661" y="0" width="887" height="901" frameX="0" frameY="-3" frameWidth="1608" frameHeight="904"/>
+	<SubTexture name="Toony Pasta Mouse Attack0006" x="3548" y="0" width="887" height="903" frameX="0" frameY="-1" frameWidth="1608" frameHeight="904"/>
+	<SubTexture name="Toony Pasta Mouse Attack0007" x="3548" y="0" width="887" height="903" frameX="0" frameY="-1" frameWidth="1608" frameHeight="904"/>
+	<SubTexture name="Toony Pasta Mouse Attack0008" x="4435" y="0" width="1168" height="901" frameX="0" frameY="-3" frameWidth="1608" frameHeight="904"/>
+	<SubTexture name="Toony Pasta Mouse Attack0009" x="5603" y="0" width="1608" height="901" frameX="0" frameY="-3" frameWidth="1608" frameHeight="904"/>
+	<SubTexture name="Toony Pasta Mouse Attack0010" x="7211" y="0" width="887" height="903" frameX="0" frameY="-1" frameWidth="1608" frameHeight="904"/>
+	<SubTexture name="Toony Pasta Mouse Attack0011" x="7211" y="0" width="887" height="903" frameX="0" frameY="-1" frameWidth="1608" frameHeight="904"/>
+	<SubTexture name="Toony Pasta Mouse Attack0012" x="0" y="903" width="887" height="904" frameX="0" frameY="0" frameWidth="1608" frameHeight="904"/>
+	<SubTexture name="Toony Pasta Mouse Attack0013" x="0" y="903" width="887" height="904" frameX="0" frameY="0" frameWidth="1608" frameHeight="904"/>
+	<SubTexture name="Toony Pasta Mouse Attack0014" x="0" y="903" width="887" height="904" frameX="0" frameY="0" frameWidth="1608" frameHeight="904"/>
+	<SubTexture name="Toony Pasta Mouse Attack0015" x="0" y="903" width="887" height="904" frameX="0" frameY="0" frameWidth="1608" frameHeight="904"/>
+	<SubTexture name="Toony Pasta Mouse Attack0016" x="0" y="903" width="887" height="904" frameX="0" frameY="0" frameWidth="1608" frameHeight="904"/>
+	<SubTexture name="Toony Pasta Mouse Attack0017" x="0" y="903" width="887" height="904" frameX="0" frameY="0" frameWidth="1608" frameHeight="904"/>
+	<SubTexture name="Toony Pasta Mouse Dodge0000" x="887" y="903" width="887" height="936" frameX="-6" frameY="-3" frameWidth="893" frameHeight="939"/>
+	<SubTexture name="Toony Pasta Mouse Dodge0001" x="1774" y="903" width="887" height="936" frameX="-6" frameY="-3" frameWidth="893" frameHeight="939"/>
+	<SubTexture name="Toony Pasta Mouse Dodge0002" x="2661" y="903" width="893" height="939"/>
+	<SubTexture name="Toony Pasta Mouse Dodge0003" x="2661" y="903" width="893" height="939"/>
+	<SubTexture name="Toony Pasta Mouse Dodge0004" x="2661" y="903" width="893" height="939"/>
+	<SubTexture name="Toony Pasta Mouse Dodge0005" x="2661" y="903" width="893" height="939"/>
+	<SubTexture name="Toony Pasta Mouse Dodge0006" x="2661" y="903" width="893" height="939"/>
+	<SubTexture name="Toony Pasta Mouse Dodge0007" x="2661" y="903" width="893" height="939"/>
+	<SubTexture name="Toony Pasta Mouse Dodge0008" x="2661" y="903" width="893" height="939"/>
+	<SubTexture name="Toony Pasta Mouse Dodge0009" x="2661" y="903" width="893" height="939"/>
+	<SubTexture name="Toony Pasta Mouse Dodge0010" x="2661" y="903" width="893" height="939"/>
+	<SubTexture name="Toony Pasta Mouse Dodge0011" x="2661" y="903" width="893" height="939"/>
+	<SubTexture name="Toony Pasta Mouse Dodge0012" x="2661" y="903" width="893" height="939"/>
+	<SubTexture name="Toony Pasta Mouse Dodge0013" x="2661" y="903" width="893" height="939"/>
+	<SubTexture name="Toony Pasta Mouse Dodge0014" x="2661" y="903" width="893" height="939"/>
+	<SubTexture name="Toony Pasta Mouse Dodge0015" x="2661" y="903" width="893" height="939"/>
+	<SubTexture name="Toony Pasta Mouse Dodge0016" x="2661" y="903" width="893" height="939"/>
+	<SubTexture name="Toony Pasta Mouse Dodge0017" x="2661" y="903" width="893" height="939"/>
+	<SubTexture name="Toony Pasta Mouse Dodge0018" x="2661" y="903" width="893" height="939"/>
+	<SubTexture name="Toony Pasta Mouse Dodge0019" x="2661" y="903" width="893" height="939"/>
+	<SubTexture name="Toony Pasta Mouse Down0000" x="3554" y="903" width="887" height="877" frameX="0" frameY="-14" frameWidth="887" frameHeight="891"/>
+	<SubTexture name="Toony Pasta Mouse Down0001" x="3554" y="903" width="887" height="877" frameX="0" frameY="-14" frameWidth="887" frameHeight="891"/>
+	<SubTexture name="Toony Pasta Mouse Down0002" x="4441" y="903" width="887" height="855" frameX="0" frameY="-36" frameWidth="887" frameHeight="891"/>
+	<SubTexture name="Toony Pasta Mouse Down0003" x="4441" y="903" width="887" height="855" frameX="0" frameY="-36" frameWidth="887" frameHeight="891"/>
+	<SubTexture name="Toony Pasta Mouse Down0004" x="5328" y="903" width="887" height="853" frameX="0" frameY="-38" frameWidth="887" frameHeight="891"/>
+	<SubTexture name="Toony Pasta Mouse Down0005" x="5328" y="903" width="887" height="853" frameX="0" frameY="-38" frameWidth="887" frameHeight="891"/>
+	<SubTexture name="Toony Pasta Mouse Down0006" x="6215" y="903" width="887" height="855" frameX="0" frameY="-36" frameWidth="887" frameHeight="891"/>
+	<SubTexture name="Toony Pasta Mouse Down0007" x="6215" y="903" width="887" height="855" frameX="0" frameY="-36" frameWidth="887" frameHeight="891"/>
+	<SubTexture name="Toony Pasta Mouse Down0008" x="7102" y="903" width="887" height="891"/>
+	<SubTexture name="Toony Pasta Mouse Idle0000" x="0" y="1842" width="887" height="936" frameX="0" frameY="-6" frameWidth="887" frameHeight="942"/>
+	<SubTexture name="Toony Pasta Mouse Idle0001" x="0" y="1842" width="887" height="936" frameX="0" frameY="-6" frameWidth="887" frameHeight="942"/>
+	<SubTexture name="Toony Pasta Mouse Idle0002" x="887" y="1842" width="887" height="930" frameX="0" frameY="-12" frameWidth="887" frameHeight="942"/>
+	<SubTexture name="Toony Pasta Mouse Idle0003" x="887" y="1842" width="887" height="930" frameX="0" frameY="-12" frameWidth="887" frameHeight="942"/>
+	<SubTexture name="Toony Pasta Mouse Idle0004" x="1774" y="1842" width="887" height="921" frameX="0" frameY="-21" frameWidth="887" frameHeight="942"/>
+	<SubTexture name="Toony Pasta Mouse Idle0005" x="1774" y="1842" width="887" height="921" frameX="0" frameY="-21" frameWidth="887" frameHeight="942"/>
+	<SubTexture name="Toony Pasta Mouse Idle0006" x="2661" y="1842" width="887" height="921" frameX="0" frameY="-21" frameWidth="887" frameHeight="942"/>
+	<SubTexture name="Toony Pasta Mouse Idle0007" x="2661" y="1842" width="887" height="921" frameX="0" frameY="-21" frameWidth="887" frameHeight="942"/>
+	<SubTexture name="Toony Pasta Mouse Idle0008" x="3548" y="1842" width="887" height="938" frameX="0" frameY="-4" frameWidth="887" frameHeight="942"/>
+	<SubTexture name="Toony Pasta Mouse Idle0009" x="3548" y="1842" width="887" height="938" frameX="0" frameY="-4" frameWidth="887" frameHeight="942"/>
+	<SubTexture name="Toony Pasta Mouse Idle0010" x="4435" y="1842" width="887" height="942"/>
+	<SubTexture name="Toony Pasta Mouse Idle0011" x="4435" y="1842" width="887" height="942"/>
+	<SubTexture name="Toony Pasta Mouse Idle0012" x="5322" y="1842" width="887" height="941" frameX="0" frameY="-1" frameWidth="887" frameHeight="942"/>
+	<SubTexture name="Toony Pasta Mouse Idle0013" x="5322" y="1842" width="887" height="941" frameX="0" frameY="-1" frameWidth="887" frameHeight="942"/>
+	<SubTexture name="Toony Pasta Mouse Left0000" x="6209" y="1842" width="978" height="926" frameX="-62" frameY="-25" frameWidth="1040" frameHeight="951"/>
+	<SubTexture name="Toony Pasta Mouse Left0001" x="6209" y="1842" width="978" height="926" frameX="-62" frameY="-25" frameWidth="1040" frameHeight="951"/>
+	<SubTexture name="Toony Pasta Mouse Left0002" x="0" y="2784" width="1034" height="936" frameX="-6" frameY="-15" frameWidth="1040" frameHeight="951"/>
+	<SubTexture name="Toony Pasta Mouse Left0003" x="0" y="2784" width="1034" height="936" frameX="-6" frameY="-15" frameWidth="1040" frameHeight="951"/>
+	<SubTexture name="Toony Pasta Mouse Left0004" x="1034" y="2784" width="1040" height="938" frameX="0" frameY="-13" frameWidth="1040" frameHeight="951"/>
+	<SubTexture name="Toony Pasta Mouse Left0005" x="1034" y="2784" width="1040" height="938" frameX="0" frameY="-13" frameWidth="1040" frameHeight="951"/>
+	<SubTexture name="Toony Pasta Mouse Left0006" x="2074" y="2784" width="1039" height="936" frameX="-1" frameY="-15" frameWidth="1040" frameHeight="951"/>
+	<SubTexture name="Toony Pasta Mouse Left0007" x="2074" y="2784" width="1039" height="936" frameX="-1" frameY="-15" frameWidth="1040" frameHeight="951"/>
+	<SubTexture name="Toony Pasta Mouse Left0008" x="3113" y="2784" width="887" height="951" frameX="-153" frameY="0" frameWidth="1040" frameHeight="951"/>
+	<SubTexture name="Toony Pasta Mouse Right0000" x="4000" y="2784" width="887" height="918" frameX="0" frameY="-17" frameWidth="887" frameHeight="935"/>
+	<SubTexture name="Toony Pasta Mouse Right0001" x="4000" y="2784" width="887" height="918" frameX="0" frameY="-17" frameWidth="887" frameHeight="935"/>
+	<SubTexture name="Toony Pasta Mouse Right0002" x="4887" y="2784" width="887" height="930" frameX="0" frameY="-5" frameWidth="887" frameHeight="935"/>
+	<SubTexture name="Toony Pasta Mouse Right0003" x="4887" y="2784" width="887" height="930" frameX="0" frameY="-5" frameWidth="887" frameHeight="935"/>
+	<SubTexture name="Toony Pasta Mouse Right0004" x="5774" y="2784" width="887" height="935"/>
+	<SubTexture name="Toony Pasta Mouse Right0005" x="5774" y="2784" width="887" height="935"/>
+	<SubTexture name="Toony Pasta Mouse Right0006" x="6661" y="2784" width="887" height="931" frameX="0" frameY="-4" frameWidth="887" frameHeight="935"/>
+	<SubTexture name="Toony Pasta Mouse Right0007" x="6661" y="2784" width="887" height="931" frameX="0" frameY="-4" frameWidth="887" frameHeight="935"/>
+	<SubTexture name="Toony Pasta Mouse Right0008" x="0" y="3735" width="887" height="928" frameX="0" frameY="-7" frameWidth="887" frameHeight="935"/>
+	<SubTexture name="Toony Pasta Mouse Up0000" x="887" y="3735" width="887" height="892" frameX="0" frameY="-19" frameWidth="887" frameHeight="911"/>
+	<SubTexture name="Toony Pasta Mouse Up0001" x="887" y="3735" width="887" height="892" frameX="0" frameY="-19" frameWidth="887" frameHeight="911"/>
+	<SubTexture name="Toony Pasta Mouse Up0002" x="1774" y="3735" width="887" height="907" frameX="0" frameY="-4" frameWidth="887" frameHeight="911"/>
+	<SubTexture name="Toony Pasta Mouse Up0003" x="1774" y="3735" width="887" height="907" frameX="0" frameY="-4" frameWidth="887" frameHeight="911"/>
+	<SubTexture name="Toony Pasta Mouse Up0004" x="2661" y="3735" width="887" height="911"/>
+	<SubTexture name="Toony Pasta Mouse Up0005" x="2661" y="3735" width="887" height="911"/>
+	<SubTexture name="Toony Pasta Mouse Up0006" x="3548" y="3735" width="887" height="908" frameX="0" frameY="-3" frameWidth="887" frameHeight="911"/>
+	<SubTexture name="Toony Pasta Mouse Up0007" x="3548" y="3735" width="887" height="908" frameX="0" frameY="-3" frameWidth="887" frameHeight="911"/>
+	<SubTexture name="Toony Pasta Mouse Up0008" x="4435" y="3735" width="887" height="865" frameX="0" frameY="-46" frameWidth="887" frameHeight="911"/>
+</TextureAtlas>

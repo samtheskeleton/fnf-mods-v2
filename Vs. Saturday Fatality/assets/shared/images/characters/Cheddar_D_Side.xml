@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Cheddar D Side.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dripper Down0000" x="0" y="0" width="980" height="1262" frameX="0" frameY="-3" frameWidth="994" frameHeight="1265"/>
+	<SubTexture name="Dripper Down0001" x="0" y="0" width="980" height="1262" frameX="0" frameY="-3" frameWidth="994" frameHeight="1265"/>
+	<SubTexture name="Dripper Down0002" x="980" y="0" width="969" height="1265" frameX="-23" frameY="0" frameWidth="994" frameHeight="1265"/>
+	<SubTexture name="Dripper Down0003" x="980" y="0" width="969" height="1265" frameX="-23" frameY="0" frameWidth="994" frameHeight="1265"/>
+	<SubTexture name="Dripper Down0004" x="1949" y="0" width="970" height="1265" frameX="-24" frameY="0" frameWidth="994" frameHeight="1265"/>
+	<SubTexture name="Dripper Down0005" x="1949" y="0" width="970" height="1265" frameX="-24" frameY="0" frameWidth="994" frameHeight="1265"/>
+	<SubTexture name="Dripper Down0006" x="2919" y="0" width="971" height="1265" frameX="-22" frameY="0" frameWidth="994" frameHeight="1265"/>
+	<SubTexture name="Dripper Down0007" x="2919" y="0" width="971" height="1265" frameX="-22" frameY="0" frameWidth="994" frameHeight="1265"/>
+	<SubTexture name="Dripper Down0008" x="3890" y="0" width="971" height="1265" frameX="-22" frameY="0" frameWidth="994" frameHeight="1265"/>
+	<SubTexture name="Dripper Down0009" x="3890" y="0" width="971" height="1265" frameX="-22" frameY="0" frameWidth="994" frameHeight="1265"/>
+	<SubTexture name="Dripper Down0010" x="3890" y="0" width="971" height="1265" frameX="-22" frameY="0" frameWidth="994" frameHeight="1265"/>
+	<SubTexture name="Dripper Idle0000" x="4861" y="0" width="738" height="1286"/>
+	<SubTexture name="Dripper Idle0001" x="4861" y="0" width="738" height="1286"/>
+	<SubTexture name="Dripper Idle0002" x="5599" y="0" width="696" height="1273" frameX="-36" frameY="-13" frameWidth="738" frameHeight="1286"/>
+	<SubTexture name="Dripper Idle0003" x="5599" y="0" width="696" height="1273" frameX="-36" frameY="-13" frameWidth="738" frameHeight="1286"/>
+	<SubTexture name="Dripper Idle0004" x="6295" y="0" width="691" height="1257" frameX="-40" frameY="-29" frameWidth="738" frameHeight="1286"/>
+	<SubTexture name="Dripper Idle0005" x="6986" y="0" width="690" height="1255" frameX="-40" frameY="-31" frameWidth="738" frameHeight="1286"/>
+	<SubTexture name="Dripper Idle0006" x="0" y="1286" width="702" height="1276" frameX="-28" frameY="-10" frameWidth="738" frameHeight="1286"/>
+	<SubTexture name="Dripper Idle0007" x="0" y="1286" width="702" height="1276" frameX="-28" frameY="-10" frameWidth="738" frameHeight="1286"/>
+	<SubTexture name="Dripper Idle0008" x="702" y="1286" width="705" height="1275" frameX="-25" frameY="-11" frameWidth="738" frameHeight="1286"/>
+	<SubTexture name="Dripper Idle0009" x="702" y="1286" width="705" height="1275" frameX="-25" frameY="-11" frameWidth="738" frameHeight="1286"/>
+	<SubTexture name="Dripper Idle0010" x="1407" y="1286" width="705" height="1276" frameX="-25" frameY="-10" frameWidth="738" frameHeight="1286"/>
+	<SubTexture name="Dripper Idle0011" x="1407" y="1286" width="705" height="1276" frameX="-25" frameY="-10" frameWidth="738" frameHeight="1286"/>
+	<SubTexture name="Dripper Idle0012" x="2112" y="1286" width="705" height="1276" frameX="-25" frameY="-10" frameWidth="738" frameHeight="1286"/>
+	<SubTexture name="Dripper Idle0013" x="2817" y="1286" width="705" height="1276" frameX="-25" frameY="-10" frameWidth="738" frameHeight="1286"/>
+	<SubTexture name="Dripper Idle0014" x="2817" y="1286" width="705" height="1276" frameX="-25" frameY="-10" frameWidth="738" frameHeight="1286"/>
+	<SubTexture name="Dripper Idle0015" x="2817" y="1286" width="705" height="1276" frameX="-25" frameY="-10" frameWidth="738" frameHeight="1286"/>
+	<SubTexture name="Dripper Idle0016" x="2817" y="1286" width="705" height="1276" frameX="-25" frameY="-10" frameWidth="738" frameHeight="1286"/>
+	<SubTexture name="Dripper Left0000" x="3522" y="1286" width="777" height="1200" frameX="0" frameY="-17" frameWidth="777" frameHeight="1217"/>
+	<SubTexture name="Dripper Left0001" x="3522" y="1286" width="777" height="1200" frameX="0" frameY="-17" frameWidth="777" frameHeight="1217"/>
+	<SubTexture name="Dripper Left0002" x="4299" y="1286" width="759" height="1213" frameX="-10" frameY="-4" frameWidth="777" frameHeight="1217"/>
+	<SubTexture name="Dripper Left0003" x="4299" y="1286" width="759" height="1213" frameX="-10" frameY="-4" frameWidth="777" frameHeight="1217"/>
+	<SubTexture name="Dripper Left0004" x="5058" y="1286" width="755" height="1217" frameX="-12" frameY="0" frameWidth="777" frameHeight="1217"/>
+	<SubTexture name="Dripper Left0005" x="5058" y="1286" width="755" height="1217" frameX="-12" frameY="0" frameWidth="777" frameHeight="1217"/>
+	<SubTexture name="Dripper Left0006" x="5813" y="1286" width="753" height="1212" frameX="-13" frameY="-5" frameWidth="777" frameHeight="1217"/>
+	<SubTexture name="Dripper Left0007" x="5813" y="1286" width="753" height="1212" frameX="-13" frameY="-5" frameWidth="777" frameHeight="1217"/>
+	<SubTexture name="Dripper Left0008" x="6566" y="1286" width="750" height="1212" frameX="-13" frameY="-5" frameWidth="777" frameHeight="1217"/>
+	<SubTexture name="Dripper Left0009" x="6566" y="1286" width="750" height="1212" frameX="-13" frameY="-5" frameWidth="777" frameHeight="1217"/>
+	<SubTexture name="Dripper Left0010" x="6566" y="1286" width="750" height="1212" frameX="-13" frameY="-5" frameWidth="777" frameHeight="1217"/>
+	<SubTexture name="Dripper Right0000" x="7316" y="1286" width="840" height="1269" frameX="0" frameY="-20" frameWidth="840" frameHeight="1289"/>
+	<SubTexture name="Dripper Right0001" x="7316" y="1286" width="840" height="1269" frameX="0" frameY="-20" frameWidth="840" frameHeight="1289"/>
+	<SubTexture name="Dripper Right0002" x="0" y="2562" width="835" height="1289" frameX="-1" frameY="0" frameWidth="840" frameHeight="1289"/>
+	<SubTexture name="Dripper Right0003" x="0" y="2562" width="835" height="1289" frameX="-1" frameY="0" frameWidth="840" frameHeight="1289"/>
+	<SubTexture name="Dripper Right0004" x="835" y="2562" width="839" height="1289" frameX="-1" frameY="0" frameWidth="840" frameHeight="1289"/>
+	<SubTexture name="Dripper Right0005" x="835" y="2562" width="839" height="1289" frameX="-1" frameY="0" frameWidth="840" frameHeight="1289"/>
+	<SubTexture name="Dripper Right0006" x="1674" y="2562" width="836" height="1289" frameX="-1" frameY="0" frameWidth="840" frameHeight="1289"/>
+	<SubTexture name="Dripper Right0007" x="1674" y="2562" width="836" height="1289" frameX="-1" frameY="0" frameWidth="840" frameHeight="1289"/>
+	<SubTexture name="Dripper Right0008" x="2510" y="2562" width="836" height="1289" frameX="-1" frameY="0" frameWidth="840" frameHeight="1289"/>
+	<SubTexture name="Dripper Right0009" x="2510" y="2562" width="836" height="1289" frameX="-1" frameY="0" frameWidth="840" frameHeight="1289"/>
+	<SubTexture name="Dripper Right0010" x="2510" y="2562" width="836" height="1289" frameX="-1" frameY="0" frameWidth="840" frameHeight="1289"/>
+	<SubTexture name="Dripper Up0000" x="3346" y="2562" width="735" height="1395" frameX="-20" frameY="-2" frameWidth="755" frameHeight="1397"/>
+	<SubTexture name="Dripper Up0001" x="3346" y="2562" width="735" height="1395" frameX="-20" frameY="-2" frameWidth="755" frameHeight="1397"/>
+	<SubTexture name="Dripper Up0002" x="4081" y="2562" width="751" height="1397" frameX="-2" frameY="0" frameWidth="755" frameHeight="1397"/>
+	<SubTexture name="Dripper Up0003" x="4081" y="2562" width="751" height="1397" frameX="-2" frameY="0" frameWidth="755" frameHeight="1397"/>
+	<SubTexture name="Dripper Up0004" x="4832" y="2562" width="753" height="1395" frameX="0" frameY="-2" frameWidth="755" frameHeight="1397"/>
+	<SubTexture name="Dripper Up0005" x="4832" y="2562" width="753" height="1395" frameX="0" frameY="-2" frameWidth="755" frameHeight="1397"/>
+	<SubTexture name="Dripper Up0006" x="5585" y="2562" width="749" height="1397" frameX="-4" frameY="0" frameWidth="755" frameHeight="1397"/>
+	<SubTexture name="Dripper Up0007" x="5585" y="2562" width="749" height="1397" frameX="-4" frameY="0" frameWidth="755" frameHeight="1397"/>
+	<SubTexture name="Dripper Up0008" x="6334" y="2562" width="749" height="1397" frameX="-4" frameY="0" frameWidth="755" frameHeight="1397"/>
+	<SubTexture name="Dripper Up0009" x="6334" y="2562" width="749" height="1397" frameX="-4" frameY="0" frameWidth="755" frameHeight="1397"/>
+	<SubTexture name="Dripper Up0010" x="6334" y="2562" width="749" height="1397" frameX="-4" frameY="0" frameWidth="755" frameHeight="1397"/>
+</TextureAtlas>

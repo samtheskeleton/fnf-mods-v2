@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Yakko Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				27
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Yakko Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				262,
+				-14
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Yakko Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				-7
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Yakko Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-150
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Yakko Down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sad_Yakko",
+	"position": [
+		60,
+		500
+	],
+	"healthicon": "yakko",
+	"flip_x": false,
+	"healthbar_colors": [
+		83,
+		85,
+		82
+	],
+	"camera_position": [
+		-10,
+		-37
+	],
+	"sing_duration": 4,
+	"scale": 1.48
+}

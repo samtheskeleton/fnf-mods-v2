@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"r4ge-qu1t",
+			"icon-buxdoodle",
+			[
+				238,
+				111,
+				61
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "buck",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		238,
+		111,
+		61
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

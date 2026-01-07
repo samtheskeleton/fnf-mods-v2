@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Mesa de Bugs Bunny viejo.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Mesa Bugs Bunny viejo choto0000" x="0" y="0" width="902" height="710"/>
+	<SubTexture name="Mesa Bugs Bunny viejo choto0001" x="902" y="0" width="902" height="703" frameX="0" frameY="-7" frameWidth="902" frameHeight="710"/>
+	<SubTexture name="Mesa Bugs Bunny viejo choto0002" x="0" y="710" width="902" height="710"/>
+</TextureAtlas>

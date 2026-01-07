@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Mesa Yakko.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mesa Yakkobich0000" x="0" y="0" width="549" height="528" frameX="0" frameY="-7" frameWidth="549" frameHeight="535"/>
+	<SubTexture name="mesa Yakkobich0001" x="0" y="0" width="549" height="528" frameX="0" frameY="-7" frameWidth="549" frameHeight="535"/>
+	<SubTexture name="mesa Yakkobich0002" x="549" y="0" width="549" height="534" frameX="0" frameY="-1" frameWidth="549" frameHeight="535"/>
+	<SubTexture name="mesa Yakkobich0003" x="549" y="0" width="549" height="534" frameX="0" frameY="-1" frameWidth="549" frameHeight="535"/>
+	<SubTexture name="mesa Yakkobich0004" x="1098" y="0" width="549" height="535"/>
+	<SubTexture name="mesa Yakkobich0005" x="1098" y="0" width="549" height="535"/>
+	<SubTexture name="mesa Yakkobich0006" x="1098" y="0" width="549" height="535"/>
+	<SubTexture name="mesa Yakkobich0007" x="1098" y="0" width="549" height="535"/>
+	<SubTexture name="mesa Yakkobich0008" x="1098" y="0" width="549" height="535"/>
+	<SubTexture name="mesa Yakkobich0009" x="1098" y="0" width="549" height="535"/>
+	<SubTexture name="mesa Yakkobich0010" x="1098" y="0" width="549" height="535"/>
+	<SubTexture name="mesa Yakkobich0011" x="1098" y="0" width="549" height="535"/>
+	<SubTexture name="mesa Yakkobich0012" x="1098" y="0" width="549" height="535"/>
+</TextureAtlas>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tom.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="IDLETOM0000" x="0" y="0" width="594" height="803" frameX="0" frameY="-26" frameWidth="594" frameHeight="829"/>
+	<SubTexture name="IDLETOM0001" x="0" y="0" width="594" height="803" frameX="0" frameY="-26" frameWidth="594" frameHeight="829"/>
+	<SubTexture name="IDLETOM0002" x="599" y="0" width="587" height="805" frameX="-5" frameY="-24" frameWidth="594" frameHeight="829"/>
+	<SubTexture name="IDLETOM0003" x="599" y="0" width="587" height="805" frameX="-5" frameY="-24" frameWidth="594" frameHeight="829"/>
+	<SubTexture name="IDLETOM0004" x="1191" y="0" width="581" height="809" frameX="-9" frameY="-20" frameWidth="594" frameHeight="829"/>
+	<SubTexture name="IDLETOM0005" x="1191" y="0" width="581" height="809" frameX="-9" frameY="-20" frameWidth="594" frameHeight="829"/>
+	<SubTexture name="IDLETOM0006" x="1777" y="0" width="574" height="828" frameX="-9" frameY="-1" frameWidth="594" frameHeight="829"/>
+	<SubTexture name="IDLETOM0007" x="1777" y="0" width="574" height="828" frameX="-9" frameY="-1" frameWidth="594" frameHeight="829"/>
+	<SubTexture name="IDLETOM0008" x="2356" y="0" width="572" height="829" frameX="-9" frameY="0" frameWidth="594" frameHeight="829"/>
+	<SubTexture name="IDLETOM0009" x="2356" y="0" width="572" height="829" frameX="-9" frameY="0" frameWidth="594" frameHeight="829"/>
+	<SubTexture name="IDLETOM0010" x="2356" y="0" width="572" height="829" frameX="-9" frameY="0" frameWidth="594" frameHeight="829"/>
+	<SubTexture name="IDLETOM0011" x="2356" y="0" width="572" height="829" frameX="-9" frameY="0" frameWidth="594" frameHeight="829"/>
+	<SubTexture name="IDLETOM0012" x="2356" y="0" width="572" height="829" frameX="-9" frameY="0" frameWidth="594" frameHeight="829"/>
+	<SubTexture name="IDLETOM0013" x="2356" y="0" width="572" height="829" frameX="-9" frameY="0" frameWidth="594" frameHeight="829"/>
+	<SubTexture name="TDOWN0000" x="2933" y="0" width="664" height="771" frameX="-3" frameY="-11" frameWidth="667" frameHeight="782"/>
+	<SubTexture name="TDOWN0001" x="2933" y="0" width="664" height="771" frameX="-3" frameY="-11" frameWidth="667" frameHeight="782"/>
+	<SubTexture name="TDOWN0002" x="0" y="834" width="666" height="782" frameX="0" frameY="0" frameWidth="667" frameHeight="782"/>
+	<SubTexture name="TDOWN0003" x="0" y="834" width="666" height="782" frameX="0" frameY="0" frameWidth="667" frameHeight="782"/>
+	<SubTexture name="TDOWN0004" x="0" y="834" width="666" height="782" frameX="0" frameY="0" frameWidth="667" frameHeight="782"/>
+	<SubTexture name="TDOWN0005" x="0" y="834" width="666" height="782" frameX="0" frameY="0" frameWidth="667" frameHeight="782"/>
+	<SubTexture name="TLEFT0000" x="671" y="834" width="514" height="805" frameX="0" frameY="-18" frameWidth="540" frameHeight="823"/>
+	<SubTexture name="TLEFT0001" x="671" y="834" width="514" height="805" frameX="0" frameY="-18" frameWidth="540" frameHeight="823"/>
+	<SubTexture name="TLEFT0002" x="1190" y="834" width="532" height="823" frameX="-8" frameY="0" frameWidth="540" frameHeight="823"/>
+	<SubTexture name="TLEFT0003" x="1190" y="834" width="532" height="823" frameX="-8" frameY="0" frameWidth="540" frameHeight="823"/>
+	<SubTexture name="TLEFT0004" x="1190" y="834" width="532" height="823" frameX="-8" frameY="0" frameWidth="540" frameHeight="823"/>
+	<SubTexture name="TLEFT0005" x="1190" y="834" width="532" height="823" frameX="-8" frameY="0" frameWidth="540" frameHeight="823"/>
+	<SubTexture name="TRIGHT0000" x="1727" y="834" width="711" height="765" frameX="-6" frameY="-10" frameWidth="717" frameHeight="775"/>
+	<SubTexture name="TRIGHT0001" x="1727" y="834" width="711" height="765" frameX="-6" frameY="-10" frameWidth="717" frameHeight="775"/>
+	<SubTexture name="TRIGHT0002" x="2443" y="834" width="699" height="775" frameX="0" frameY="0" frameWidth="717" frameHeight="775"/>
+	<SubTexture name="TRIGHT0003" x="2443" y="834" width="699" height="775" frameX="0" frameY="0" frameWidth="717" frameHeight="775"/>
+	<SubTexture name="TRIGHT0004" x="2443" y="834" width="699" height="775" frameX="0" frameY="0" frameWidth="717" frameHeight="775"/>
+	<SubTexture name="TRIGHT0005" x="2443" y="834" width="699" height="775" frameX="0" frameY="0" frameWidth="717" frameHeight="775"/>
+	<SubTexture name="TUP0000" x="3147" y="834" width="548" height="858" frameX="0" frameY="0" frameWidth="556" frameHeight="858"/>
+	<SubTexture name="TUP0001" x="3147" y="834" width="548" height="858" frameX="0" frameY="0" frameWidth="556" frameHeight="858"/>
+	<SubTexture name="TUP0002" x="0" y="1697" width="556" height="847" frameX="0" frameY="-11" frameWidth="556" frameHeight="858"/>
+	<SubTexture name="TUP0003" x="0" y="1697" width="556" height="847" frameX="0" frameY="-11" frameWidth="556" frameHeight="858"/>
+	<SubTexture name="TUP0004" x="0" y="1697" width="556" height="847" frameX="0" frameY="-11" frameWidth="556" frameHeight="858"/>
+	<SubTexture name="TUP0005" x="0" y="1697" width="556" height="847" frameX="0" frameY="-11" frameWidth="556" frameHeight="858"/>
+</TextureAtlas>

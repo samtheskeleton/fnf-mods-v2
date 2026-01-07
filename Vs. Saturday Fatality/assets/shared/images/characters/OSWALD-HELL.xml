@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="OSWALD-HELL.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="oswal down0000" x="0" y="0" width="1003" height="620" frameX="-5" frameY="-59" frameWidth="1016" frameHeight="684"/>
+	<SubTexture name="oswal down0001" x="1003" y="0" width="1008" height="619" frameX="-5" frameY="-64" frameWidth="1016" frameHeight="684"/>
+	<SubTexture name="oswal down0002" x="2011" y="0" width="1006" height="635" frameX="-6" frameY="-46" frameWidth="1016" frameHeight="684"/>
+	<SubTexture name="oswal down0003" x="3017" y="0" width="1010" height="630" frameX="-6" frameY="-50" frameWidth="1016" frameHeight="684"/>
+	<SubTexture name="oswal down0004" x="4027" y="0" width="1002" height="637" frameX="-6" frameY="-47" frameWidth="1016" frameHeight="684"/>
+	<SubTexture name="oswal down0005" x="5029" y="0" width="1007" height="634" frameX="-6" frameY="-47" frameWidth="1016" frameHeight="684"/>
+	<SubTexture name="oswal down0006" x="6036" y="0" width="1001" height="639" frameX="-7" frameY="-41" frameWidth="1016" frameHeight="684"/>
+	<SubTexture name="oswal down0007" x="7037" y="0" width="1005" height="642" frameX="-7" frameY="-41" frameWidth="1016" frameHeight="684"/>
+	<SubTexture name="oswal down0008" x="0" y="642" width="1001" height="618" frameX="0" frameY="-55" frameWidth="1016" frameHeight="684"/>
+	<SubTexture name="oswal down0009" x="1001" y="642" width="1005" height="623" frameX="0" frameY="-50" frameWidth="1016" frameHeight="684"/>
+	<SubTexture name="oswal idle0000" x="2006" y="642" width="1003" height="692" frameX="-7" frameY="-73" frameWidth="1015" frameHeight="782"/>
+	<SubTexture name="oswal idle0001" x="3009" y="642" width="1008" height="696" frameX="-7" frameY="-69" frameWidth="1015" frameHeight="782"/>
+	<SubTexture name="oswal idle0002" x="4017" y="642" width="1000" height="696" frameX="-6" frameY="-69" frameWidth="1015" frameHeight="782"/>
+	<SubTexture name="oswal idle0003" x="5017" y="642" width="1005" height="701" frameX="-6" frameY="-64" frameWidth="1015" frameHeight="782"/>
+	<SubTexture name="oswal idle0004" x="6022" y="642" width="976" height="706" frameX="-5" frameY="-60" frameWidth="1015" frameHeight="782"/>
+	<SubTexture name="oswal idle0005" x="6998" y="642" width="980" height="716" frameX="-5" frameY="-55" frameWidth="1015" frameHeight="782"/>
+	<SubTexture name="oswal idle0006" x="0" y="1358" width="977" height="707" frameX="0" frameY="-62" frameWidth="1015" frameHeight="782"/>
+	<SubTexture name="oswal idle0007" x="977" y="1358" width="981" height="719" frameX="0" frameY="-57" frameWidth="1015" frameHeight="782"/>
+	<SubTexture name="oswal idle0008" x="1958" y="1358" width="975" height="705" frameX="-5" frameY="-62" frameWidth="1015" frameHeight="782"/>
+	<SubTexture name="oswal idle0009" x="2933" y="1358" width="978" height="715" frameX="-5" frameY="-57" frameWidth="1015" frameHeight="782"/>
+	<SubTexture name="oswal idle0010" x="3911" y="1358" width="969" height="716" frameX="-4" frameY="-60" frameWidth="1015" frameHeight="782"/>
+	<SubTexture name="oswal idle0011" x="4880" y="1358" width="971" height="720" frameX="-5" frameY="-62" frameWidth="1015" frameHeight="782"/>
+	<SubTexture name="oswal idle0012" x="5851" y="1358" width="969" height="717" frameX="-5" frameY="-57" frameWidth="1015" frameHeight="782"/>
+	<SubTexture name="oswal idle0013" x="6820" y="1358" width="974" height="720" frameX="-4" frameY="-60" frameWidth="1015" frameHeight="782"/>
+	<SubTexture name="oswal idle0014" x="0" y="2078" width="972" height="713" frameX="-5" frameY="-62" frameWidth="1015" frameHeight="782"/>
+	<SubTexture name="oswal idle0015" x="5851" y="1358" width="969" height="717" frameX="-5" frameY="-57" frameWidth="1015" frameHeight="782"/>
+	<SubTexture name="oswal idle0016" x="6820" y="1358" width="974" height="720" frameX="-4" frameY="-60" frameWidth="1015" frameHeight="782"/>
+	<SubTexture name="oswal idle0017" x="0" y="2078" width="972" height="713" frameX="-5" frameY="-62" frameWidth="1015" frameHeight="782"/>
+	<SubTexture name="oswal lanzando granada q epico0000" x="972" y="2078" width="1003" height="564" frameX="-48" frameY="-268" frameWidth="1620" frameHeight="840"/>
+	<SubTexture name="oswal lanzando granada q epico0001" x="1975" y="2078" width="1008" height="564" frameX="-48" frameY="-268" frameWidth="1620" frameHeight="840"/>
+	<SubTexture name="oswal lanzando granada q epico0002" x="2983" y="2078" width="1006" height="564" frameX="-48" frameY="-268" frameWidth="1620" frameHeight="840"/>
+	<SubTexture name="oswal lanzando granada q epico0003" x="3989" y="2078" width="1003" height="564" frameX="-48" frameY="-268" frameWidth="1620" frameHeight="840"/>
+	<SubTexture name="oswal lanzando granada q epico0004" x="4992" y="2078" width="1008" height="564" frameX="-48" frameY="-268" frameWidth="1620" frameHeight="840"/>
+	<SubTexture name="oswal lanzando granada q epico0005" x="6000" y="2078" width="933" height="836" frameX="0" frameY="-2" frameWidth="1620" frameHeight="840"/>
+	<SubTexture name="oswal lanzando granada q epico0006" x="6933" y="2078" width="934" height="836" frameX="-4" frameY="-2" frameWidth="1620" frameHeight="840"/>
+	<SubTexture name="oswal lanzando granada q epico0007" x="0" y="2914" width="923" height="836" frameX="-5" frameY="-2" frameWidth="1620" frameHeight="840"/>
+	<SubTexture name="oswal lanzando granada q epico0008" x="923" y="2914" width="928" height="836" frameX="-5" frameY="-2" frameWidth="1620" frameHeight="840"/>
+	<SubTexture name="oswal lanzando granada q epico0009" x="1851" y="2914" width="915" height="837" frameX="-6" frameY="-1" frameWidth="1620" frameHeight="840"/>
+	<SubTexture name="oswal lanzando granada q epico0010" x="2766" y="2914" width="916" height="834" frameX="-10" frameY="-4" frameWidth="1620" frameHeight="840"/>
+	<SubTexture name="oswal lanzando granada q epico0011" x="3682" y="2914" width="919" height="836" frameX="-5" frameY="-2" frameWidth="1620" frameHeight="840"/>
+	<SubTexture name="oswal lanzando granada q epico0012" x="1851" y="2914" width="915" height="837" frameX="-6" frameY="-1" frameWidth="1620" frameHeight="840"/>
+	<SubTexture name="oswal lanzando granada q epico0013" x="2766" y="2914" width="916" height="834" frameX="-10" frameY="-4" frameWidth="1620" frameHeight="840"/>
+	<SubTexture name="oswal lanzando granada q epico0014" x="3682" y="2914" width="919" height="836" frameX="-5" frameY="-2" frameWidth="1620" frameHeight="840"/>
+	<SubTexture name="oswal lanzando granada q epico0015" x="1851" y="2914" width="915" height="837" frameX="-6" frameY="-1" frameWidth="1620" frameHeight="840"/>
+	<SubTexture name="oswal lanzando granada q epico0016" x="2766" y="2914" width="916" height="834" frameX="-10" frameY="-4" frameWidth="1620" frameHeight="840"/>
+	<SubTexture name="oswal lanzando granada q epico0017" x="3682" y="2914" width="919" height="836" frameX="-5" frameY="-2" frameWidth="1620" frameHeight="840"/>
+	<SubTexture name="oswal lanzando granada q epico0018" x="1851" y="2914" width="915" height="837" frameX="-6" frameY="-1" frameWidth="1620" frameHeight="840"/>
+	<SubTexture name="oswal lanzando granada q epico0019" x="2766" y="2914" width="916" height="834" frameX="-10" frameY="-4" frameWidth="1620" frameHeight="840"/>
+	<SubTexture name="oswal lanzando granada q epico0020" x="3682" y="2914" width="919" height="836" frameX="-5" frameY="-2" frameWidth="1620" frameHeight="840"/>
+	<SubTexture name="oswal lanzando granada q epico0021" x="1851" y="2914" width="915" height="837" frameX="-6" frameY="-1" frameWidth="1620" frameHeight="840"/>
+	<SubTexture name="oswal lanzando granada q epico0022" x="4601" y="2914" width="819" height="715" frameX="-44" frameY="-119" frameWidth="1620" frameHeight="840"/>
+	<SubTexture name="oswal lanzando granada q epico0023" x="5420" y="2914" width="1572" height="817" frameX="-48" frameY="-15" frameWidth="1620" frameHeight="840"/>
+	<SubTexture name="oswal lanzando granada q epico0024" x="0" y="3751" width="1573" height="817" frameX="-47" frameY="-15" frameWidth="1620" frameHeight="840"/>
+	<SubTexture name="oswal lanzando granada q epico0025" x="1573" y="3751" width="1572" height="831" frameX="-48" frameY="-1" frameWidth="1620" frameHeight="840"/>
+	<SubTexture name="oswal lanzando granada q epico0026" x="3145" y="3751" width="1572" height="831" frameX="-48" frameY="-1" frameWidth="1620" frameHeight="840"/>
+	<SubTexture name="oswal lanzando granada q epico0027" x="4717" y="3751" width="976" height="831" frameX="-49" frameY="-1" frameWidth="1620" frameHeight="840"/>
+	<SubTexture name="oswal lanzando granada q epico0028" x="5693" y="3751" width="982" height="831" frameX="-49" frameY="-1" frameWidth="1620" frameHeight="840"/>
+	<SubTexture name="oswal lanzando granada q epico0029" x="6675" y="3751" width="980" height="829" frameX="-48" frameY="-3" frameWidth="1620" frameHeight="840"/>
+	<SubTexture name="oswal lanzando granada q epico0030" x="0" y="4582" width="976" height="829" frameX="-49" frameY="-3" frameWidth="1620" frameHeight="840"/>
+	<SubTexture name="oswal lanzando granada q epico0031" x="976" y="4582" width="982" height="827" frameX="-49" frameY="-5" frameWidth="1620" frameHeight="840"/>
+	<SubTexture name="oswal lanzando granada q epico0032" x="1958" y="4582" width="980" height="827" frameX="-48" frameY="-5" frameWidth="1620" frameHeight="840"/>
+	<SubTexture name="oswal lanzando granada q epico0033" x="2938" y="4582" width="976" height="827" frameX="-49" frameY="-5" frameWidth="1620" frameHeight="840"/>
+	<SubTexture name="oswal lanzando granada q epico0034" x="3914" y="4582" width="982" height="827" frameX="-49" frameY="-5" frameWidth="1620" frameHeight="840"/>
+	<SubTexture name="oswal lanzando granada q epico0035" x="4896" y="4582" width="980" height="827" frameX="-48" frameY="-5" frameWidth="1620" frameHeight="840"/>
+	<SubTexture name="oswal lanzando granada q epico loop0000" x="5876" y="4582" width="976" height="828" frameX="-1" frameY="0" frameWidth="983" frameHeight="828"/>
+	<SubTexture name="oswal lanzando granada q epico loop0001" x="6852" y="4582" width="982" height="825" frameX="-1" frameY="-3" frameWidth="983" frameHeight="828"/>
+	<SubTexture name="oswal lanzando granada q epico loop0002" x="0" y="5411" width="980" height="827" frameX="0" frameY="-1" frameWidth="983" frameHeight="828"/>
+	<SubTexture name="oswal left0000" x="980" y="5411" width="853" height="778" frameX="-6" frameY="-2" frameWidth="864" frameHeight="781"/>
+	<SubTexture name="oswal left0001" x="1833" y="5411" width="858" height="773" frameX="-6" frameY="-7" frameWidth="864" frameHeight="781"/>
+	<SubTexture name="oswal left0002" x="2691" y="5411" width="832" height="780" frameX="-6" frameY="0" frameWidth="864" frameHeight="781"/>
+	<SubTexture name="oswal left0003" x="3523" y="5411" width="829" height="775" frameX="-6" frameY="-5" frameWidth="864" frameHeight="781"/>
+	<SubTexture name="oswal left0004" x="4352" y="5411" width="833" height="779" frameX="-3" frameY="-1" frameWidth="864" frameHeight="781"/>
+	<SubTexture name="oswal left0005" x="5185" y="5411" width="834" height="774" frameX="0" frameY="-6" frameWidth="864" frameHeight="781"/>
+	<SubTexture name="oswal left0006" x="6019" y="5411" width="830" height="778" frameX="-5" frameY="-2" frameWidth="864" frameHeight="781"/>
+	<SubTexture name="oswal left0007" x="6849" y="5411" width="833" height="773" frameX="-5" frameY="-7" frameWidth="864" frameHeight="781"/>
+	<SubTexture name="oswal left0008" x="0" y="6238" width="828" height="670" frameX="-13" frameY="-110" frameWidth="864" frameHeight="781"/>
+	<SubTexture name="oswal left0009" x="828" y="6238" width="825" height="675" frameX="-13" frameY="-105" frameWidth="864" frameHeight="781"/>
+	<SubTexture name="oswal loop granada0000" x="1653" y="6238" width="976" height="828" frameX="-1" frameY="0" frameWidth="983" frameHeight="828"/>
+	<SubTexture name="oswal loop granada0001" x="2629" y="6238" width="982" height="825" frameX="-1" frameY="-3" frameWidth="983" frameHeight="828"/>
+	<SubTexture name="oswal loop granada0002" x="3611" y="6238" width="980" height="827" frameX="0" frameY="-1" frameWidth="983" frameHeight="828"/>
+	<SubTexture name="oswal mirando0000" x="972" y="2078" width="1003" height="564" frameX="0" frameY="-36" frameWidth="1620" frameHeight="840"/>
+	<SubTexture name="oswal mirando0001" x="1975" y="2078" width="1008" height="564" frameX="0" frameY="-36" frameWidth="1620" frameHeight="840"/>
+	<SubTexture name="oswal mirando0002" x="4591" y="6238" width="1006" height="564" frameX="0" frameY="-36" frameWidth="1008" frameHeight="608"/>
+	<SubTexture name="oswal mirando0003" x="5597" y="6238" width="1003" height="564" frameX="0" frameY="-36" frameWidth="1008" frameHeight="608"/>
+	<SubTexture name="oswal mirando0004" x="6600" y="6238" width="1008" height="564" frameX="0" frameY="-36" frameWidth="1008" frameHeight="608"/>
+	<SubTexture name="oswal mirando0005" x="0" y="7066" width="1006" height="564" frameX="0" frameY="-36" frameWidth="1008" frameHeight="608"/>
+	<SubTexture name="oswal mirando0006" x="972" y="2078" width="1003" height="564" frameX="0" frameY="-36" frameWidth="1620" frameHeight="840"/>
+	<SubTexture name="oswal mirando0007" x="1975" y="2078" width="1008" height="564" frameX="0" frameY="-36" frameWidth="1620" frameHeight="840"/>
+	<SubTexture name="oswal mirando0008" x="4591" y="6238" width="1006" height="564" frameX="0" frameY="-36" frameWidth="1008" frameHeight="608"/>
+	<SubTexture name="oswal mirando0009" x="5597" y="6238" width="1003" height="564" frameX="0" frameY="-36" frameWidth="1008" frameHeight="608"/>
+	<SubTexture name="oswal mirando0010" x="6600" y="6238" width="1008" height="564" frameX="0" frameY="-36" frameWidth="1008" frameHeight="608"/>
+	<SubTexture name="oswal mirando0011" x="0" y="7066" width="1006" height="564" frameX="0" frameY="-36" frameWidth="1008" frameHeight="608"/>
+	<SubTexture name="oswal mirando0012" x="972" y="2078" width="1003" height="564" frameX="0" frameY="-36" frameWidth="1620" frameHeight="840"/>
+	<SubTexture name="oswal mirando0013" x="1975" y="2078" width="1008" height="564" frameX="0" frameY="-36" frameWidth="1620" frameHeight="840"/>
+	<SubTexture name="oswal mirando0014" x="4591" y="6238" width="1006" height="564" frameX="0" frameY="-36" frameWidth="1008" frameHeight="608"/>
+	<SubTexture name="oswal mirando0015" x="5597" y="6238" width="1003" height="564" frameX="0" frameY="-36" frameWidth="1008" frameHeight="608"/>
+	<SubTexture name="oswal mirando0016" x="6600" y="6238" width="1008" height="564" frameX="0" frameY="-36" frameWidth="1008" frameHeight="608"/>
+	<SubTexture name="oswal mirando0017" x="0" y="7066" width="1006" height="564" frameX="0" frameY="-36" frameWidth="1008" frameHeight="608"/>
+	<SubTexture name="oswal mirando0018" x="972" y="2078" width="1003" height="564" frameX="0" frameY="-36" frameWidth="1620" frameHeight="840"/>
+	<SubTexture name="oswal mirando0019" x="1975" y="2078" width="1008" height="564" frameX="0" frameY="-36" frameWidth="1620" frameHeight="840"/>
+	<SubTexture name="oswal mirando0020" x="4591" y="6238" width="1006" height="564" frameX="0" frameY="-36" frameWidth="1008" frameHeight="608"/>
+	<SubTexture name="oswal mirar0000" x="1006" y="7066" width="1003" height="693" frameX="-1" frameY="-62" frameWidth="1009" frameHeight="763"/>
+	<SubTexture name="oswal mirar0001" x="2009" y="7066" width="1008" height="697" frameX="-1" frameY="-58" frameWidth="1009" frameHeight="763"/>
+	<SubTexture name="oswal mirar0002" x="3017" y="7066" width="1006" height="695" frameX="-1" frameY="-60" frameWidth="1009" frameHeight="763"/>
+	<SubTexture name="oswal mirar0003" x="4023" y="7066" width="1003" height="693" frameX="-1" frameY="-62" frameWidth="1009" frameHeight="763"/>
+	<SubTexture name="oswal mirar0004" x="5026" y="7066" width="1008" height="701" frameX="-1" frameY="-54" frameWidth="1009" frameHeight="763"/>
+	<SubTexture name="oswal mirar0005" x="6034" y="7066" width="1007" height="569" frameX="0" frameY="-186" frameWidth="1009" frameHeight="763"/>
+	<SubTexture name="oswal mirar0006" x="7041" y="7066" width="1003" height="562" frameX="-1" frameY="-192" frameWidth="1009" frameHeight="763"/>
+	<SubTexture name="oswal mirar loop0000" x="1006" y="7066" width="1003" height="693" frameX="-1" frameY="-62" frameWidth="1009" frameHeight="763"/>
+	<SubTexture name="oswal mirar loop0001" x="2009" y="7066" width="1008" height="697" frameX="-1" frameY="-58" frameWidth="1009" frameHeight="763"/>
+	<SubTexture name="oswal mirar loop0002" x="3017" y="7066" width="1006" height="695" frameX="-1" frameY="-60" frameWidth="1009" frameHeight="763"/>
+	<SubTexture name="oswal mirar loop0003" x="4023" y="7066" width="1003" height="693" frameX="-1" frameY="-62" frameWidth="1009" frameHeight="763"/>
+	<SubTexture name="oswal mirar loop0004" x="5026" y="7066" width="1008" height="701" frameX="-1" frameY="-54" frameWidth="1009" frameHeight="763"/>
+	<SubTexture name="oswal mirar loop0005" x="6034" y="7066" width="1007" height="569" frameX="0" frameY="-186" frameWidth="1009" frameHeight="763"/>
+	<SubTexture name="oswal mirar loop0006" x="7041" y="7066" width="1003" height="562" frameX="-1" frameY="-192" frameWidth="1009" frameHeight="763"/>
+</TextureAtlas>

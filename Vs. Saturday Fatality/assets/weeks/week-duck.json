@@ -1,0 +1,32 @@
+{
+	"storyName": "dance with the piano",
+	"difficulties": "Dside",
+	"hideFreeplay": false,
+	"weekBackground": "adrian",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"winter dance",
+			"adrian",
+			[
+				122,
+				129,
+				121
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "adrian",
+	"hiddenUntilUnlocked": false
+}

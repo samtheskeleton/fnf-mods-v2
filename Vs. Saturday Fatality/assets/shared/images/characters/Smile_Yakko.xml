@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Smile Yakko.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Smile Yakko Down0000" x="0" y="0" width="437" height="614" frameX="0" frameY="0" frameWidth="444" frameHeight="614"/>
+	<SubTexture name="Smile Yakko Down0001" x="0" y="0" width="437" height="614" frameX="0" frameY="0" frameWidth="444" frameHeight="614"/>
+	<SubTexture name="Smile Yakko Down0002" x="437" y="0" width="443" height="609" frameX="0" frameY="-5" frameWidth="444" frameHeight="614"/>
+	<SubTexture name="Smile Yakko Down0003" x="437" y="0" width="443" height="609" frameX="0" frameY="-5" frameWidth="444" frameHeight="614"/>
+	<SubTexture name="Smile Yakko Down0004" x="880" y="0" width="444" height="607" frameX="0" frameY="-7" frameWidth="444" frameHeight="614"/>
+	<SubTexture name="Smile Yakko Down0005" x="880" y="0" width="444" height="607" frameX="0" frameY="-7" frameWidth="444" frameHeight="614"/>
+	<SubTexture name="Smile Yakko Down0006" x="1324" y="0" width="443" height="608" frameX="0" frameY="-6" frameWidth="444" frameHeight="614"/>
+	<SubTexture name="Smile Yakko Down0007" x="1324" y="0" width="443" height="608" frameX="0" frameY="-6" frameWidth="444" frameHeight="614"/>
+	<SubTexture name="Smile Yakko Down0008" x="1324" y="0" width="443" height="608" frameX="0" frameY="-6" frameWidth="444" frameHeight="614"/>
+	<SubTexture name="Smile Yakko Down0009" x="1324" y="0" width="443" height="608" frameX="0" frameY="-6" frameWidth="444" frameHeight="614"/>
+	<SubTexture name="Smile Yakko Idle0000" x="1767" y="0" width="363" height="694" frameX="0" frameY="-14" frameWidth="364" frameHeight="709"/>
+	<SubTexture name="Smile Yakko Idle0001" x="1767" y="0" width="363" height="694" frameX="0" frameY="-14" frameWidth="364" frameHeight="709"/>
+	<SubTexture name="Smile Yakko Idle0002" x="2130" y="0" width="364" height="693" frameX="0" frameY="-16" frameWidth="364" frameHeight="709"/>
+	<SubTexture name="Smile Yakko Idle0003" x="2130" y="0" width="364" height="693" frameX="0" frameY="-16" frameWidth="364" frameHeight="709"/>
+	<SubTexture name="Smile Yakko Idle0004" x="2494" y="0" width="363" height="693" frameX="0" frameY="-16" frameWidth="364" frameHeight="709"/>
+	<SubTexture name="Smile Yakko Idle0005" x="2857" y="0" width="363" height="693" frameX="0" frameY="-16" frameWidth="364" frameHeight="709"/>
+	<SubTexture name="Smile Yakko Idle0006" x="3220" y="0" width="359" height="703" frameX="0" frameY="-5" frameWidth="364" frameHeight="709"/>
+	<SubTexture name="Smile Yakko Idle0007" x="3579" y="0" width="359" height="706" frameX="0" frameY="-2" frameWidth="364" frameHeight="709"/>
+	<SubTexture name="Smile Yakko Idle0008" x="0" y="706" width="356" height="707" frameX="0" frameY="-1" frameWidth="364" frameHeight="709"/>
+	<SubTexture name="Smile Yakko Idle0009" x="356" y="706" width="356" height="707" frameX="0" frameY="-1" frameWidth="364" frameHeight="709"/>
+	<SubTexture name="Smile Yakko Idle0010" x="712" y="706" width="356" height="708" frameX="0" frameY="0" frameWidth="364" frameHeight="709"/>
+	<SubTexture name="Smile Yakko Idle0011" x="1068" y="706" width="356" height="708" frameX="0" frameY="0" frameWidth="364" frameHeight="709"/>
+	<SubTexture name="Smile Yakko Idle0012" x="1424" y="706" width="356" height="707" frameX="0" frameY="-1" frameWidth="364" frameHeight="709"/>
+	<SubTexture name="Smile Yakko Idle0013" x="1424" y="706" width="356" height="707" frameX="0" frameY="-1" frameWidth="364" frameHeight="709"/>
+	<SubTexture name="Smile Yakko Left0000" x="1780" y="706" width="435" height="713" frameX="0" frameY="-15" frameWidth="435" frameHeight="728"/>
+	<SubTexture name="Smile Yakko Left0001" x="1780" y="706" width="435" height="713" frameX="0" frameY="-15" frameWidth="435" frameHeight="728"/>
+	<SubTexture name="Smile Yakko Left0002" x="2215" y="706" width="427" height="722" frameX="-6" frameY="-6" frameWidth="435" frameHeight="728"/>
+	<SubTexture name="Smile Yakko Left0003" x="2215" y="706" width="427" height="722" frameX="-6" frameY="-6" frameWidth="435" frameHeight="728"/>
+	<SubTexture name="Smile Yakko Left0004" x="2642" y="706" width="426" height="723" frameX="-7" frameY="-5" frameWidth="435" frameHeight="728"/>
+	<SubTexture name="Smile Yakko Left0005" x="2642" y="706" width="426" height="723" frameX="-7" frameY="-5" frameWidth="435" frameHeight="728"/>
+	<SubTexture name="Smile Yakko Left0006" x="3068" y="706" width="423" height="728" frameX="-12" frameY="0" frameWidth="435" frameHeight="728"/>
+	<SubTexture name="Smile Yakko Left0007" x="3068" y="706" width="423" height="728" frameX="-12" frameY="0" frameWidth="435" frameHeight="728"/>
+	<SubTexture name="Smile Yakko Left0008" x="3068" y="706" width="423" height="728" frameX="-12" frameY="0" frameWidth="435" frameHeight="728"/>
+	<SubTexture name="Smile Yakko Left0009" x="3068" y="706" width="423" height="728" frameX="-12" frameY="0" frameWidth="435" frameHeight="728"/>
+	<SubTexture name="Smile Yakko Right0000" x="3491" y="706" width="487" height="733" frameX="0" frameY="-14" frameWidth="497" frameHeight="747"/>
+	<SubTexture name="Smile Yakko Right0001" x="3491" y="706" width="487" height="733" frameX="0" frameY="-14" frameWidth="497" frameHeight="747"/>
+	<SubTexture name="Smile Yakko Right0002" x="0" y="1439" width="495" height="744" frameX="-1" frameY="-3" frameWidth="497" frameHeight="747"/>
+	<SubTexture name="Smile Yakko Right0003" x="0" y="1439" width="495" height="744" frameX="-1" frameY="-3" frameWidth="497" frameHeight="747"/>
+	<SubTexture name="Smile Yakko Right0004" x="495" y="1439" width="494" height="746" frameX="-1" frameY="-1" frameWidth="497" frameHeight="747"/>
+	<SubTexture name="Smile Yakko Right0005" x="495" y="1439" width="494" height="746" frameX="-1" frameY="-1" frameWidth="497" frameHeight="747"/>
+	<SubTexture name="Smile Yakko Right0006" x="989" y="1439" width="496" height="747" frameX="-1" frameY="0" frameWidth="497" frameHeight="747"/>
+	<SubTexture name="Smile Yakko Right0007" x="989" y="1439" width="496" height="747" frameX="-1" frameY="0" frameWidth="497" frameHeight="747"/>
+	<SubTexture name="Smile Yakko Right0008" x="989" y="1439" width="496" height="747" frameX="-1" frameY="0" frameWidth="497" frameHeight="747"/>
+	<SubTexture name="Smile Yakko Right0009" x="989" y="1439" width="496" height="747" frameX="-1" frameY="0" frameWidth="497" frameHeight="747"/>
+	<SubTexture name="Smile Yakko Up0000" x="1485" y="1439" width="336" height="805" frameX="0" frameY="-17" frameWidth="339" frameHeight="822"/>
+	<SubTexture name="Smile Yakko Up0001" x="1485" y="1439" width="336" height="805" frameX="0" frameY="-17" frameWidth="339" frameHeight="822"/>
+	<SubTexture name="Smile Yakko Up0002" x="1821" y="1439" width="338" height="814" frameX="0" frameY="-8" frameWidth="339" frameHeight="822"/>
+	<SubTexture name="Smile Yakko Up0003" x="1821" y="1439" width="338" height="814" frameX="0" frameY="-8" frameWidth="339" frameHeight="822"/>
+	<SubTexture name="Smile Yakko Up0004" x="2159" y="1439" width="339" height="822"/>
+	<SubTexture name="Smile Yakko Up0005" x="2159" y="1439" width="339" height="822"/>
+	<SubTexture name="Smile Yakko Up0006" x="2498" y="1439" width="337" height="815" frameX="0" frameY="-7" frameWidth="339" frameHeight="822"/>
+	<SubTexture name="Smile Yakko Up0007" x="2498" y="1439" width="337" height="815" frameX="0" frameY="-7" frameWidth="339" frameHeight="822"/>
+	<SubTexture name="Smile Yakko Up0008" x="2498" y="1439" width="337" height="815" frameX="0" frameY="-7" frameWidth="339" frameHeight="822"/>
+	<SubTexture name="Smile Yakko Up0009" x="2498" y="1439" width="337" height="815" frameX="0" frameY="-7" frameWidth="339" frameHeight="822"/>
+</TextureAtlas>

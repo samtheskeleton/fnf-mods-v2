@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Toony Oswald.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Toony Pasta Rabbit Down0000" x="0" y="0" width="1042" height="859" frameX="0" frameY="-204" frameWidth="1049" frameHeight="1063"/>
+	<SubTexture name="Toony Pasta Rabbit Down0001" x="0" y="0" width="1042" height="859" frameX="0" frameY="-204" frameWidth="1049" frameHeight="1063"/>
+	<SubTexture name="Toony Pasta Rabbit Down0002" x="1042" y="0" width="1047" height="839" frameX="0" frameY="-224" frameWidth="1049" frameHeight="1063"/>
+	<SubTexture name="Toony Pasta Rabbit Down0003" x="1042" y="0" width="1047" height="839" frameX="0" frameY="-224" frameWidth="1049" frameHeight="1063"/>
+	<SubTexture name="Toony Pasta Rabbit Down0004" x="2089" y="0" width="1049" height="834" frameX="0" frameY="-229" frameWidth="1049" frameHeight="1063"/>
+	<SubTexture name="Toony Pasta Rabbit Down0005" x="2089" y="0" width="1049" height="834" frameX="0" frameY="-229" frameWidth="1049" frameHeight="1063"/>
+	<SubTexture name="Toony Pasta Rabbit Down0006" x="3138" y="0" width="1047" height="839" frameX="0" frameY="-224" frameWidth="1049" frameHeight="1063"/>
+	<SubTexture name="Toony Pasta Rabbit Down0007" x="3138" y="0" width="1047" height="839" frameX="0" frameY="-224" frameWidth="1049" frameHeight="1063"/>
+	<SubTexture name="Toony Pasta Rabbit Down0008" x="4185" y="0" width="921" height="1063" frameX="0" frameY="0" frameWidth="1049" frameHeight="1063"/>
+	<SubTexture name="Toony Pasta Rabbit Idle0000" x="5106" y="0" width="921" height="1144" frameX="0" frameY="-11" frameWidth="921" frameHeight="1155"/>
+	<SubTexture name="Toony Pasta Rabbit Idle0001" x="5106" y="0" width="921" height="1144" frameX="0" frameY="-11" frameWidth="921" frameHeight="1155"/>
+	<SubTexture name="Toony Pasta Rabbit Idle0002" x="6027" y="0" width="921" height="1150" frameX="0" frameY="-5" frameWidth="921" frameHeight="1155"/>
+	<SubTexture name="Toony Pasta Rabbit Idle0003" x="6027" y="0" width="921" height="1150" frameX="0" frameY="-5" frameWidth="921" frameHeight="1155"/>
+	<SubTexture name="Toony Pasta Rabbit Idle0004" x="6948" y="0" width="921" height="1155"/>
+	<SubTexture name="Toony Pasta Rabbit Idle0005" x="6948" y="0" width="921" height="1155"/>
+	<SubTexture name="Toony Pasta Rabbit Idle0006" x="0" y="1155" width="921" height="1155"/>
+	<SubTexture name="Toony Pasta Rabbit Idle0007" x="0" y="1155" width="921" height="1155"/>
+	<SubTexture name="Toony Pasta Rabbit Idle0008" x="921" y="1155" width="921" height="1147" frameX="0" frameY="-8" frameWidth="921" frameHeight="1155"/>
+	<SubTexture name="Toony Pasta Rabbit Idle0009" x="921" y="1155" width="921" height="1147" frameX="0" frameY="-8" frameWidth="921" frameHeight="1155"/>
+	<SubTexture name="Toony Pasta Rabbit Idle0010" x="1842" y="1155" width="921" height="1147" frameX="0" frameY="-8" frameWidth="921" frameHeight="1155"/>
+	<SubTexture name="Toony Pasta Rabbit Idle0011" x="1842" y="1155" width="921" height="1147" frameX="0" frameY="-8" frameWidth="921" frameHeight="1155"/>
+	<SubTexture name="Toony Pasta Rabbit Idle0012" x="2763" y="1155" width="921" height="1150" frameX="0" frameY="-5" frameWidth="921" frameHeight="1155"/>
+	<SubTexture name="Toony Pasta Rabbit Idle0013" x="2763" y="1155" width="921" height="1150" frameX="0" frameY="-5" frameWidth="921" frameHeight="1155"/>
+	<SubTexture name="Toony Pasta Rabbit Left0000" x="3684" y="1155" width="921" height="1144" frameX="0" frameY="0" frameWidth="933" frameHeight="1144"/>
+	<SubTexture name="Toony Pasta Rabbit Left0001" x="3684" y="1155" width="921" height="1144" frameX="0" frameY="0" frameWidth="933" frameHeight="1144"/>
+	<SubTexture name="Toony Pasta Rabbit Left0002" x="4605" y="1155" width="930" height="1144" frameX="0" frameY="0" frameWidth="933" frameHeight="1144"/>
+	<SubTexture name="Toony Pasta Rabbit Left0003" x="4605" y="1155" width="930" height="1144" frameX="0" frameY="0" frameWidth="933" frameHeight="1144"/>
+	<SubTexture name="Toony Pasta Rabbit Left0004" x="5535" y="1155" width="933" height="1141" frameX="0" frameY="-3" frameWidth="933" frameHeight="1144"/>
+	<SubTexture name="Toony Pasta Rabbit Left0005" x="5535" y="1155" width="933" height="1141" frameX="0" frameY="-3" frameWidth="933" frameHeight="1144"/>
+	<SubTexture name="Toony Pasta Rabbit Left0006" x="6468" y="1155" width="931" height="1143" frameX="0" frameY="-1" frameWidth="933" frameHeight="1144"/>
+	<SubTexture name="Toony Pasta Rabbit Left0007" x="6468" y="1155" width="931" height="1143" frameX="0" frameY="-1" frameWidth="933" frameHeight="1144"/>
+	<SubTexture name="Toony Pasta Rabbit Left0008" x="0" y="2310" width="921" height="1130" frameX="0" frameY="-14" frameWidth="933" frameHeight="1144"/>
+	<SubTexture name="Toony Pasta Rabbit Right0000" x="921" y="2310" width="921" height="1158" frameX="0" frameY="-31" frameWidth="921" frameHeight="1189"/>
+	<SubTexture name="Toony Pasta Rabbit Right0001" x="921" y="2310" width="921" height="1158" frameX="0" frameY="-31" frameWidth="921" frameHeight="1189"/>
+	<SubTexture name="Toony Pasta Rabbit Right0002" x="1842" y="2310" width="921" height="1186" frameX="0" frameY="-3" frameWidth="921" frameHeight="1189"/>
+	<SubTexture name="Toony Pasta Rabbit Right0003" x="1842" y="2310" width="921" height="1186" frameX="0" frameY="-3" frameWidth="921" frameHeight="1189"/>
+	<SubTexture name="Toony Pasta Rabbit Right0004" x="2763" y="2310" width="921" height="1189"/>
+	<SubTexture name="Toony Pasta Rabbit Right0005" x="2763" y="2310" width="921" height="1189"/>
+	<SubTexture name="Toony Pasta Rabbit Right0006" x="3684" y="2310" width="921" height="1187" frameX="0" frameY="-2" frameWidth="921" frameHeight="1189"/>
+	<SubTexture name="Toony Pasta Rabbit Right0007" x="3684" y="2310" width="921" height="1187" frameX="0" frameY="-2" frameWidth="921" frameHeight="1189"/>
+	<SubTexture name="Toony Pasta Rabbit Right0008" x="4605" y="2310" width="921" height="1177" frameX="0" frameY="-12" frameWidth="921" frameHeight="1189"/>
+	<SubTexture name="Toony Pasta Rabbit Shoot0000" x="5526" y="2310" width="921" height="1144" frameX="-143" frameY="-8" frameWidth="1178" frameHeight="1152"/>
+	<SubTexture name="Toony Pasta Rabbit Shoot0001" x="5526" y="2310" width="921" height="1144" frameX="-143" frameY="-8" frameWidth="1178" frameHeight="1152"/>
+	<SubTexture name="Toony Pasta Rabbit Shoot0002" x="6447" y="2310" width="857" height="1148" frameX="-207" frameY="-4" frameWidth="1178" frameHeight="1152"/>
+	<SubTexture name="Toony Pasta Rabbit Shoot0003" x="7304" y="2310" width="773" height="1148" frameX="-291" frameY="-4" frameWidth="1178" frameHeight="1152"/>
+	<SubTexture name="Toony Pasta Rabbit Shoot0004" x="0" y="3499" width="774" height="1151" frameX="-290" frameY="-1" frameWidth="1178" frameHeight="1152"/>
+	<SubTexture name="Toony Pasta Rabbit Shoot0005" x="0" y="3499" width="774" height="1151" frameX="-290" frameY="-1" frameWidth="1178" frameHeight="1152"/>
+	<SubTexture name="Toony Pasta Rabbit Shoot0006" x="774" y="3499" width="777" height="1152" frameX="-287" frameY="0" frameWidth="1178" frameHeight="1152"/>
+	<SubTexture name="Toony Pasta Rabbit Shoot0007" x="1551" y="3499" width="1064" height="1152" frameX="0" frameY="0" frameWidth="1178" frameHeight="1152"/>
+	<SubTexture name="Toony Pasta Rabbit Shoot0008" x="2615" y="3499" width="1150" height="1070" frameX="-28" frameY="-82" frameWidth="1178" frameHeight="1152"/>
+	<SubTexture name="Toony Pasta Rabbit Shoot0009" x="3765" y="3499" width="1163" height="1070" frameX="-15" frameY="-82" frameWidth="1178" frameHeight="1152"/>
+	<SubTexture name="Toony Pasta Rabbit Shoot0010" x="4928" y="3499" width="876" height="1077" frameX="-291" frameY="-75" frameWidth="1178" frameHeight="1152"/>
+	<SubTexture name="Toony Pasta Rabbit Shoot0011" x="4928" y="3499" width="876" height="1077" frameX="-291" frameY="-75" frameWidth="1178" frameHeight="1152"/>
+	<SubTexture name="Toony Pasta Rabbit Shoot0012" x="5804" y="3499" width="873" height="1080" frameX="-291" frameY="-72" frameWidth="1178" frameHeight="1152"/>
+	<SubTexture name="Toony Pasta Rabbit Shoot0013" x="5804" y="3499" width="873" height="1080" frameX="-291" frameY="-72" frameWidth="1178" frameHeight="1152"/>
+	<SubTexture name="Toony Pasta Rabbit Shoot0014" x="6677" y="3499" width="876" height="1077" frameX="-291" frameY="-75" frameWidth="1178" frameHeight="1152"/>
+	<SubTexture name="Toony Pasta Rabbit Shoot0015" x="6677" y="3499" width="876" height="1077" frameX="-291" frameY="-75" frameWidth="1178" frameHeight="1152"/>
+	<SubTexture name="Toony Pasta Rabbit Syringe0000" x="0" y="4651" width="942" height="1146" frameX="0" frameY="-1" frameWidth="977" frameHeight="1147"/>
+	<SubTexture name="Toony Pasta Rabbit Syringe0001" x="942" y="4651" width="974" height="1144" frameX="0" frameY="-3" frameWidth="977" frameHeight="1147"/>
+	<SubTexture name="Toony Pasta Rabbit Syringe0002" x="942" y="4651" width="974" height="1144" frameX="0" frameY="-3" frameWidth="977" frameHeight="1147"/>
+	<SubTexture name="Toony Pasta Rabbit Syringe0003" x="1916" y="4651" width="977" height="1142" frameX="0" frameY="-5" frameWidth="977" frameHeight="1147"/>
+	<SubTexture name="Toony Pasta Rabbit Syringe0004" x="1916" y="4651" width="977" height="1142" frameX="0" frameY="-5" frameWidth="977" frameHeight="1147"/>
+	<SubTexture name="Toony Pasta Rabbit Syringe0005" x="2893" y="4651" width="968" height="1147" frameX="0" frameY="0" frameWidth="977" frameHeight="1147"/>
+	<SubTexture name="Toony Pasta Rabbit Syringe0006" x="2893" y="4651" width="968" height="1147" frameX="0" frameY="0" frameWidth="977" frameHeight="1147"/>
+	<SubTexture name="Toony Pasta Rabbit Syringe0007" x="2893" y="4651" width="968" height="1147" frameX="0" frameY="0" frameWidth="977" frameHeight="1147"/>
+	<SubTexture name="Toony Pasta Rabbit Syringe0008" x="2893" y="4651" width="968" height="1147" frameX="0" frameY="0" frameWidth="977" frameHeight="1147"/>
+	<SubTexture name="Toony Pasta Rabbit Syringe0009" x="2893" y="4651" width="968" height="1147" frameX="0" frameY="0" frameWidth="977" frameHeight="1147"/>
+	<SubTexture name="Toony Pasta Rabbit Syringe0010" x="2893" y="4651" width="968" height="1147" frameX="0" frameY="0" frameWidth="977" frameHeight="1147"/>
+	<SubTexture name="Toony Pasta Rabbit Syringe0011" x="2893" y="4651" width="968" height="1147" frameX="0" frameY="0" frameWidth="977" frameHeight="1147"/>
+	<SubTexture name="Toony Pasta Rabbit Syringe0012" x="2893" y="4651" width="968" height="1147" frameX="0" frameY="0" frameWidth="977" frameHeight="1147"/>
+	<SubTexture name="Toony Pasta Rabbit Up0000" x="3861" y="4651" width="940" height="1173" frameX="0" frameY="0" frameWidth="963" frameHeight="1173"/>
+	<SubTexture name="Toony Pasta Rabbit Up0001" x="3861" y="4651" width="940" height="1173" frameX="0" frameY="0" frameWidth="963" frameHeight="1173"/>
+	<SubTexture name="Toony Pasta Rabbit Up0002" x="4801" y="4651" width="960" height="1163" frameX="0" frameY="-10" frameWidth="963" frameHeight="1173"/>
+	<SubTexture name="Toony Pasta Rabbit Up0003" x="4801" y="4651" width="960" height="1163" frameX="0" frameY="-10" frameWidth="963" frameHeight="1173"/>
+	<SubTexture name="Toony Pasta Rabbit Up0004" x="5761" y="4651" width="963" height="1161" frameX="0" frameY="-12" frameWidth="963" frameHeight="1173"/>
+	<SubTexture name="Toony Pasta Rabbit Up0005" x="5761" y="4651" width="963" height="1161" frameX="0" frameY="-12" frameWidth="963" frameHeight="1173"/>
+	<SubTexture name="Toony Pasta Rabbit Up0006" x="6724" y="4651" width="961" height="1164" frameX="0" frameY="-9" frameWidth="963" frameHeight="1173"/>
+	<SubTexture name="Toony Pasta Rabbit Up0007" x="6724" y="4651" width="961" height="1164" frameX="0" frameY="-9" frameWidth="963" frameHeight="1173"/>
+	<SubTexture name="Toony Pasta Rabbit Up0008" x="0" y="5824" width="921" height="1135" frameX="0" frameY="-38" frameWidth="963" frameHeight="1173"/>
+</TextureAtlas>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gfcool.png"><SubTexture name="gfcool idle0000" x="0" y="0" width="460" height="270" frameX="-48" frameY="-55" frameWidth="544" frameHeight="368" />
+<SubTexture name="gfcool idle0001" x="0" y="0" width="460" height="270" frameX="-48" frameY="-55" frameWidth="544" frameHeight="368" />
+<SubTexture name="gfcool idle0002" x="460" y="0" width="460" height="270" frameX="-48" frameY="-55" frameWidth="544" frameHeight="368" />
+<SubTexture name="gfcool idle0003" x="460" y="0" width="460" height="270" frameX="-48" frameY="-55" frameWidth="544" frameHeight="368" />
+<SubTexture name="gfcool idle0004" x="0" y="270" width="460" height="270" frameX="-48" frameY="-55" frameWidth="544" frameHeight="368" />
+<SubTexture name="gfcool idle0005" x="0" y="270" width="460" height="270" frameX="-48" frameY="-55" frameWidth="544" frameHeight="368" />
+<SubTexture name="gfcool idle0006" x="460" y="270" width="460" height="270" frameX="-48" frameY="-55" frameWidth="544" frameHeight="368" />
+<SubTexture name="gfcool idle0007" x="460" y="270" width="460" height="270" frameX="-48" frameY="-55" frameWidth="544" frameHeight="368" />
+</TextureAtlas>

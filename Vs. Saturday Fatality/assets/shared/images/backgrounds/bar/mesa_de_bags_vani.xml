@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mesa de bags vani.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mesa 10000" x="0" y="0" width="446" height="485" frameX="0" frameY="0" frameWidth="446" frameHeight="487"/>
+	<SubTexture name="mesa 10001" x="0" y="0" width="446" height="485" frameX="0" frameY="0" frameWidth="446" frameHeight="487"/>
+	<SubTexture name="mesa 10002" x="446" y="0" width="445" height="467" frameX="-1" frameY="-20" frameWidth="446" frameHeight="487"/>
+	<SubTexture name="mesa 10003" x="446" y="0" width="445" height="467" frameX="-1" frameY="-20" frameWidth="446" frameHeight="487"/>
+	<SubTexture name="mesa 10004" x="0" y="485" width="444" height="467" frameX="-2" frameY="-20" frameWidth="446" frameHeight="487"/>
+	<SubTexture name="mesa 10005" x="0" y="485" width="444" height="467" frameX="-2" frameY="-20" frameWidth="446" frameHeight="487"/>
+	<SubTexture name="mesa 10006" x="0" y="485" width="444" height="467" frameX="-2" frameY="-20" frameWidth="446" frameHeight="487"/>
+	<SubTexture name="mesa 10007" x="0" y="485" width="444" height="467" frameX="-2" frameY="-20" frameWidth="446" frameHeight="487"/>
+	<SubTexture name="mesa 10008" x="0" y="485" width="444" height="467" frameX="-2" frameY="-20" frameWidth="446" frameHeight="487"/>
+	<SubTexture name="mesa 10009" x="0" y="485" width="444" height="467" frameX="-2" frameY="-20" frameWidth="446" frameHeight="487"/>
+	<SubTexture name="mesa 10010" x="0" y="485" width="444" height="467" frameX="-2" frameY="-20" frameWidth="446" frameHeight="487"/>
+	<SubTexture name="mesa 10011" x="0" y="485" width="444" height="467" frameX="-2" frameY="-20" frameWidth="446" frameHeight="487"/>
+	<SubTexture name="mesa 10012" x="444" y="485" width="444" height="467" frameX="-2" frameY="-20" frameWidth="446" frameHeight="487"/>
+</TextureAtlas>

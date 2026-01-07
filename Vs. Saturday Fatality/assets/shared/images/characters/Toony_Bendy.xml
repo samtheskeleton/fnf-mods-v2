@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Toony Bendy.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Toony Pasta Ink Attack0000" x="0" y="0" width="600" height="742" frameX="0" frameY="-13" frameWidth="600" frameHeight="755"/>
+	<SubTexture name="Toony Pasta Ink Attack0001" x="0" y="0" width="600" height="742" frameX="0" frameY="-13" frameWidth="600" frameHeight="755"/>
+	<SubTexture name="Toony Pasta Ink Attack0002" x="0" y="0" width="600" height="742" frameX="0" frameY="-13" frameWidth="600" frameHeight="755"/>
+	<SubTexture name="Toony Pasta Ink Attack0003" x="600" y="0" width="600" height="743" frameX="0" frameY="-12" frameWidth="600" frameHeight="755"/>
+	<SubTexture name="Toony Pasta Ink Attack0004" x="600" y="0" width="600" height="743" frameX="0" frameY="-12" frameWidth="600" frameHeight="755"/>
+	<SubTexture name="Toony Pasta Ink Attack0005" x="1200" y="0" width="600" height="754" frameX="0" frameY="-1" frameWidth="600" frameHeight="755"/>
+	<SubTexture name="Toony Pasta Ink Attack0006" x="1800" y="0" width="600" height="752" frameX="0" frameY="-3" frameWidth="600" frameHeight="755"/>
+	<SubTexture name="Toony Pasta Ink Attack0007" x="2400" y="0" width="600" height="755"/>
+	<SubTexture name="Toony Pasta Ink Attack0008" x="3000" y="0" width="600" height="754" frameX="0" frameY="-1" frameWidth="600" frameHeight="755"/>
+	<SubTexture name="Toony Pasta Ink Attack0009" x="3600" y="0" width="600" height="752" frameX="0" frameY="-3" frameWidth="600" frameHeight="755"/>
+	<SubTexture name="Toony Pasta Ink Attack0010" x="4200" y="0" width="600" height="755"/>
+	<SubTexture name="Toony Pasta Ink Attack0011" x="4800" y="0" width="600" height="754" frameX="0" frameY="-1" frameWidth="600" frameHeight="755"/>
+	<SubTexture name="Toony Pasta Ink Attack0012" x="3600" y="0" width="600" height="752" frameX="0" frameY="-3" frameWidth="600" frameHeight="755"/>
+	<SubTexture name="Toony Pasta Ink Attack0013" x="4200" y="0" width="600" height="755"/>
+	<SubTexture name="Toony Pasta Ink Attack0014" x="4800" y="0" width="600" height="754" frameX="0" frameY="-1" frameWidth="600" frameHeight="755"/>
+	<SubTexture name="Toony Pasta Ink Attack0015" x="3600" y="0" width="600" height="752" frameX="0" frameY="-3" frameWidth="600" frameHeight="755"/>
+	<SubTexture name="Toony Pasta Ink Attack0016" x="4200" y="0" width="600" height="755"/>
+	<SubTexture name="Toony Pasta Ink Attack0017" x="4800" y="0" width="600" height="754" frameX="0" frameY="-1" frameWidth="600" frameHeight="755"/>
+	<SubTexture name="Toony Pasta Ink Attack0018" x="3600" y="0" width="600" height="752" frameX="0" frameY="-3" frameWidth="600" frameHeight="755"/>
+	<SubTexture name="Toony Pasta Ink Attack0019" x="4200" y="0" width="600" height="755"/>
+	<SubTexture name="Toony Pasta Ink Attack LOOP0000" x="5400" y="0" width="600" height="754" frameX="0" frameY="-1" frameWidth="600" frameHeight="755"/>
+	<SubTexture name="Toony Pasta Ink Attack LOOP0001" x="6000" y="0" width="600" height="752" frameX="0" frameY="-3" frameWidth="600" frameHeight="755"/>
+	<SubTexture name="Toony Pasta Ink Attack LOOP0002" x="6600" y="0" width="600" height="755"/>
+	<SubTexture name="Toony Pasta Ink Down0000" x="7200" y="0" width="600" height="706" frameX="0" frameY="-17" frameWidth="600" frameHeight="723"/>
+	<SubTexture name="Toony Pasta Ink Down0001" x="7200" y="0" width="600" height="706" frameX="0" frameY="-17" frameWidth="600" frameHeight="723"/>
+	<SubTexture name="Toony Pasta Ink Down0002" x="0" y="755" width="600" height="702" frameX="0" frameY="-21" frameWidth="600" frameHeight="723"/>
+	<SubTexture name="Toony Pasta Ink Down0003" x="0" y="755" width="600" height="702" frameX="0" frameY="-21" frameWidth="600" frameHeight="723"/>
+	<SubTexture name="Toony Pasta Ink Down0004" x="600" y="755" width="600" height="701" frameX="0" frameY="-22" frameWidth="600" frameHeight="723"/>
+	<SubTexture name="Toony Pasta Ink Down0005" x="600" y="755" width="600" height="701" frameX="0" frameY="-22" frameWidth="600" frameHeight="723"/>
+	<SubTexture name="Toony Pasta Ink Down0006" x="1200" y="755" width="600" height="702" frameX="0" frameY="-21" frameWidth="600" frameHeight="723"/>
+	<SubTexture name="Toony Pasta Ink Down0007" x="1200" y="755" width="600" height="702" frameX="0" frameY="-21" frameWidth="600" frameHeight="723"/>
+	<SubTexture name="Toony Pasta Ink Down0008" x="1800" y="755" width="600" height="723"/>
+	<SubTexture name="Toony Pasta Ink Idle0000" x="0" y="0" width="600" height="742" frameX="0" frameY="-10" frameWidth="600" frameHeight="755"/>
+	<SubTexture name="Toony Pasta Ink Idle0001" x="0" y="0" width="600" height="742" frameX="0" frameY="-10" frameWidth="600" frameHeight="755"/>
+	<SubTexture name="Toony Pasta Ink Idle0002" x="2400" y="755" width="600" height="744" frameX="0" frameY="-8" frameWidth="600" frameHeight="752"/>
+	<SubTexture name="Toony Pasta Ink Idle0003" x="2400" y="755" width="600" height="744" frameX="0" frameY="-8" frameWidth="600" frameHeight="752"/>
+	<SubTexture name="Toony Pasta Ink Idle0004" x="3000" y="755" width="600" height="752"/>
+	<SubTexture name="Toony Pasta Ink Idle0005" x="3000" y="755" width="600" height="752"/>
+	<SubTexture name="Toony Pasta Ink Idle0006" x="3600" y="755" width="600" height="752"/>
+	<SubTexture name="Toony Pasta Ink Idle0007" x="3600" y="755" width="600" height="752"/>
+	<SubTexture name="Toony Pasta Ink Idle0008" x="4200" y="755" width="600" height="750" frameX="0" frameY="-2" frameWidth="600" frameHeight="752"/>
+	<SubTexture name="Toony Pasta Ink Idle0009" x="4200" y="755" width="600" height="750" frameX="0" frameY="-2" frameWidth="600" frameHeight="752"/>
+	<SubTexture name="Toony Pasta Ink Idle0010" x="4800" y="755" width="600" height="749" frameX="0" frameY="-3" frameWidth="600" frameHeight="752"/>
+	<SubTexture name="Toony Pasta Ink Idle0011" x="4800" y="755" width="600" height="749" frameX="0" frameY="-3" frameWidth="600" frameHeight="752"/>
+	<SubTexture name="Toony Pasta Ink Idle0012" x="5400" y="755" width="600" height="750" frameX="0" frameY="-2" frameWidth="600" frameHeight="752"/>
+	<SubTexture name="Toony Pasta Ink Idle0013" x="5400" y="755" width="600" height="750" frameX="0" frameY="-2" frameWidth="600" frameHeight="752"/>
+	<SubTexture name="Toony Pasta Ink Left0000" x="6000" y="755" width="600" height="752" frameX="0" frameY="-5" frameWidth="600" frameHeight="757"/>
+	<SubTexture name="Toony Pasta Ink Left0001" x="6000" y="755" width="600" height="752" frameX="0" frameY="-5" frameWidth="600" frameHeight="757"/>
+	<SubTexture name="Toony Pasta Ink Left0002" x="6600" y="755" width="600" height="755" frameX="0" frameY="-2" frameWidth="600" frameHeight="757"/>
+	<SubTexture name="Toony Pasta Ink Left0003" x="6600" y="755" width="600" height="755" frameX="0" frameY="-2" frameWidth="600" frameHeight="757"/>
+	<SubTexture name="Toony Pasta Ink Left0004" x="7200" y="755" width="600" height="757"/>
+	<SubTexture name="Toony Pasta Ink Left0005" x="7200" y="755" width="600" height="757"/>
+	<SubTexture name="Toony Pasta Ink Left0006" x="0" y="1512" width="600" height="755" frameX="0" frameY="-2" frameWidth="600" frameHeight="757"/>
+	<SubTexture name="Toony Pasta Ink Left0007" x="0" y="1512" width="600" height="755" frameX="0" frameY="-2" frameWidth="600" frameHeight="757"/>
+	<SubTexture name="Toony Pasta Ink Left0008" x="600" y="1512" width="600" height="743" frameX="0" frameY="-14" frameWidth="600" frameHeight="757"/>
+	<SubTexture name="Toony Pasta Ink Right0000" x="1200" y="1512" width="600" height="747" frameX="0" frameY="-7" frameWidth="600" frameHeight="754"/>
+	<SubTexture name="Toony Pasta Ink Right0001" x="1200" y="1512" width="600" height="747" frameX="0" frameY="-7" frameWidth="600" frameHeight="754"/>
+	<SubTexture name="Toony Pasta Ink Right0002" x="1800" y="1512" width="600" height="751" frameX="0" frameY="-3" frameWidth="600" frameHeight="754"/>
+	<SubTexture name="Toony Pasta Ink Right0003" x="1800" y="1512" width="600" height="751" frameX="0" frameY="-3" frameWidth="600" frameHeight="754"/>
+	<SubTexture name="Toony Pasta Ink Right0004" x="2400" y="1512" width="600" height="752" frameX="0" frameY="-2" frameWidth="600" frameHeight="754"/>
+	<SubTexture name="Toony Pasta Ink Right0005" x="2400" y="1512" width="600" height="752" frameX="0" frameY="-2" frameWidth="600" frameHeight="754"/>
+	<SubTexture name="Toony Pasta Ink Right0006" x="3000" y="1512" width="600" height="751" frameX="0" frameY="-3" frameWidth="600" frameHeight="754"/>
+	<SubTexture name="Toony Pasta Ink Right0007" x="3000" y="1512" width="600" height="751" frameX="0" frameY="-3" frameWidth="600" frameHeight="754"/>
+	<SubTexture name="Toony Pasta Ink Right0008" x="3600" y="1512" width="600" height="754"/>
+	<SubTexture name="Toony Pasta Ink Up0000" x="4200" y="1512" width="598" height="821" frameX="0" frameY="-12" frameWidth="598" frameHeight="833"/>
+	<SubTexture name="Toony Pasta Ink Up0001" x="4200" y="1512" width="598" height="821" frameX="0" frameY="-12" frameWidth="598" frameHeight="833"/>
+	<SubTexture name="Toony Pasta Ink Up0002" x="4798" y="1512" width="598" height="830" frameX="0" frameY="-3" frameWidth="598" frameHeight="833"/>
+	<SubTexture name="Toony Pasta Ink Up0003" x="4798" y="1512" width="598" height="830" frameX="0" frameY="-3" frameWidth="598" frameHeight="833"/>
+	<SubTexture name="Toony Pasta Ink Up0004" x="5396" y="1512" width="598" height="833"/>
+	<SubTexture name="Toony Pasta Ink Up0005" x="5396" y="1512" width="598" height="833"/>
+	<SubTexture name="Toony Pasta Ink Up0006" x="5994" y="1512" width="598" height="829" frameX="0" frameY="-4" frameWidth="598" frameHeight="833"/>
+	<SubTexture name="Toony Pasta Ink Up0007" x="5994" y="1512" width="598" height="829" frameX="0" frameY="-4" frameWidth="598" frameHeight="833"/>
+	<SubTexture name="Toony Pasta Ink Up0008" x="6592" y="1512" width="598" height="749" frameX="0" frameY="-84" frameWidth="598" frameHeight="833"/>
+</TextureAtlas>

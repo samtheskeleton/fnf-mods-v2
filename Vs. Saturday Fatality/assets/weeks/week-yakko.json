@@ -1,0 +1,41 @@
+{
+	"storyName": "amnesia for the accident",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "yakko",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"accident",
+			"yakko",
+			[
+				40,
+				40,
+				40
+			]
+		],
+		[
+			"unsafe worthlessness",
+			"suicide-yakko",
+			[
+				20,
+				20,
+				20
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "yakko",
+	"hiddenUntilUnlocked": false
+}

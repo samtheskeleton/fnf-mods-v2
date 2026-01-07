@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sad Yakko.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Yakko Down0000" x="0" y="0" width="381" height="617" frameX="0" frameY="0" frameWidth="383" frameHeight="617"/>
+	<SubTexture name="Yakko Down0001" x="0" y="0" width="381" height="617" frameX="0" frameY="0" frameWidth="383" frameHeight="617"/>
+	<SubTexture name="Yakko Down0002" x="381" y="0" width="380" height="616" frameX="0" frameY="-1" frameWidth="383" frameHeight="617"/>
+	<SubTexture name="Yakko Down0003" x="761" y="0" width="383" height="608" frameX="0" frameY="-9" frameWidth="383" frameHeight="617"/>
+	<SubTexture name="Yakko Down0004" x="1144" y="0" width="383" height="607" frameX="0" frameY="-10" frameWidth="383" frameHeight="617"/>
+	<SubTexture name="Yakko Down0005" x="1144" y="0" width="383" height="607" frameX="0" frameY="-10" frameWidth="383" frameHeight="617"/>
+	<SubTexture name="Yakko Down0006" x="1527" y="0" width="383" height="609" frameX="0" frameY="-8" frameWidth="383" frameHeight="617"/>
+	<SubTexture name="Yakko Down0007" x="1527" y="0" width="383" height="609" frameX="0" frameY="-8" frameWidth="383" frameHeight="617"/>
+	<SubTexture name="Yakko Down0008" x="1527" y="0" width="383" height="609" frameX="0" frameY="-8" frameWidth="383" frameHeight="617"/>
+	<SubTexture name="Yakko Down0009" x="1527" y="0" width="383" height="609" frameX="0" frameY="-8" frameWidth="383" frameHeight="617"/>
+	<SubTexture name="Yakko Idle0000" x="1910" y="0" width="348" height="721"/>
+	<SubTexture name="Yakko Idle0001" x="1910" y="0" width="348" height="721"/>
+	<SubTexture name="Yakko Idle0002" x="2258" y="0" width="348" height="717" frameX="0" frameY="-4" frameWidth="348" frameHeight="721"/>
+	<SubTexture name="Yakko Idle0003" x="2258" y="0" width="348" height="717" frameX="0" frameY="-4" frameWidth="348" frameHeight="721"/>
+	<SubTexture name="Yakko Idle0004" x="2606" y="0" width="348" height="705" frameX="0" frameY="-16" frameWidth="348" frameHeight="721"/>
+	<SubTexture name="Yakko Idle0005" x="2606" y="0" width="348" height="705" frameX="0" frameY="-16" frameWidth="348" frameHeight="721"/>
+	<SubTexture name="Yakko Idle0006" x="2954" y="0" width="348" height="704" frameX="0" frameY="-17" frameWidth="348" frameHeight="721"/>
+	<SubTexture name="Yakko Idle0007" x="3302" y="0" width="348" height="707" frameX="0" frameY="-14" frameWidth="348" frameHeight="721"/>
+	<SubTexture name="Yakko Idle0008" x="3650" y="0" width="348" height="711" frameX="0" frameY="-10" frameWidth="348" frameHeight="721"/>
+	<SubTexture name="Yakko Idle0009" x="0" y="721" width="348" height="712" frameX="0" frameY="-9" frameWidth="348" frameHeight="721"/>
+	<SubTexture name="Yakko Idle0010" x="348" y="721" width="348" height="712" frameX="0" frameY="-9" frameWidth="348" frameHeight="721"/>
+	<SubTexture name="Yakko Idle0011" x="696" y="721" width="348" height="711" frameX="0" frameY="-10" frameWidth="348" frameHeight="721"/>
+	<SubTexture name="Yakko Idle0012" x="1044" y="721" width="348" height="711" frameX="0" frameY="-10" frameWidth="348" frameHeight="721"/>
+	<SubTexture name="Yakko Idle0013" x="1044" y="721" width="348" height="711" frameX="0" frameY="-10" frameWidth="348" frameHeight="721"/>
+	<SubTexture name="Yakko Idle0014" x="1044" y="721" width="348" height="711" frameX="0" frameY="-10" frameWidth="348" frameHeight="721"/>
+	<SubTexture name="Yakko Idle0015" x="1044" y="721" width="348" height="711" frameX="0" frameY="-10" frameWidth="348" frameHeight="721"/>
+	<SubTexture name="Yakko Idle0016" x="1044" y="721" width="348" height="711" frameX="0" frameY="-10" frameWidth="348" frameHeight="721"/>
+	<SubTexture name="Yakko Idle0017" x="1044" y="721" width="348" height="711" frameX="0" frameY="-10" frameWidth="348" frameHeight="721"/>
+	<SubTexture name="Yakko Idle0018" x="1044" y="721" width="348" height="711" frameX="0" frameY="-10" frameWidth="348" frameHeight="721"/>
+	<SubTexture name="Yakko Idle0019" x="1044" y="721" width="348" height="711" frameX="0" frameY="-10" frameWidth="348" frameHeight="721"/>
+	<SubTexture name="Yakko Left0000" x="1392" y="721" width="521" height="700" frameX="-2" frameY="-11" frameWidth="523" frameHeight="711"/>
+	<SubTexture name="Yakko Left0001" x="1392" y="721" width="521" height="700" frameX="-2" frameY="-11" frameWidth="523" frameHeight="711"/>
+	<SubTexture name="Yakko Left0002" x="1913" y="721" width="522" height="709" frameX="-1" frameY="-2" frameWidth="523" frameHeight="711"/>
+	<SubTexture name="Yakko Left0003" x="2435" y="721" width="522" height="711" frameX="-1" frameY="0" frameWidth="523" frameHeight="711"/>
+	<SubTexture name="Yakko Left0004" x="2957" y="721" width="522" height="708" frameX="0" frameY="-3" frameWidth="523" frameHeight="711"/>
+	<SubTexture name="Yakko Left0005" x="2957" y="721" width="522" height="708" frameX="0" frameY="-3" frameWidth="523" frameHeight="711"/>
+	<SubTexture name="Yakko Left0006" x="3479" y="721" width="520" height="707" frameX="-3" frameY="-4" frameWidth="523" frameHeight="711"/>
+	<SubTexture name="Yakko Left0007" x="3479" y="721" width="520" height="707" frameX="-3" frameY="-4" frameWidth="523" frameHeight="711"/>
+	<SubTexture name="Yakko Left0008" x="3479" y="721" width="520" height="707" frameX="-3" frameY="-4" frameWidth="523" frameHeight="711"/>
+	<SubTexture name="Yakko Left0009" x="3479" y="721" width="520" height="707" frameX="-3" frameY="-4" frameWidth="523" frameHeight="711"/>
+	<SubTexture name="Yakko Right0000" x="0" y="1433" width="370" height="736" frameX="0" frameY="0" frameWidth="375" frameHeight="736"/>
+	<SubTexture name="Yakko Right0001" x="0" y="1433" width="370" height="736" frameX="0" frameY="0" frameWidth="375" frameHeight="736"/>
+	<SubTexture name="Yakko Right0002" x="370" y="1433" width="372" height="735" frameX="0" frameY="-1" frameWidth="375" frameHeight="736"/>
+	<SubTexture name="Yakko Right0003" x="742" y="1433" width="372" height="730" frameX="0" frameY="-6" frameWidth="375" frameHeight="736"/>
+	<SubTexture name="Yakko Right0004" x="1114" y="1433" width="375" height="730" frameX="0" frameY="-6" frameWidth="375" frameHeight="736"/>
+	<SubTexture name="Yakko Right0005" x="1114" y="1433" width="375" height="730" frameX="0" frameY="-6" frameWidth="375" frameHeight="736"/>
+	<SubTexture name="Yakko Right0006" x="1489" y="1433" width="374" height="730" frameX="0" frameY="-6" frameWidth="375" frameHeight="736"/>
+	<SubTexture name="Yakko Right0007" x="1489" y="1433" width="374" height="730" frameX="0" frameY="-6" frameWidth="375" frameHeight="736"/>
+	<SubTexture name="Yakko Right0008" x="1489" y="1433" width="374" height="730" frameX="0" frameY="-6" frameWidth="375" frameHeight="736"/>
+	<SubTexture name="Yakko Right0009" x="1489" y="1433" width="374" height="730" frameX="0" frameY="-6" frameWidth="375" frameHeight="736"/>
+	<SubTexture name="Yakko Up0000" x="1863" y="1433" width="426" height="699" frameX="-5" frameY="-14" frameWidth="435" frameHeight="713"/>
+	<SubTexture name="Yakko Up0001" x="1863" y="1433" width="426" height="699" frameX="-5" frameY="-14" frameWidth="435" frameHeight="713"/>
+	<SubTexture name="Yakko Up0002" x="2289" y="1433" width="433" height="705" frameX="-1" frameY="-8" frameWidth="435" frameHeight="713"/>
+	<SubTexture name="Yakko Up0003" x="2722" y="1433" width="433" height="712" frameX="-1" frameY="-1" frameWidth="435" frameHeight="713"/>
+	<SubTexture name="Yakko Up0004" x="3155" y="1433" width="435" height="713"/>
+	<SubTexture name="Yakko Up0005" x="3155" y="1433" width="435" height="713"/>
+	<SubTexture name="Yakko Up0006" x="3590" y="1433" width="434" height="712" frameX="-1" frameY="-1" frameWidth="435" frameHeight="713"/>
+	<SubTexture name="Yakko Up0007" x="3590" y="1433" width="434" height="712" frameX="-1" frameY="-1" frameWidth="435" frameHeight="713"/>
+	<SubTexture name="Yakko Up0008" x="3590" y="1433" width="434" height="712" frameX="-1" frameY="-1" frameWidth="435" frameHeight="713"/>
+	<SubTexture name="Yakko Up0009" x="3590" y="1433" width="434" height="712" frameX="-1" frameY="-1" frameWidth="435" frameHeight="713"/>
+</TextureAtlas>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Edd.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="EDOWN0000" x="0" y="0" width="453" height="798" frameX="0" frameY="-12" frameWidth="453" frameHeight="810"/>
+	<SubTexture name="EDOWN0001" x="0" y="0" width="453" height="798" frameX="0" frameY="-12" frameWidth="453" frameHeight="810"/>
+	<SubTexture name="EDOWN0002" x="458" y="0" width="442" height="810" frameX="-7" frameY="0" frameWidth="453" frameHeight="810"/>
+	<SubTexture name="EDOWN0003" x="458" y="0" width="442" height="810" frameX="-7" frameY="0" frameWidth="453" frameHeight="810"/>
+	<SubTexture name="EDOWN0004" x="458" y="0" width="442" height="810" frameX="-7" frameY="0" frameWidth="453" frameHeight="810"/>
+	<SubTexture name="EDOWN0005" x="458" y="0" width="442" height="810" frameX="-7" frameY="0" frameWidth="453" frameHeight="810"/>
+	<SubTexture name="EIDLE0000" x="905" y="0" width="516" height="838" frameX="0" frameY="-24" frameWidth="516" frameHeight="862"/>
+	<SubTexture name="EIDLE0001" x="905" y="0" width="516" height="838" frameX="0" frameY="-24" frameWidth="516" frameHeight="862"/>
+	<SubTexture name="EIDLE0002" x="1426" y="0" width="511" height="843" frameX="-2" frameY="-19" frameWidth="516" frameHeight="862"/>
+	<SubTexture name="EIDLE0003" x="1426" y="0" width="511" height="843" frameX="-2" frameY="-19" frameWidth="516" frameHeight="862"/>
+	<SubTexture name="EIDLE0004" x="0" y="848" width="505" height="850" frameX="-4" frameY="-12" frameWidth="516" frameHeight="862"/>
+	<SubTexture name="EIDLE0005" x="0" y="848" width="505" height="850" frameX="-4" frameY="-12" frameWidth="516" frameHeight="862"/>
+	<SubTexture name="EIDLE0006" x="510" y="848" width="497" height="861" frameX="-4" frameY="-1" frameWidth="516" frameHeight="862"/>
+	<SubTexture name="EIDLE0007" x="510" y="848" width="497" height="861" frameX="-4" frameY="-1" frameWidth="516" frameHeight="862"/>
+	<SubTexture name="EIDLE0008" x="1012" y="848" width="494" height="862" frameX="-4" frameY="0" frameWidth="516" frameHeight="862"/>
+	<SubTexture name="EIDLE0009" x="1012" y="848" width="494" height="862" frameX="-4" frameY="0" frameWidth="516" frameHeight="862"/>
+	<SubTexture name="EIDLE0010" x="1012" y="848" width="494" height="862" frameX="-4" frameY="0" frameWidth="516" frameHeight="862"/>
+	<SubTexture name="EIDLE0011" x="1012" y="848" width="494" height="862" frameX="-4" frameY="0" frameWidth="516" frameHeight="862"/>
+	<SubTexture name="EIDLE0012" x="1012" y="848" width="494" height="862" frameX="-4" frameY="0" frameWidth="516" frameHeight="862"/>
+	<SubTexture name="EIDLE0013" x="1012" y="848" width="494" height="862" frameX="-4" frameY="0" frameWidth="516" frameHeight="862"/>
+	<SubTexture name="ELEFT0000" x="1511" y="848" width="425" height="845" frameX="0" frameY="-8" frameWidth="429" frameHeight="853"/>
+	<SubTexture name="ELEFT0001" x="1511" y="848" width="425" height="845" frameX="0" frameY="-8" frameWidth="429" frameHeight="853"/>
+	<SubTexture name="ELEFT0002" x="0" y="1715" width="404" height="853" frameX="-25" frameY="0" frameWidth="429" frameHeight="853"/>
+	<SubTexture name="ELEFT0003" x="0" y="1715" width="404" height="853" frameX="-25" frameY="0" frameWidth="429" frameHeight="853"/>
+	<SubTexture name="ELEFT0004" x="0" y="1715" width="404" height="853" frameX="-25" frameY="0" frameWidth="429" frameHeight="853"/>
+	<SubTexture name="ELEFT0005" x="0" y="1715" width="404" height="853" frameX="-25" frameY="0" frameWidth="429" frameHeight="853"/>
+	<SubTexture name="ERIGHT0000" x="409" y="1715" width="509" height="826" frameX="-1" frameY="-14" frameWidth="510" frameHeight="840"/>
+	<SubTexture name="ERIGHT0001" x="409" y="1715" width="509" height="826" frameX="-1" frameY="-14" frameWidth="510" frameHeight="840"/>
+	<SubTexture name="ERIGHT0002" x="923" y="1715" width="486" height="840" frameX="0" frameY="0" frameWidth="510" frameHeight="840"/>
+	<SubTexture name="ERIGHT0003" x="923" y="1715" width="486" height="840" frameX="0" frameY="0" frameWidth="510" frameHeight="840"/>
+	<SubTexture name="ERIGHT0004" x="923" y="1715" width="486" height="840" frameX="0" frameY="0" frameWidth="510" frameHeight="840"/>
+	<SubTexture name="ERIGHT0005" x="923" y="1715" width="486" height="840" frameX="0" frameY="0" frameWidth="510" frameHeight="840"/>
+	<SubTexture name="EUP0000" x="1414" y="1715" width="425" height="890" frameX="0" frameY="0" frameWidth="428" frameHeight="890"/>
+	<SubTexture name="EUP0001" x="1414" y="1715" width="425" height="890" frameX="0" frameY="0" frameWidth="428" frameHeight="890"/>
+	<SubTexture name="EUP0002" x="0" y="2610" width="428" height="882" frameX="0" frameY="-8" frameWidth="428" frameHeight="890"/>
+	<SubTexture name="EUP0003" x="0" y="2610" width="428" height="882" frameX="0" frameY="-8" frameWidth="428" frameHeight="890"/>
+	<SubTexture name="EUP0004" x="0" y="2610" width="428" height="882" frameX="0" frameY="-8" frameWidth="428" frameHeight="890"/>
+	<SubTexture name="EUP0005" x="0" y="2610" width="428" height="882" frameX="0" frameY="-8" frameWidth="428" frameHeight="890"/>
+</TextureAtlas>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="icon-oswald-hell2.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="o no0000" x="0" y="0" width="126" height="116" frameX="0" frameY="0" frameWidth="132" frameHeight="118"/>
+	<SubTexture name="o no0001" x="126" y="0" width="126" height="116" frameX="-6" frameY="-2" frameWidth="132" frameHeight="118"/>
+	<SubTexture name="o no0002" x="0" y="116" width="125" height="116" frameX="-1" frameY="0" frameWidth="132" frameHeight="118"/>
+	<SubTexture name="q rico0000" x="125" y="116" width="79" height="116"/>
+</TextureAtlas>
