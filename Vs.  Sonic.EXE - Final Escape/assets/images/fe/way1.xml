@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="way1.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="a instance 10000" x="0" y="0" width="4360" height="648" frameX="-815" frameY="-51" frameWidth="5175" frameHeight="699"/>
+	<SubTexture name="a instance 10001" x="0" y="0" width="4360" height="648" frameX="-332" frameY="0" frameWidth="5175" frameHeight="699"/>
+	<SubTexture name="a instance 10002" x="0" y="648" width="4656" height="643" frameX="-489" frameY="-56" frameWidth="5175" frameHeight="699"/>
+	<SubTexture name="a instance 10003" x="0" y="1291" width="4998" height="665" frameX="-56" frameY="-34" frameWidth="5175" frameHeight="699"/>
+	<SubTexture name="a instance 10004" x="0" y="1956" width="4685" height="651" frameX="0" frameY="-48" frameWidth="5175" frameHeight="699"/>
+	<SubTexture name="a instance 10005" x="0" y="2607" width="4720" height="684" frameX="-104" frameY="-15" frameWidth="5175" frameHeight="699"/>
+	<SubTexture name="a instance 10006" x="0" y="3291" width="3891" height="641" frameX="-362" frameY="-58" frameWidth="5175" frameHeight="699"/>
+	<SubTexture name="a instance 10007" x="3891" y="3291" width="3966" height="609" frameX="-287" frameY="-90" frameWidth="5175" frameHeight="699"/>
+	<SubTexture name="a instance 10008" x="0" y="3932" width="3784" height="611" frameX="-268" frameY="-88" frameWidth="5175" frameHeight="699"/>
+	<SubTexture name="a instance 10009" x="3784" y="3932" width="3919" height="593" frameX="-33" frameY="-106" frameWidth="5175" frameHeight="699"/>
+</TextureAtlas>

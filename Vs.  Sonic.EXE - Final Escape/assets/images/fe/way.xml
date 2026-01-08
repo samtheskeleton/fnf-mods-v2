@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="way.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="a instance 10000" x="0" y="0" width="4360" height="662" frameX="0" frameY="-2" frameWidth="4360" frameHeight="665"/>
+	<SubTexture name="a instance 10001" x="0" y="662" width="4360" height="665"/>
+	<SubTexture name="a instance 10002" x="0" y="1327" width="4360" height="665"/>
+</TextureAtlas>
