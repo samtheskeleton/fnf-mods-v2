@@ -1,0 +1,34 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "alley2",
+		"player1": "bf_AD3",
+		"player2": "mom_AD3",
+		"player3": null,
+		"events": [
+			[
+				37333.3333333333,
+				[
+					[
+						"Black Screen Flash",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"mom_AD3alt"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "CORRUPTnoteSplashes",
+		"validScore": false,
+		"gfVersion": "gf-christmas",
+		"bpm": 180,
+		"arrowSkin": "CORRUPT_NOTE_assets",
+		"needsVoices": true,
+		"song": "Devastation"
+	}
+}

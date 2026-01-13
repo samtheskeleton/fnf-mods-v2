@@ -1,0 +1,274 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "framiliar-stage",
+		"player1": "gf-christmas",
+		"player2": "dad-fakeout",
+		"player3": null,
+		"events": [
+			[
+				42666.6666666667,
+				[
+					[
+						"White Transition",
+						"",
+						""
+					]
+				]
+			],
+			[
+				44000,
+				[
+					[
+						"White Intro",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"dad-pissed"
+					],
+					[
+						"Change Character",
+						"gf",
+						"gf-pissed"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-dad"
+					],
+					[
+						"Familiar BF BG Switch",
+						"",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				86666.6666666666,
+				[
+					[
+						"White Transition",
+						"",
+						""
+					]
+				]
+			],
+			[
+				88000,
+				[
+					[
+						"White Intro",
+						"",
+						""
+					],
+					[
+						"Familiar Pico BG Switch",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"pico-dad"
+					]
+				]
+			],
+			[
+				120000,
+				[
+					[
+						"White Transition",
+						"",
+						""
+					]
+				]
+			],
+			[
+				122666.666666667,
+				[
+					[
+						"White Intro",
+						"",
+						""
+					],
+					[
+						"Familiar Spooky BG Switch",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"spooky-corrupt"
+					]
+				]
+			],
+			[
+				176000,
+				[
+					[
+						"White Transition",
+						"",
+						""
+					]
+				]
+			],
+			[
+				177333.333333333,
+				[
+					[
+						"White Intro",
+						"",
+						""
+					],
+					[
+						"Familiar Mom BG Switch",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"dad-mom"
+					],
+					[
+						"Change Character",
+						"gf",
+						"gf-mom"
+					],
+					[
+						"Change Character",
+						"bf",
+						"mom-dad"
+					]
+				]
+			],
+			[
+				241333.333333334,
+				[
+					[
+						"White Transition",
+						"",
+						""
+					]
+				]
+			],
+			[
+				245333.333333334,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-dad"
+					],
+					[
+						"White Intro",
+						"",
+						""
+					],
+					[
+						"Familiar BF BG Switch",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"dad-bf1"
+					],
+					[
+						"Change Character",
+						"gf",
+						"gf-bf1"
+					]
+				]
+			],
+			[
+				359999.999999999,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gf-bf2"
+					],
+					[
+						"White Screen Flash",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"dad-bf2"
+					]
+				]
+			],
+			[
+				362666.666666666,
+				[
+					[
+						"Change Character",
+						"dad",
+						"dad-bf3"
+					],
+					[
+						"White Screen Flash",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"gf",
+						"gf-bf3"
+					]
+				]
+			],
+			[
+				415999.999999999,
+				[
+					[
+						"White Transition",
+						"",
+						""
+					]
+				]
+			],
+			[
+				418083.333333332,
+				[
+					[
+						"White Intro",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"dad-corrupt"
+					],
+					[
+						"Change Character",
+						"gf",
+						"gf-corrupt"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-fakeout",
+		"bpm": 180,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Familiar-Finale"
+	}
+}

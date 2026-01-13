@@ -1,0 +1,119 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "school-alt",
+		"player1": "bf-pixel-6-1-alt2",
+		"player2": "senpai-angry",
+		"player3": null,
+		"events": [
+			[
+				7384.61538461538,
+				[
+					[
+						"Black Screen Flash",
+						"1",
+						""
+					],
+					[
+						"Glitch School BG",
+						"",
+						""
+					],
+					[
+						"Screen Shake",
+						"1, 0.01",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-pixel6-2"
+					]
+				]
+			],
+			[
+				95884.6153846153,
+				[
+					[
+						"Corrupt Screen Flash",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				95999.9999999999,
+				[
+					[
+						"Black Screen Flash",
+						"1",
+						""
+					],
+					[
+						"Glitch School BG Alt",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-pixel6-2alt"
+					],
+					[
+						"Screen Shake",
+						"29,0.01",
+						""
+					]
+				]
+			],
+			[
+				125417.307692308,
+				[
+					[
+						"Corrupt Screen Flash",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				125449.038461538,
+				[
+					[
+						"Glitch School BG",
+						"",
+						""
+					]
+				]
+			],
+			[
+				125538.461538461,
+				[
+					[
+						"Black Screen Flash",
+						"1",
+						""
+					],
+					[
+						"Revert School",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-pixel6-2"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "DISCnoteSplashes",
+		"validScore": false,
+		"gfVersion": "gf-christmas",
+		"bpm": 130,
+		"arrowSkin": "DISCNOTE_assets",
+		"needsVoices": true,
+		"song": "Disconnection"
+	}
+}

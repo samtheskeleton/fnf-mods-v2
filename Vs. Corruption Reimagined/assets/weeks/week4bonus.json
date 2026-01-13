@@ -1,0 +1,40 @@
+{
+	"storyName": "We've Found You...",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"mom",
+		"",
+		"bf"
+	],
+	"songs": [
+		[
+			"Old-Mayhem",
+			"corruptmom",
+			[
+				34,
+				51,
+				68
+			]
+		],
+		[
+			"Old-Devitalization",
+			"corruptmom",
+			[
+				34,
+				51,
+				68
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "week4bonus"
+}

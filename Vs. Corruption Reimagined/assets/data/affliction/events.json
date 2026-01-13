@@ -1,0 +1,219 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "bedeviled",
+		"player1": "bf-dad",
+		"player2": "dad-af",
+		"player3": null,
+		"events": [
+			[
+				70500,
+				[
+					[
+						"Change Character",
+						"dad",
+						"dad-af1"
+					]
+				]
+			],
+			[
+				84750,
+				[
+					[
+						"Change Character",
+						"dad",
+						"dad-af"
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"dad-afalt"
+					],
+					[
+						"Change Character",
+						"gf",
+						"gf-af1"
+					]
+				]
+			],
+			[
+				102000,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gf-af"
+					],
+					[
+						"Change Character",
+						"dad",
+						"dad-af"
+					]
+				]
+			],
+			[
+				108375,
+				[
+					[
+						"Change Character",
+						"dad",
+						"dad-af1alt"
+					],
+					[
+						"Change Character",
+						"gf",
+						"gf-af1"
+					]
+				]
+			],
+			[
+				120000,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gf-af"
+					],
+					[
+						"Change Character",
+						"dad",
+						"dad-af1"
+					]
+				]
+			],
+			[
+				127500,
+				[
+					[
+						"Change Character",
+						"dad",
+						"dad-afalt"
+					],
+					[
+						"Change Character",
+						"gf",
+						"gf-af1"
+					]
+				]
+			],
+			[
+				168000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"dad-afaltfinal"
+					]
+				]
+			],
+			[
+				174000,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gf-af1"
+					]
+				]
+			],
+			[
+				174187.5,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gf-af"
+					]
+				]
+			],
+			[
+				174375,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gf-af1"
+					]
+				]
+			],
+			[
+				174562.5,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gf-af"
+					]
+				]
+			],
+			[
+				174750,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gf-af1"
+					]
+				]
+			],
+			[
+				174937.5,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gf-af"
+					]
+				]
+			],
+			[
+				175125,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gf-af1"
+					]
+				]
+			],
+			[
+				175312.5,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gf-af"
+					]
+				]
+			],
+			[
+				178500,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gf-af"
+					],
+					[
+						"Change Character",
+						"dad",
+						"dad-af"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-af",
+		"bpm": 160,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Affliction"
+	}
+}

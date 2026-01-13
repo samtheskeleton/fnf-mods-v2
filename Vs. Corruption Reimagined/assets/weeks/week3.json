@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"Distress",
+			"spooky-distress",
+			[
+				34,
+				51,
+				68
+			]
+		],
+		[
+			"Xenophobia",
+			"spooky-xeno",
+			[
+				34,
+				51,
+				68
+			]
+		],
+		[
+			"Killer",
+			"spooky-killer",
+			[
+				34,
+				51,
+				68
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "halloween",
+	"difficulties": "",
+	"weekCharacters": [
+		"spooky",
+		"pico",
+		"pico"
+	],
+	"storyName": "Good Times Must Come To An End.",
+	"weekName": "week3",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

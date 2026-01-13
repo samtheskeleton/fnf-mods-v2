@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-70,
+				-40
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Dad Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-90,
+				-20
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "CDD Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-96,
+				10
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Dad Sing NOTE UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-69,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Dad Sing NOTE RIGHT Pissed"
+		},
+		{
+			"offsets": [
+				-130,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Dad Sing Note LEFT Pissed"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/corruptddreimagined",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "corrupt-parents",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,58 @@
+{
+	"storyName": "...",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "school",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Blissful-Ignorance",
+			"senpai-pixel",
+			[
+				235,
+				160,
+				0
+			]
+		],
+		[
+			"Disconnection",
+			"senpai-pixel",
+			[
+				195,
+				120,
+				0
+			]
+		],
+		[
+			"Short Circuit",
+			"senpai-pixel",
+			[
+				195,
+				120,
+				0
+			]
+		],
+		[
+			"Banishment",
+			"spirit-ban",
+			[
+				255,
+				0,
+				113
+			]
+		]
+	],
+	"weekCharacters": [
+		"senpai",
+		"bf",
+		""
+	],
+	"weekName": "week5"
+}

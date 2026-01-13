@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"Mayhem",
+			"corruptmom",
+			[
+				34,
+				51,
+				68
+			]
+		],
+		[
+			"Devitalization",
+			"corruptmom",
+			[
+				34,
+				51,
+				68
+			]
+		],
+		[
+			"Devastation",
+			"corruptmomalt",
+			[
+				34,
+				51,
+				68
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"mom",
+		"",
+		"bf"
+	],
+	"storyName": "We've Found You...",
+	"weekName": "week4",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

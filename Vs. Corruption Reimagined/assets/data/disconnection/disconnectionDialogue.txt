@@ -1,0 +1,8 @@
+:bf: beep
+:dad:Oh?
+:dad:Ah, hello! You are an unfamiliar face...
+:dad:Are you new here, by chance?
+:bf:trace("...too bright.");
+:dad:Hm? What was that?
+:bf:trace("It's all bright. Too bright.");
+:dad:I don't quite understand..?

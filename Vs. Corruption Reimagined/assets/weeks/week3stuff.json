@@ -1,0 +1,49 @@
+{
+	"storyName": "Good Times Must Come To An End.",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "halloween",
+	"weekBefore": "week3",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Bside Distress",
+			"spooky-distress-bside",
+			[
+				234,
+				131,
+				68
+			]
+		],
+		[
+			"Bside Xenophobia",
+			"spooky-xeno-bside",
+			[
+				194,
+				91,
+				28
+			]
+		],
+		[
+			"Erect Killer",
+			"spooky-killer",
+			[
+				20,
+				0,
+				20
+			]
+		]
+	],
+	"weekCharacters": [
+		"spooky",
+		"pico",
+		"pico"
+	],
+	"weekName": "week3"
+}

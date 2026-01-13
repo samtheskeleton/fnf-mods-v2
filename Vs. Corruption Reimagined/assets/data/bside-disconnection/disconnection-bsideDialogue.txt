@@ -1,0 +1,4 @@
+:senpaiB:I don't know what you even THINK you're doing here, but it ends now.
+:senpaiB:I'll smash your face into the ground, punk.
+:senpaiB:Or do you need help finding some stilts first?
+:bf2B:trace('Cease this pointless rabble. You might as well be deleted already.');

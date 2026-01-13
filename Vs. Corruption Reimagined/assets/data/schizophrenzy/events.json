@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "limo_D3",
+		"player1": "pico-MMD3-1",
+		"player2": "mom_D3",
+		"player3": null,
+		"events": [
+			[
+				66440.6779661016,
+				[
+					[
+						"Change Character",
+						"bf",
+						"pico-MMD2"
+					]
+				]
+			],
+			[
+				115423.728813559,
+				[
+					[
+						"Change Character",
+						"bf",
+						"pico-MMD3-2"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "CORRUPTnoteSplashes",
+		"validScore": false,
+		"gfVersion": "gf-christmas",
+		"bpm": 177,
+		"arrowSkin": "CORRUPT_NOTE_assets",
+		"needsVoices": false,
+		"song": "Schizophrenzy"
+	}
+}

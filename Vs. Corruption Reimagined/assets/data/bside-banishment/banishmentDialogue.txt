@@ -1,0 +1,4 @@
+:dad:Is this really it, then?
+:dad:I suppose playing a spectator and waiting it out wasn't a choice.
+:dad:Let's get this over with, parasite.
+:bf:trace('You didn't have a choice to begin with.');

@@ -1,0 +1,40 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "school",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week5",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"senpai",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Bside Disconnection",
+			"senpai-bside",
+			[
+				226,
+				113,
+				253
+			]
+		],
+		[
+			"Bside Banishment",
+			"spirit-ban-bside",
+			[
+				0,
+				100,
+				255
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week"
+}

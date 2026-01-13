@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "bedeviled-bside",
+		"player1": "gf-christmas",
+		"player2": "dad-resurgence-bside",
+		"player3": null,
+		"events": [
+			[
+				22153.8461538462,
+				[
+					[
+						"BF Reveal",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-resurgence-bside"
+					]
+				]
+			],
+			[
+				59076.9230769231,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-spirit-bside"
+					],
+					[
+						"Black Screen Flash",
+						"2",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-christmas",
+		"bpm": 130,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Bside Resurgence"
+	}
+}

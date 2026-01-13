@@ -1,0 +1,49 @@
+{
+	"storyName": "Two Left...",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"gf",
+		"bf"
+	],
+	"songs": [
+		[
+			"Bedeviled",
+			"dad-bed",
+			[
+				175,
+				0,
+				255
+			]
+		],
+		[
+			"Affliction",
+			"dad-af",
+			[
+				155,
+				0,
+				235
+			]
+		],
+		[
+			"Familiar Finale",
+			"dad-fakeout",
+			[
+				95,
+				0,
+				175
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "week6"
+}

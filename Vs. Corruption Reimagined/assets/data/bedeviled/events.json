@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2.3,
+		"stage": "bedeviled",
+		"player1": "bf-dad",
+		"player2": "dad-bed",
+		"player3": null,
+		"events": [
+			[
+				96000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"dad-bedalt"
+					]
+				]
+			],
+			[
+				136000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"dad-bed"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-bed-af",
+		"bpm": 120,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Bedeviled"
+	}
+}

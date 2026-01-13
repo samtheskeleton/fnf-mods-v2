@@ -1,0 +1,239 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "school-banishment-bside",
+		"player1": "bf-pixel6-4-bsid",
+		"player2": "spirit-ban-bside",
+		"player3": null,
+		"events": [
+			[
+				20210.5263157895,
+				[
+					[
+						"Black Intro",
+						"",
+						""
+					]
+				]
+			],
+			[
+				118736.842105263,
+				[
+					[
+						"Black Transition",
+						"",
+						""
+					]
+				]
+			],
+			[
+				121263.157894737,
+				[
+					[
+						"Black Intro Alt",
+						"",
+						""
+					],
+					[
+						"Banishment Bside Reg Thorns Switch",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"spirit-ban-bsidealt"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-pixel-6-1-alt2bsid"
+					]
+				]
+			],
+			[
+				141473.684210526,
+				[
+					[
+						"Black Screen Flash",
+						"1",
+						""
+					],
+					[
+						"Banishment Bside Main Switch",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"spirit-ban-bside"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-pixel6-4-bsid"
+					]
+				]
+			],
+			[
+				161684.210526316,
+				[
+					[
+						"White Screen Flash",
+						"1",
+						""
+					],
+					[
+						"Banishment Bside Mono Thorns Switch",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"spirit-ban-bsidealt"
+					]
+				]
+			],
+			[
+				164210.52631579,
+				[
+					[
+						"Banishment Bside Short Switch",
+						"",
+						""
+					],
+					[
+						"White Screen Flash",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				166736.842105263,
+				[
+					[
+						"White Screen Flash",
+						"1",
+						""
+					],
+					[
+						"Banishment Bside Glitch Switch",
+						"",
+						""
+					]
+				]
+			],
+			[
+				169263.157894737,
+				[
+					[
+						"Banishment Bside Main Switch",
+						"",
+						""
+					],
+					[
+						"White Screen Flash",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				171789.473684211,
+				[
+					[
+						"White Screen Flash",
+						"1",
+						""
+					],
+					[
+						"Banishment Bside Glitch Switch",
+						"",
+						""
+					]
+				]
+			],
+			[
+				174315.789473684,
+				[
+					[
+						"Banishment Bside Short Switch",
+						"",
+						""
+					],
+					[
+						"White Screen Flash",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				176842.105263158,
+				[
+					[
+						"White Screen Flash",
+						"1",
+						""
+					],
+					[
+						"Banishment Bside Mono Thorns Switch",
+						"",
+						""
+					]
+				]
+			],
+			[
+				181894.736842106,
+				[
+					[
+						"White Screen Flash",
+						"3",
+						""
+					],
+					[
+						"Banishment Bside Main Switch",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"senpai-bside-pissed"
+					],
+					[
+						"Change Character",
+						"gf",
+						"spirit-ban-bside-ghost"
+					]
+				]
+			],
+			[
+				232421.05263158,
+				[
+					[
+						"Opponent Fade",
+						"4",
+						"0"
+					],
+					[
+						"GF Fade",
+						"4",
+						"0"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "dyingsenpai",
+		"bpm": 190,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Bside Banishment"
+	}
+}

@@ -1,0 +1,49 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Duality",
+			"bf-philly",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Resurgence",
+			"dad-resurgence",
+			[
+				86,
+				53,
+				193
+			]
+		],
+		[
+			"Bside Resurgence",
+			"dad-resurgence-bside",
+			[
+				246,
+				173,
+				120
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week"
+}

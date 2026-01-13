@@ -1,0 +1,119 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "school-short",
+		"player1": "bf-pixel6-3",
+		"player2": "senpai-short",
+		"player3": null,
+		"events": [
+			[
+				34666.6666666667,
+				[
+					[
+						"Black Screen Flash",
+						"1",
+						""
+					],
+					[
+						"Thorns Switch",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"spirit-short"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-pixel6-3alt"
+					]
+				]
+			],
+			[
+				45333.3333333333,
+				[
+					[
+						"Black Screen Flash",
+						"1",
+						""
+					],
+					[
+						"Thorns Revert",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"senpai-short"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-pixel6-3"
+					]
+				]
+			],
+			[
+				66666.6666666667,
+				[
+					[
+						"Thorns Switch",
+						"",
+						""
+					],
+					[
+						"Black Screen Flash",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"spirit-short"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-pixel6-3alt"
+					]
+				]
+			],
+			[
+				77333.3333333333,
+				[
+					[
+						"Thorns Revert",
+						"",
+						""
+					],
+					[
+						"Black Screen Flash",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"senpai-short"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-pixel6-3"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-christmas",
+		"bpm": 180,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Short-Circuit"
+	}
+}

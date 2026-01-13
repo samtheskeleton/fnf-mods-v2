@@ -1,0 +1,124 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "bedeviled-bside",
+		"player1": "gf-christmas",
+		"player2": "dad-bed-bside",
+		"player3": null,
+		"events": [
+			[
+				8000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-dad-bside"
+					],
+					[
+						"BF Reveal",
+						"",
+						""
+					]
+				]
+			],
+			[
+				56000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"dad-bedalt-bside"
+					],
+					[
+						"Change Character",
+						"gf",
+						"gf-bed1-bside"
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gf-bed-bside"
+					],
+					[
+						"Change Character",
+						"dad",
+						"dad-bed-bside"
+					]
+				]
+			],
+			[
+				72000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"dad-bedalt-bside"
+					],
+					[
+						"Change Character",
+						"gf",
+						"gf-bed1-bside"
+					]
+				]
+			],
+			[
+				88000,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gf-bed-bside"
+					],
+					[
+						"Change Character",
+						"dad",
+						"dad-bed-bside"
+					]
+				]
+			],
+			[
+				104000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"dad-bedalt-bside"
+					],
+					[
+						"Change Character",
+						"gf",
+						"gf-bed1-bside"
+					]
+				]
+			],
+			[
+				154000,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gf-bed-bside"
+					],
+					[
+						"Change Character",
+						"dad",
+						"dad-bed-bside"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-bed-bside",
+		"bpm": 120,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Bside Bedeviled"
+	}
+}

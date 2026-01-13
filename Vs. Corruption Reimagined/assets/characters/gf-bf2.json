@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-240
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BGF IdleCorrupt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-250
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BGF Note DOWNCorrupt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-240
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BGF Note LEFTCorrupt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-230
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BGF Note UPCorrupt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-239
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BGF Note RIGHTCorrupt",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gf-6-3fuck",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": true,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,34 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "spooky2",
+		"player1": "pico-spooky-bside",
+		"player2": "spooky_D2_BSIDE",
+		"player3": null,
+		"events": [
+			[
+				91371.4285714285,
+				[
+					[
+						"Black Screen Flash",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"spooky_D2_BSIDEALT"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-christmas",
+		"bpm": 175,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Bside Xenophobia"
+	}
+}
