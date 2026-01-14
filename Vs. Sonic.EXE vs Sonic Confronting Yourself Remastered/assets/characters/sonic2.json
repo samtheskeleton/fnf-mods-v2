@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				133,
+				128
+			],
+			"anim": "idle",
+			"fps": 27,
+			"name": "super idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				185,
+				114
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "super left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				259,
+				34
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "super up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				121
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "super right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				271,
+				45
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "super down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				258,
+				108
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "super anim"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/supersanic",
+	"position": [
+		234,
+		-20
+	],
+	"healthicon": "sonic2",
+	"flip_x": true,
+	"healthbar_colors": [
+		100,
+		100,
+		255
+	],
+	"camera_position": [
+		250,
+		-55
+	],
+	"sing_duration": 4,
+	"scale": 0.75
+}

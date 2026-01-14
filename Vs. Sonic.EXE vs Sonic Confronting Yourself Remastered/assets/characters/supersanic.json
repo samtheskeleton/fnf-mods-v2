@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				132,
+				112
+			],
+			"anim": "singUP",
+			"fps": 26,
+			"name": "sonic up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				132,
+				112
+			],
+			"anim": "singDOWN",
+			"fps": 26,
+			"name": "sonic down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				715,
+				300
+			],
+			"anim": "singRIGHT",
+			"fps": 26,
+			"name": "sonic right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				360,
+				250
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "sonic Sonic dies"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				568,
+				113
+			],
+			"anim": "deathLoop",
+			"fps": 28,
+			"name": "uga",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				330,
+				112
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "son deat",
+			"indices": []
+		},
+		{
+			"offsets": [
+				131,
+				190
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "sonic xd"
+		},
+		{
+			"offsets": [
+				176,
+				90
+			],
+			"indices": [],
+			"fps": 26,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "super left"
+		},
+		{
+			"offsets": [
+				131,
+				104
+			],
+			"indices": [],
+			"fps": 27,
+			"anim": "idle",
+			"loop": true,
+			"name": "super idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/supersanic",
+	"position": [
+		10,
+		40
+	],
+	"healthicon": "sonic",
+	"flip_x": true,
+	"healthbar_colors": [
+		100,
+		100,
+		255
+	],
+	"camera_position": [
+		250,
+		-405
+	],
+	"sing_duration": 4,
+	"scale": 0.699999999999999
+}
