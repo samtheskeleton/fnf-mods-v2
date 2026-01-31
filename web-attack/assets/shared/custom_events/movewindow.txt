@@ -1,6 +1,0 @@
-Value1:
-x axis
-Value2:
-y axis
-btw negative numbers go right and up
-and viseversa

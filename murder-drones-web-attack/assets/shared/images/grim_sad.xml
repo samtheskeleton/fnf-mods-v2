@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="grim_sad.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="grim loop0000" x="0" y="0" width="442" height="715"/>
+	<SubTexture name="grim loop0001" x="0" y="0" width="442" height="715"/>
+	<SubTexture name="grim loop0002" x="442" y="0" width="442" height="715"/>
+	<SubTexture name="grim loop0003" x="442" y="0" width="442" height="715"/>
+	<SubTexture name="grim loop0004" x="884" y="0" width="442" height="715"/>
+	<SubTexture name="grim loop0005" x="884" y="0" width="442" height="715"/>
+	<SubTexture name="grim loop0006" x="1326" y="0" width="442" height="715"/>
+	<SubTexture name="grim loop0007" x="1326" y="0" width="442" height="715"/>
+	<SubTexture name="grim loop0008" x="1768" y="0" width="442" height="715"/>
+	<SubTexture name="grim loop0009" x="1768" y="0" width="442" height="715"/>
+	<SubTexture name="grim loop0010" x="2210" y="0" width="442" height="715"/>
+	<SubTexture name="grim loop0011" x="2210" y="0" width="442" height="715"/>
+	<SubTexture name="grim loop0012" x="2652" y="0" width="442" height="715"/>
+	<SubTexture name="grim loop0013" x="2652" y="0" width="442" height="715"/>
+	<SubTexture name="grim loop0014" x="3094" y="0" width="442" height="715"/>
+	<SubTexture name="grim loop0015" x="3094" y="0" width="442" height="715"/>
+	<SubTexture name="grim loop0016" x="3536" y="0" width="442" height="715"/>
+	<SubTexture name="grim loop0017" x="3536" y="0" width="442" height="715"/>
+	<SubTexture name="grim loop0018" x="0" y="715" width="442" height="715"/>
+	<SubTexture name="grim loop0019" x="0" y="715" width="442" height="715"/>
+	<SubTexture name="grim loop0020" x="442" y="715" width="442" height="715"/>
+	<SubTexture name="grim loop0021" x="442" y="715" width="442" height="715"/>
+	<SubTexture name="grim loop0022" x="442" y="715" width="442" height="715"/>
+	<SubTexture name="grim loop0023" x="442" y="715" width="442" height="715"/>
+	<SubTexture name="grim loop0024" x="442" y="715" width="442" height="715"/>
+</TextureAtlas>

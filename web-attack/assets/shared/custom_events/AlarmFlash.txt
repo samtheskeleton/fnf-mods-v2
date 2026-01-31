@@ -1,3 +1,0 @@
-Alarm Flash
-
-Value 1: speed

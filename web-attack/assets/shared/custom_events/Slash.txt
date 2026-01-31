@@ -1,3 +1,0 @@
-Slash
-
-Value 1: speed

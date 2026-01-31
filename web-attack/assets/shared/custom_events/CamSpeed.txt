@@ -1,3 +1,0 @@
-Value 1: Set Value Speed
-
-Value 1: Establecer valor de la velocidad
