@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pokeenter.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Senpai Portrait Enter0000" x="0" y="0" width="98" height="55" pivotX="215.4" pivotY="-320.15"/>
+	<SubTexture name="Senpai Portrait Enter0001" x="98" y="0" width="98" height="55"/>
+	<SubTexture name="Senpai Portrait Enter0002" x="98" y="0" width="98" height="55"/>
+	<SubTexture name="Senpai Portrait Enter0003" x="0" y="55" width="98" height="55"/>
+	<SubTexture name="Senpai Portrait Enter0004" x="0" y="55" width="98" height="55"/>
+	<SubTexture name="Senpai Portrait Enter0005" x="98" y="55" width="98" height="55"/>
+	<SubTexture name="Senpai Portrait Enter0006" x="98" y="55" width="98" height="55"/>
+	<SubTexture name="Senpai Portrait Enter0007" x="98" y="55" width="98" height="55"/>
+	<SubTexture name="Senpai Portrait Enter0008" x="0" y="110" width="98" height="55"/>
+</TextureAtlas>

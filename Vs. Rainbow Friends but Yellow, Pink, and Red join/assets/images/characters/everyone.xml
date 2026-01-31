@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="everyone.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="evdown0000" x="0" y="0" width="503" height="335"/>
+	<SubTexture name="evdown0001" x="503" y="0" width="503" height="335"/>
+	<SubTexture name="evdown0002" x="1006" y="0" width="503" height="335"/>
+	<SubTexture name="evdown0003" x="1509" y="0" width="503" height="335"/>
+	<SubTexture name="evdown0004" x="2012" y="0" width="503" height="335"/>
+	<SubTexture name="evdown0005" x="2515" y="0" width="503" height="335"/>
+	<SubTexture name="evdown0006" x="3018" y="0" width="503" height="335"/>
+	<SubTexture name="evdown0007" x="3521" y="0" width="503" height="335"/>
+	<SubTexture name="evdown0008" x="0" y="335" width="503" height="335"/>
+	<SubTexture name="evidle0000" x="503" y="335" width="525" height="377"/>
+	<SubTexture name="evidle0001" x="1028" y="335" width="525" height="377"/>
+	<SubTexture name="evidle0002" x="1553" y="335" width="525" height="377"/>
+	<SubTexture name="evidle0003" x="2078" y="335" width="525" height="377"/>
+	<SubTexture name="evidle0004" x="2603" y="335" width="525" height="377"/>
+	<SubTexture name="evidle0005" x="3128" y="335" width="525" height="377"/>
+	<SubTexture name="evidle0006" x="0" y="712" width="525" height="377"/>
+	<SubTexture name="evidle0007" x="525" y="712" width="525" height="377"/>
+	<SubTexture name="evidle0008" x="1050" y="712" width="525" height="377"/>
+	<SubTexture name="evidle0009" x="1575" y="712" width="525" height="377"/>
+	<SubTexture name="evidle0010" x="2100" y="712" width="525" height="377"/>
+	<SubTexture name="evidle0011" x="2625" y="712" width="525" height="377"/>
+	<SubTexture name="evidle0012" x="3150" y="712" width="525" height="377"/>
+	<SubTexture name="evidle0013" x="0" y="1089" width="525" height="377"/>
+	<SubTexture name="evidle0014" x="525" y="1089" width="525" height="377"/>
+	<SubTexture name="evidle0015" x="1050" y="1089" width="525" height="377"/>
+	<SubTexture name="evidle0016" x="1575" y="1089" width="525" height="377"/>
+	<SubTexture name="evidle0017" x="2100" y="1089" width="525" height="377"/>
+	<SubTexture name="evidle0018" x="2625" y="1089" width="525" height="377"/>
+	<SubTexture name="evidle0019" x="3150" y="1089" width="525" height="377"/>
+	<SubTexture name="evidle0020" x="0" y="1466" width="525" height="377"/>
+	<SubTexture name="evidle0021" x="525" y="1466" width="525" height="377"/>
+	<SubTexture name="evidle0022" x="1050" y="1466" width="525" height="377"/>
+	<SubTexture name="evidle0023" x="1575" y="1466" width="525" height="377"/>
+	<SubTexture name="evidle0024" x="2100" y="1466" width="525" height="377"/>
+	<SubTexture name="evidle0025" x="2625" y="1466" width="525" height="377"/>
+	<SubTexture name="evidle0026" x="3150" y="1466" width="525" height="377"/>
+	<SubTexture name="evidle0027" x="0" y="1843" width="525" height="377"/>
+	<SubTexture name="evidle0028" x="525" y="1843" width="525" height="377"/>
+	<SubTexture name="evleft0000" x="1050" y="1843" width="491" height="367"/>
+	<SubTexture name="evleft0001" x="1541" y="1843" width="491" height="367"/>
+	<SubTexture name="evleft0002" x="2032" y="1843" width="491" height="367"/>
+	<SubTexture name="evleft0003" x="2523" y="1843" width="491" height="367"/>
+	<SubTexture name="evleft0004" x="3014" y="1843" width="491" height="367"/>
+	<SubTexture name="evleft0005" x="3505" y="1843" width="491" height="367"/>
+	<SubTexture name="evleft0006" x="0" y="2220" width="491" height="367"/>
+	<SubTexture name="evleft0007" x="491" y="2220" width="491" height="367"/>
+	<SubTexture name="evleft0008" x="982" y="2220" width="491" height="367"/>
+	<SubTexture name="evright0000" x="1473" y="2220" width="626" height="319" frameX="-5" frameY="0" frameWidth="631" frameHeight="319"/>
+	<SubTexture name="evright0001" x="2099" y="2220" width="626" height="319" frameX="-5" frameY="0" frameWidth="631" frameHeight="319"/>
+	<SubTexture name="evright0002" x="2725" y="2220" width="626" height="319" frameX="-5" frameY="0" frameWidth="631" frameHeight="319"/>
+	<SubTexture name="evright0003" x="3351" y="2220" width="627" height="319" frameX="-4" frameY="0" frameWidth="631" frameHeight="319"/>
+	<SubTexture name="evright0004" x="0" y="2587" width="628" height="319" frameX="-3" frameY="0" frameWidth="631" frameHeight="319"/>
+	<SubTexture name="evright0005" x="628" y="2587" width="629" height="319" frameX="-2" frameY="0" frameWidth="631" frameHeight="319"/>
+	<SubTexture name="evright0006" x="1257" y="2587" width="631" height="319"/>
+	<SubTexture name="evright0007" x="1888" y="2587" width="631" height="319"/>
+	<SubTexture name="evright0008" x="2519" y="2587" width="626" height="319" frameX="-5" frameY="0" frameWidth="631" frameHeight="319"/>
+	<SubTexture name="evup0000" x="3145" y="2587" width="627" height="434" frameX="-7" frameY="0" frameWidth="634" frameHeight="434"/>
+	<SubTexture name="evup0001" x="0" y="3021" width="625" height="434" frameX="-9" frameY="0" frameWidth="634" frameHeight="434"/>
+	<SubTexture name="evup0002" x="625" y="3021" width="623" height="434" frameX="-11" frameY="0" frameWidth="634" frameHeight="434"/>
+	<SubTexture name="evup0003" x="1248" y="3021" width="622" height="434" frameX="-12" frameY="0" frameWidth="634" frameHeight="434"/>
+	<SubTexture name="evup0004" x="1870" y="3021" width="621" height="434" frameX="-13" frameY="0" frameWidth="634" frameHeight="434"/>
+	<SubTexture name="evup0005" x="2491" y="3021" width="634" height="434"/>
+	<SubTexture name="evup0006" x="3125" y="3021" width="634" height="434"/>
+	<SubTexture name="evup0007" x="0" y="3455" width="634" height="434"/>
+	<SubTexture name="evup0008" x="634" y="3455" width="629" height="434" frameX="-5" frameY="0" frameWidth="634" frameHeight="434"/>
+</TextureAtlas>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="poke_blackidle.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dad idle dance BLACK0000" x="0" y="0" width="414" height="476" pivotX="341.75" pivotY="270.25"/>
+	<SubTexture name="Dad idle dance BLACK0001" x="0" y="0" width="414" height="476"/>
+	<SubTexture name="Dad idle dance BLACK0002" x="414" y="0" width="414" height="476"/>
+	<SubTexture name="Dad idle dance BLACK0003" x="414" y="0" width="414" height="476"/>
+	<SubTexture name="Dad idle dance BLACK0004" x="828" y="0" width="414" height="476"/>
+	<SubTexture name="Dad idle dance BLACK0005" x="828" y="0" width="414" height="476"/>
+	<SubTexture name="Dad idle dance BLACK0006" x="1242" y="0" width="414" height="476"/>
+	<SubTexture name="Dad idle dance BLACK0007" x="1242" y="0" width="414" height="476"/>
+	<SubTexture name="Dad idle dance BLACK0008" x="0" y="476" width="414" height="476"/>
+	<SubTexture name="Dad idle dance BLACK0009" x="0" y="476" width="414" height="476"/>
+	<SubTexture name="Dad idle dance BLACK0010" x="0" y="476" width="414" height="476"/>
+	<SubTexture name="Dad idle dance BLACK0011" x="0" y="476" width="414" height="476"/>
+	<SubTexture name="Dad idle dance BLACK0012" x="0" y="476" width="414" height="476"/>
+</TextureAtlas>

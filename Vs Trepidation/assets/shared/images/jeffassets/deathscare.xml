@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="deathscare.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jeffscare0000" x="0" y="0" width="1281" height="721" pivotX="1.95" pivotY="34" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0001" x="1281" y="0" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0002" x="2562" y="0" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0003" x="3843" y="0" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0004" x="5124" y="0" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0005" x="6405" y="0" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0006" x="0" y="721" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0007" x="1281" y="721" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0008" x="2562" y="721" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0009" x="3843" y="721" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0010" x="3843" y="721" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0011" x="3843" y="721" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0012" x="3843" y="721" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0013" x="3843" y="721" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0014" x="5124" y="721" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0015" x="6405" y="721" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0016" x="0" y="1442" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0017" x="1281" y="1442" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0018" x="2562" y="1442" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0019" x="3843" y="1442" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0020" x="3843" y="1442" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0021" x="3843" y="1442" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0022" x="5124" y="1442" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0023" x="6405" y="1442" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0024" x="0" y="2163" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0025" x="1281" y="2163" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0026" x="2562" y="2163" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0027" x="3843" y="2163" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0028" x="5124" y="2163" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0029" x="6405" y="2163" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0030" x="0" y="2884" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0031" x="1281" y="2884" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0032" x="0" y="0" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0033" x="1281" y="0" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0034" x="2562" y="0" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0035" x="3843" y="0" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0036" x="5124" y="0" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0037" x="6405" y="0" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0038" x="0" y="721" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0039" x="1281" y="721" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0040" x="2562" y="721" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0041" x="3843" y="721" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0042" x="3843" y="721" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0043" x="3843" y="721" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0044" x="3843" y="721" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0045" x="3843" y="721" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0046" x="5124" y="721" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0047" x="6405" y="721" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0048" x="0" y="1442" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0049" x="1281" y="1442" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0050" x="2562" y="1442" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0051" x="3843" y="1442" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0052" x="3843" y="1442" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0053" x="3843" y="1442" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0054" x="5124" y="1442" width="1281" height="721" frameX="0" frameY="-34" frameWidth="1281" frameHeight="755"/>
+	<SubTexture name="jeffscare0055" x="2562" y="2884" width="1281" height="755"/>
+	<SubTexture name="jeffscare0056" x="2562" y="2884" width="1281" height="755"/>
+	<SubTexture name="jeffscare0057" x="2562" y="2884" width="1281" height="755"/>
+	<SubTexture name="jeffscare0058" x="2562" y="2884" width="1281" height="755"/>
+	<SubTexture name="jeffscare0059" x="2562" y="2884" width="1281" height="755"/>
+	<SubTexture name="jeffscare0060" x="2562" y="2884" width="1281" height="755"/>
+	<SubTexture name="jeffscare0061" x="2562" y="2884" width="1281" height="755"/>
+	<SubTexture name="jeffscare0062" x="2562" y="2884" width="1281" height="755"/>
+	<SubTexture name="jeffscare0063" x="2562" y="2884" width="1281" height="755"/>
+	<SubTexture name="jeffscare0064" x="2562" y="2884" width="1281" height="755"/>
+	<SubTexture name="jeffscare0065" x="2562" y="2884" width="1281" height="755"/>
+	<SubTexture name="jeffscare0066" x="2562" y="2884" width="1281" height="755"/>
+	<SubTexture name="jeffscare0067" x="2562" y="2884" width="1281" height="755"/>
+	<SubTexture name="jeffscare0068" x="2562" y="2884" width="1281" height="755"/>
+	<SubTexture name="jeffscare0069" x="2562" y="2884" width="1281" height="755"/>
+</TextureAtlas>

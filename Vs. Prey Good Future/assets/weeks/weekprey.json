@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Prey-Good-Future",
+			"sonic",
+			[
+				106,
+				0,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Prey, but Good and in the Future.",
+	"weekName": "weekprey",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

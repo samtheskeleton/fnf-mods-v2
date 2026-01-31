@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jumpscares.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 10000" x="0" y="0" width="1280" height="720" pivotX="0" pivotY="0"/>
+	<SubTexture name="Symbol 10001" x="1280" y="0" width="1280" height="720"/>
+	<SubTexture name="Symbol 10002" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="Symbol 10003" x="1280" y="0" width="1280" height="720"/>
+	<SubTexture name="Symbol 10004" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="Symbol 10005" x="1280" y="0" width="1280" height="720"/>
+	<SubTexture name="Symbol 10006" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="Symbol 10007" x="1280" y="0" width="1280" height="720"/>
+	<SubTexture name="Symbol 20000" x="2560" y="0" width="1314" height="756" pivotX="30" pivotY="9"/>
+	<SubTexture name="Symbol 20001" x="0" y="756" width="1314" height="756"/>
+	<SubTexture name="Symbol 20002" x="1314" y="756" width="1314" height="756"/>
+	<SubTexture name="Symbol 20003" x="2628" y="756" width="1314" height="756"/>
+	<SubTexture name="Symbol 20004" x="0" y="1512" width="1314" height="756"/>
+	<SubTexture name="Symbol 20005" x="1314" y="1512" width="1314" height="756"/>
+</TextureAtlas>
