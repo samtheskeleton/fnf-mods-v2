@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LeftPose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RightPose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-40
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DownPose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				64
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UpPose",
+			"indices": []
+		},
+		{
+			"offsets": [
+				3,
+				0
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-260,
+				140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "TipTap",
+			"indices": [],
+			"name": "turntap"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Caton",
+	"position": [
+		-440,
+		220
+	],
+	"healthicon": "caton",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

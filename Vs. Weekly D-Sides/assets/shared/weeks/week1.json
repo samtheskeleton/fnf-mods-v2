@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"Fallen",
+			"frisk",
+			[
+				0,
+				180,
+				255
+			]
+		],
+		[
+			"Lethally Funky",
+			"bug",
+			[
+				127,
+				40,
+				0
+			]
+		],
+		[
+			"Joink",
+			"caton",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Empty",
+			"dmori",
+			[
+				120,
+				120,
+				120
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

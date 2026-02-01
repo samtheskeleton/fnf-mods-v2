@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="glamfreddy_assets.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FREDDY DEAD CONFIRM0000" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEAD CONFIRM0001" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEAD CONFIRM0002" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEAD CONFIRM0003" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEAD CONFIRM0004" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEAD CONFIRM0005" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEAD CONFIRM0006" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEAD CONFIRM0007" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEAD CONFIRM0008" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEAD CONFIRM0009" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEAD CONFIRM0010" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEAD CONFIRM0011" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEAD CONFIRM0012" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEAD CONFIRM0013" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEAD CONFIRM0014" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEAD CONFIRM0015" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEAD CONFIRM0016" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEAD CONFIRM0017" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEAD CONFIRM0018" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEAD CONFIRM0019" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEAD CONFIRM0020" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEAD CONFIRM0021" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEAD CONFIRM0022" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEAD CONFIRM0023" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEAD CONFIRM0024" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEADLOOP0000" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEADLOOP0001" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEADLOOP0002" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEADLOOP0003" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEADLOOP0004" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEADLOOP0005" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEADLOOP0006" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEADLOOP0007" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEADLOOP0008" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEADLOOP0009" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEADLOOP0010" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEADLOOP0011" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEADLOOP0012" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEADLOOP0013" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEADLOOP0014" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEADLOOP0015" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEADLOOP0016" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEADLOOP0017" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEADLOOP0018" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEADLOOP0019" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEADLOOP0020" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEADLOOP0021" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEADLOOP0022" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEADLOOP0023" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DEADLOOP0024" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DIES0000" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DIES0001" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DIES0002" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DIES0003" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DIES0004" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DIES0005" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DIES0006" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DIES0007" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DIES0008" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DIES0009" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DIES0010" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DIES0011" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DIES0012" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DIES0013" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DIES0014" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DIES0015" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DIES0016" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DIES0017" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DIES0018" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DIES0019" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DIES0020" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DIES0021" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DIES0022" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DIES0023" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DIES0024" x="0" y="0" width="233" height="64"/>
+	<SubTexture name="FREDDY DOWN0000" x="237" y="0" width="915" height="698" frameX="0" frameY="0" frameWidth="917" frameHeight="699"/>
+	<SubTexture name="FREDDY DOWN0001" x="237" y="0" width="915" height="698" frameX="0" frameY="0" frameWidth="917" frameHeight="699"/>
+	<SubTexture name="FREDDY DOWN0002" x="1156" y="0" width="907" height="696" frameX="0" frameY="0" frameWidth="917" frameHeight="699"/>
+	<SubTexture name="FREDDY DOWN0003" x="1156" y="0" width="907" height="696" frameX="0" frameY="0" frameWidth="917" frameHeight="699"/>
+	<SubTexture name="FREDDY DOWN0004" x="2067" y="0" width="907" height="692" frameX="0" frameY="0" frameWidth="917" frameHeight="699"/>
+	<SubTexture name="FREDDY DOWN0005" x="2067" y="0" width="907" height="692" frameX="0" frameY="0" frameWidth="917" frameHeight="699"/>
+	<SubTexture name="FREDDY DOWN0006" x="2978" y="0" width="907" height="691" frameX="0" frameY="0" frameWidth="917" frameHeight="699"/>
+	<SubTexture name="FREDDY DOWN0007" x="2978" y="0" width="907" height="691" frameX="0" frameY="0" frameWidth="917" frameHeight="699"/>
+	<SubTexture name="FREDDY DOWN0008" x="3889" y="0" width="907" height="690" frameX="0" frameY="0" frameWidth="917" frameHeight="699"/>
+	<SubTexture name="FREDDY DOWN0009" x="3889" y="0" width="907" height="690" frameX="0" frameY="0" frameWidth="917" frameHeight="699"/>
+	<SubTexture name="FREDDY DOWN0010" x="4800" y="0" width="907" height="691" frameX="0" frameY="0" frameWidth="917" frameHeight="699"/>
+	<SubTexture name="FREDDY DOWN0011" x="4800" y="0" width="907" height="691" frameX="0" frameY="0" frameWidth="917" frameHeight="699"/>
+	<SubTexture name="FREDDY DOWN0012" x="5711" y="0" width="907" height="690" frameX="0" frameY="0" frameWidth="917" frameHeight="699"/>
+	<SubTexture name="FREDDY DOWN0013" x="5711" y="0" width="907" height="690" frameX="0" frameY="0" frameWidth="917" frameHeight="699"/>
+	<SubTexture name="FREDDY IDLE0000" x="6622" y="0" width="968" height="697"/>
+	<SubTexture name="FREDDY IDLE0001" x="6622" y="0" width="968" height="697"/>
+	<SubTexture name="FREDDY IDLE0002" x="0" y="702" width="968" height="697"/>
+	<SubTexture name="FREDDY IDLE0003" x="0" y="702" width="968" height="697"/>
+	<SubTexture name="FREDDY IDLE0004" x="972" y="702" width="968" height="697"/>
+	<SubTexture name="FREDDY IDLE0005" x="972" y="702" width="968" height="697"/>
+	<SubTexture name="FREDDY IDLE0006" x="0" y="702" width="968" height="697"/>
+	<SubTexture name="FREDDY IDLE0007" x="0" y="702" width="968" height="697"/>
+	<SubTexture name="FREDDY IDLE0008" x="6622" y="0" width="968" height="697"/>
+	<SubTexture name="FREDDY IDLE0009" x="6622" y="0" width="968" height="697"/>
+	<SubTexture name="FREDDY IDLE0010" x="0" y="702" width="968" height="697"/>
+	<SubTexture name="FREDDY IDLE0011" x="0" y="702" width="968" height="697"/>
+	<SubTexture name="FREDDY IDLE0012" x="1944" y="702" width="968" height="697"/>
+	<SubTexture name="FREDDY IDLE0013" x="1944" y="702" width="968" height="697"/>
+	<SubTexture name="FREDDY LEFT0000" x="2916" y="702" width="881" height="702"/>
+	<SubTexture name="FREDDY LEFT0001" x="2916" y="702" width="881" height="702"/>
+	<SubTexture name="FREDDY LEFT0002" x="3801" y="702" width="881" height="688" frameX="0" frameY="0" frameWidth="881" frameHeight="702"/>
+	<SubTexture name="FREDDY LEFT0003" x="3801" y="702" width="881" height="688" frameX="0" frameY="0" frameWidth="881" frameHeight="702"/>
+	<SubTexture name="FREDDY LEFT0004" x="4686" y="702" width="881" height="687" frameX="0" frameY="0" frameWidth="881" frameHeight="702"/>
+	<SubTexture name="FREDDY LEFT0005" x="4686" y="702" width="881" height="687" frameX="0" frameY="0" frameWidth="881" frameHeight="702"/>
+	<SubTexture name="FREDDY LEFT0006" x="5571" y="702" width="881" height="687" frameX="0" frameY="0" frameWidth="881" frameHeight="702"/>
+	<SubTexture name="FREDDY LEFT0007" x="5571" y="702" width="881" height="687" frameX="0" frameY="0" frameWidth="881" frameHeight="702"/>
+	<SubTexture name="FREDDY LEFT0008" x="6456" y="702" width="881" height="687" frameX="0" frameY="0" frameWidth="881" frameHeight="702"/>
+	<SubTexture name="FREDDY LEFT0009" x="6456" y="702" width="881" height="687" frameX="0" frameY="0" frameWidth="881" frameHeight="702"/>
+	<SubTexture name="FREDDY LEFT0010" x="0" y="1408" width="881" height="687" frameX="0" frameY="0" frameWidth="881" frameHeight="702"/>
+	<SubTexture name="FREDDY LEFT0011" x="0" y="1408" width="881" height="687" frameX="0" frameY="0" frameWidth="881" frameHeight="702"/>
+	<SubTexture name="FREDDY LEFT0012" x="885" y="1408" width="881" height="687" frameX="0" frameY="0" frameWidth="881" frameHeight="702"/>
+	<SubTexture name="FREDDY LEFT0013" x="885" y="1408" width="881" height="687" frameX="0" frameY="0" frameWidth="881" frameHeight="702"/>
+	<SubTexture name="FREDDY MISS DOWN0000" x="1770" y="1408" width="914" height="665"/>
+	<SubTexture name="FREDDY MISS DOWN0001" x="1770" y="1408" width="914" height="665"/>
+	<SubTexture name="FREDDY MISS DOWN0002" x="2688" y="1408" width="914" height="640" frameX="0" frameY="0" frameWidth="914" frameHeight="665"/>
+	<SubTexture name="FREDDY MISS DOWN0003" x="2688" y="1408" width="914" height="640" frameX="0" frameY="0" frameWidth="914" frameHeight="665"/>
+	<SubTexture name="FREDDY MISS DOWN0004" x="2688" y="1408" width="914" height="640" frameX="0" frameY="0" frameWidth="914" frameHeight="665"/>
+	<SubTexture name="FREDDY MISS DOWN0005" x="2688" y="1408" width="914" height="640" frameX="0" frameY="0" frameWidth="914" frameHeight="665"/>
+	<SubTexture name="FREDDY MISS DOWN0006" x="2688" y="1408" width="914" height="640" frameX="0" frameY="0" frameWidth="914" frameHeight="665"/>
+	<SubTexture name="FREDDY MISS DOWN0007" x="2688" y="1408" width="914" height="640" frameX="0" frameY="0" frameWidth="914" frameHeight="665"/>
+	<SubTexture name="FREDDY MISS DOWN0008" x="2688" y="1408" width="914" height="640" frameX="0" frameY="0" frameWidth="914" frameHeight="665"/>
+	<SubTexture name="FREDDY MISS DOWN0009" x="2688" y="1408" width="914" height="640" frameX="0" frameY="0" frameWidth="914" frameHeight="665"/>
+	<SubTexture name="FREDDY MISS DOWN0010" x="2688" y="1408" width="914" height="640" frameX="0" frameY="0" frameWidth="914" frameHeight="665"/>
+	<SubTexture name="FREDDY MISS DOWN0011" x="2688" y="1408" width="914" height="640" frameX="0" frameY="0" frameWidth="914" frameHeight="665"/>
+	<SubTexture name="FREDDY MISS DOWN0012" x="2688" y="1408" width="914" height="640" frameX="0" frameY="0" frameWidth="914" frameHeight="665"/>
+	<SubTexture name="FREDDY MISS DOWN0013" x="2688" y="1408" width="914" height="640" frameX="0" frameY="0" frameWidth="914" frameHeight="665"/>
+	<SubTexture name="FREDDY MISS LEFT0000" x="3606" y="1408" width="891" height="706"/>
+	<SubTexture name="FREDDY MISS LEFT0001" x="3606" y="1408" width="891" height="706"/>
+	<SubTexture name="FREDDY MISS LEFT0002" x="4501" y="1408" width="891" height="693" frameX="0" frameY="0" frameWidth="891" frameHeight="706"/>
+	<SubTexture name="FREDDY MISS LEFT0003" x="4501" y="1408" width="891" height="693" frameX="0" frameY="0" frameWidth="891" frameHeight="706"/>
+	<SubTexture name="FREDDY MISS LEFT0004" x="4501" y="1408" width="891" height="693" frameX="0" frameY="0" frameWidth="891" frameHeight="706"/>
+	<SubTexture name="FREDDY MISS LEFT0005" x="4501" y="1408" width="891" height="693" frameX="0" frameY="0" frameWidth="891" frameHeight="706"/>
+	<SubTexture name="FREDDY MISS LEFT0006" x="4501" y="1408" width="891" height="693" frameX="0" frameY="0" frameWidth="891" frameHeight="706"/>
+	<SubTexture name="FREDDY MISS LEFT0007" x="4501" y="1408" width="891" height="693" frameX="0" frameY="0" frameWidth="891" frameHeight="706"/>
+	<SubTexture name="FREDDY MISS LEFT0008" x="4501" y="1408" width="891" height="693" frameX="0" frameY="0" frameWidth="891" frameHeight="706"/>
+	<SubTexture name="FREDDY MISS LEFT0009" x="4501" y="1408" width="891" height="693" frameX="0" frameY="0" frameWidth="891" frameHeight="706"/>
+	<SubTexture name="FREDDY MISS LEFT0010" x="4501" y="1408" width="891" height="693" frameX="0" frameY="0" frameWidth="891" frameHeight="706"/>
+	<SubTexture name="FREDDY MISS LEFT0011" x="4501" y="1408" width="891" height="693" frameX="0" frameY="0" frameWidth="891" frameHeight="706"/>
+	<SubTexture name="FREDDY MISS LEFT0012" x="4501" y="1408" width="891" height="693" frameX="0" frameY="0" frameWidth="891" frameHeight="706"/>
+	<SubTexture name="FREDDY MISS LEFT0013" x="4501" y="1408" width="891" height="693" frameX="0" frameY="0" frameWidth="891" frameHeight="706"/>
+	<SubTexture name="FREDDY MISS RIGHT 0000" x="5396" y="1408" width="1031" height="676"/>
+	<SubTexture name="FREDDY MISS RIGHT 0001" x="5396" y="1408" width="1031" height="676"/>
+	<SubTexture name="FREDDY MISS RIGHT 0002" x="6431" y="1408" width="1031" height="676"/>
+	<SubTexture name="FREDDY MISS RIGHT 0003" x="6431" y="1408" width="1031" height="676"/>
+	<SubTexture name="FREDDY MISS RIGHT 0004" x="6431" y="1408" width="1031" height="676"/>
+	<SubTexture name="FREDDY MISS RIGHT 0005" x="6431" y="1408" width="1031" height="676"/>
+	<SubTexture name="FREDDY MISS RIGHT 0006" x="6431" y="1408" width="1031" height="676"/>
+	<SubTexture name="FREDDY MISS RIGHT 0007" x="6431" y="1408" width="1031" height="676"/>
+	<SubTexture name="FREDDY MISS RIGHT 0008" x="6431" y="1408" width="1031" height="676"/>
+	<SubTexture name="FREDDY MISS RIGHT 0009" x="6431" y="1408" width="1031" height="676"/>
+	<SubTexture name="FREDDY MISS RIGHT 0010" x="6431" y="1408" width="1031" height="676"/>
+	<SubTexture name="FREDDY MISS RIGHT 0011" x="6431" y="1408" width="1031" height="676"/>
+	<SubTexture name="FREDDY MISS RIGHT 0012" x="6431" y="1408" width="1031" height="676"/>
+	<SubTexture name="FREDDY MISS RIGHT 0013" x="6431" y="1408" width="1031" height="676"/>
+	<SubTexture name="FREDDY MISS UP0000" x="0" y="2118" width="897" height="804" frameX="0" frameY="0" frameWidth="897" frameHeight="808"/>
+	<SubTexture name="FREDDY MISS UP0001" x="0" y="2118" width="897" height="804" frameX="0" frameY="0" frameWidth="897" frameHeight="808"/>
+	<SubTexture name="FREDDY MISS UP0002" x="901" y="2118" width="897" height="808"/>
+	<SubTexture name="FREDDY MISS UP0003" x="901" y="2118" width="897" height="808"/>
+	<SubTexture name="FREDDY MISS UP0004" x="901" y="2118" width="897" height="808"/>
+	<SubTexture name="FREDDY MISS UP0005" x="901" y="2118" width="897" height="808"/>
+	<SubTexture name="FREDDY MISS UP0006" x="901" y="2118" width="897" height="808"/>
+	<SubTexture name="FREDDY MISS UP0007" x="901" y="2118" width="897" height="808"/>
+	<SubTexture name="FREDDY MISS UP0008" x="901" y="2118" width="897" height="808"/>
+	<SubTexture name="FREDDY MISS UP0009" x="901" y="2118" width="897" height="808"/>
+	<SubTexture name="FREDDY MISS UP0010" x="901" y="2118" width="897" height="808"/>
+	<SubTexture name="FREDDY MISS UP0011" x="901" y="2118" width="897" height="808"/>
+	<SubTexture name="FREDDY MISS UP0012" x="901" y="2118" width="897" height="808"/>
+	<SubTexture name="FREDDY MISS UP0013" x="901" y="2118" width="897" height="808"/>
+	<SubTexture name="FREDDY RIGHT0000" x="1802" y="2118" width="1030" height="677"/>
+	<SubTexture name="FREDDY RIGHT0001" x="1802" y="2118" width="1030" height="677"/>
+	<SubTexture name="FREDDY RIGHT0002" x="2836" y="2118" width="1030" height="677"/>
+	<SubTexture name="FREDDY RIGHT0003" x="2836" y="2118" width="1030" height="677"/>
+	<SubTexture name="FREDDY RIGHT0004" x="3870" y="2118" width="1030" height="677"/>
+	<SubTexture name="FREDDY RIGHT0005" x="3870" y="2118" width="1030" height="677"/>
+	<SubTexture name="FREDDY RIGHT0006" x="4904" y="2118" width="1030" height="677"/>
+	<SubTexture name="FREDDY RIGHT0007" x="4904" y="2118" width="1030" height="677"/>
+	<SubTexture name="FREDDY RIGHT0008" x="5938" y="2118" width="1030" height="677"/>
+	<SubTexture name="FREDDY RIGHT0009" x="5938" y="2118" width="1030" height="677"/>
+	<SubTexture name="FREDDY RIGHT0010" x="4904" y="2118" width="1030" height="677"/>
+	<SubTexture name="FREDDY RIGHT0011" x="4904" y="2118" width="1030" height="677"/>
+	<SubTexture name="FREDDY RIGHT0012" x="6972" y="2118" width="1030" height="677"/>
+	<SubTexture name="FREDDY RIGHT0013" x="6972" y="2118" width="1030" height="677"/>
+	<SubTexture name="FREDDY UP0000" x="0" y="2930" width="940" height="802" frameX="0" frameY="0" frameWidth="940" frameHeight="808"/>
+	<SubTexture name="FREDDY UP0001" x="0" y="2930" width="940" height="802" frameX="0" frameY="0" frameWidth="940" frameHeight="808"/>
+	<SubTexture name="FREDDY UP0002" x="944" y="2930" width="940" height="806" frameX="0" frameY="0" frameWidth="940" frameHeight="808"/>
+	<SubTexture name="FREDDY UP0003" x="944" y="2930" width="940" height="806" frameX="0" frameY="0" frameWidth="940" frameHeight="808"/>
+	<SubTexture name="FREDDY UP0004" x="1888" y="2930" width="940" height="808"/>
+	<SubTexture name="FREDDY UP0005" x="1888" y="2930" width="940" height="808"/>
+	<SubTexture name="FREDDY UP0006" x="2832" y="2930" width="940" height="808"/>
+	<SubTexture name="FREDDY UP0007" x="2832" y="2930" width="940" height="808"/>
+	<SubTexture name="FREDDY UP0008" x="3776" y="2930" width="940" height="808"/>
+	<SubTexture name="FREDDY UP0009" x="3776" y="2930" width="940" height="808"/>
+	<SubTexture name="FREDDY UP0010" x="4720" y="2930" width="940" height="808"/>
+	<SubTexture name="FREDDY UP0011" x="4720" y="2930" width="940" height="808"/>
+	<SubTexture name="FREDDY UP0012" x="5664" y="2930" width="940" height="808"/>
+	<SubTexture name="FREDDY UP0013" x="5664" y="2930" width="940" height="808"/>
+</TextureAtlas>

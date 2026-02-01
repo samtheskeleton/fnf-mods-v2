@@ -1,0 +1,118 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				2,
+				-11
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-12,
+				24
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-6,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				3,
+				-187
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "SoupDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-90
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "SoupLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				-69
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "SoupRIght",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				53
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "SoupUp",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Tord-FLA",
+	"position": [
+		30,
+		-60
+	],
+	"healthicon": "icon_tord",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-10,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

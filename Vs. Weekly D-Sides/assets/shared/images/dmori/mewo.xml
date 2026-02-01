@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mewo.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mewo0000" x="41" y="41" width="306" height="159"/>
+	<SubTexture name="mewo0001" x="41" y="41" width="306" height="159"/>
+	<SubTexture name="mewo0002" x="41" y="41" width="306" height="159"/>
+	<SubTexture name="mewo0003" x="41" y="266" width="306" height="159"/>
+	<SubTexture name="mewo0004" x="41" y="266" width="306" height="159"/>
+	<SubTexture name="mewo0005" x="41" y="266" width="306" height="159"/>
+</TextureAtlas>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="caton.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="turntap0010000" x="876" y="1253" width="271" height="197" frameX="-251" frameY="-468" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="turntap0020000" x="1291" y="266" width="304" height="189" frameX="-79" frameY="-456" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="turntap0030000" x="1291" y="645" width="291" height="189" frameX="-6" frameY="-430" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="turntap0040000" x="1291" y="1023" width="287" height="189" frameX="-4" frameY="-428" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="turntap0050000" x="1291" y="1023" width="287" height="189" frameX="-4" frameY="-428" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="turntap0060000" x="1291" y="834" width="289" height="189" frameX="-2" frameY="-428" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="turntap0070000" x="1291" y="455" width="291" height="190" frameX="2" frameY="-429" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="turntap0080000" x="1291" y="834" width="289" height="189" frameX="-2" frameY="-428" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="turntap0090000" x="1291" y="455" width="291" height="190" frameX="2" frameY="-429" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="turntap0100000" x="1291" y="834" width="289" height="189" frameX="-2" frameY="-428" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="turntap0110000" x="1291" y="455" width="291" height="190" frameX="2" frameY="-429" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="turntap0120000" x="1291" y="834" width="289" height="189" frameX="-2" frameY="-428" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="turntap0130000" x="1291" y="455" width="291" height="190" frameX="2" frameY="-429" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="turntap0140000" x="1291" y="834" width="289" height="189" frameX="-2" frameY="-428" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="turntap0150000" x="1291" y="834" width="289" height="189" frameX="-2" frameY="-428" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="turntap0160000" x="1291" y="834" width="289" height="189" frameX="-2" frameY="-428" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="turntap0170000" x="1291" y="645" width="291" height="189" frameX="-6" frameY="-430" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="turntap0180000" x="1291" y="266" width="304" height="189" frameX="-79" frameY="-456" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="turntap0190000" x="876" y="1253" width="271" height="197" frameX="-251" frameY="-468" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="jumpup0000000" x="870" y="0" width="421" height="308" frameX="-432" frameY="-243" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="jumpup0010000" x="0" y="945" width="399" height="308" frameX="-440" frameY="-233" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="jumpup0020000" x="0" y="309" width="389" height="336" frameX="-450" frameY="-181" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="jumpup0030000" x="0" y="945" width="399" height="308" frameX="-440" frameY="-233" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="jumpup0040000" x="870" y="0" width="421" height="308" frameX="-432" frameY="-243" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="LeftPose0000000" x="416" y="645" width="416" height="300" frameX="-419" frameY="-258" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="LeftPose0010000" x="0" y="645" width="416" height="300" frameX="-419" frameY="-258" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="LeftPose0020000" x="832" y="645" width="405" height="290" frameX="-437" frameY="-268" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="RightPose0000000" x="0" y="0" width="440" height="309" frameX="-431" frameY="-240" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="RightPose0010000" x="0" y="0" width="440" height="309" frameX="-431" frameY="-240" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="RightPose0020000" x="440" y="0" width="430" height="306" frameX="-425" frameY="-243" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="UpPose0000000" x="389" y="309" width="391" height="333" frameX="-446" frameY="-221" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="DownPose0000000" x="426" y="1253" width="450" height="244" frameX="-421" frameY="-302" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="DownPose0010000" x="426" y="1253" width="450" height="244" frameX="-421" frameY="-302" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="DownPose0020000" x="0" y="1253" width="426" height="258" frameX="-433" frameY="-285" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="Idle0000000" x="399" y="945" width="400" height="291" frameX="-444" frameY="-263" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="Idle0010000" x="399" y="945" width="400" height="291" frameX="-444" frameY="-263" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="Idle0020000" x="1291" y="0" width="424" height="266" frameX="-432" frameY="-290" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="Idle0030000" x="1291" y="0" width="424" height="266" frameX="-432" frameY="-290" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="Idle0040000" x="399" y="945" width="400" height="291" frameX="-444" frameY="-263" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="Idle0050000" x="1291" y="0" width="424" height="266" frameX="-432" frameY="-290" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="Idle0060000" x="799" y="945" width="416" height="272" frameX="-435" frameY="-283" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="UpPose0010000" x="389" y="309" width="391" height="333" frameX="-446" frameY="-221" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="UpPose0020000" x="870" y="308" width="421" height="308" frameX="-432" frameY="-243" frameWidth="1280" frameHeight="720"/>
+</TextureAtlas>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Frisk.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Idle0010000" x="0" y="1105" width="455" height="538" frameX="-74" frameY="-42" frameWidth="582" frameHeight="606"/>
+	<SubTexture name="Idle0020000" x="1498" y="0" width="454" height="540" frameX="-73" frameY="-40" frameWidth="582" frameHeight="606"/>
+	<SubTexture name="Idle0030000" x="1029" y="552" width="463" height="547" frameX="-68" frameY="-33" frameWidth="582" frameHeight="606"/>
+	<SubTexture name="Idle0040000" x="1029" y="0" width="469" height="552" frameX="-63" frameY="-28" frameWidth="582" frameHeight="606"/>
+	<SubTexture name="Idle0050000" x="513" y="552" width="471" height="552" frameX="-60" frameY="-28" frameWidth="582" frameHeight="606"/>
+	<SubTexture name="Idle0060000" x="513" y="552" width="471" height="552" frameX="-60" frameY="-28" frameWidth="582" frameHeight="606"/>
+	<SubTexture name="Idle0070000" x="513" y="552" width="471" height="552" frameX="-60" frameY="-28" frameWidth="582" frameHeight="606"/>
+	<SubTexture name="Idle0080000" x="513" y="552" width="471" height="552" frameX="-60" frameY="-28" frameWidth="582" frameHeight="606"/>
+	<SubTexture name="rightpose0010000" x="0" y="552" width="513" height="553" frameX="-47" frameY="-52" frameWidth="644" frameHeight="643"/>
+	<SubTexture name="rightpose0020000" x="0" y="0" width="515" height="552" frameX="-46" frameY="-53" frameWidth="644" frameHeight="643"/>
+	<SubTexture name="rightpose0030000" x="515" y="0" width="514" height="552" frameX="-42" frameY="-53" frameWidth="644" frameHeight="643"/>
+	<SubTexture name="rightpose0040000" x="515" y="0" width="514" height="552" frameX="-42" frameY="-53" frameWidth="644" frameHeight="643"/>
+	<SubTexture name="rightpose0050000" x="515" y="0" width="514" height="552" frameX="-42" frameY="-53" frameWidth="644" frameHeight="643"/>
+	<SubTexture name="rightpose0060000" x="515" y="0" width="514" height="552" frameX="-42" frameY="-53" frameWidth="644" frameHeight="643"/>
+	<SubTexture name="Uppose0010000" x="0" y="1643" width="381" height="559" frameX="-45" frameY="-31" frameWidth="495" frameHeight="617"/>
+	<SubTexture name="Uppose0020000" x="381" y="1643" width="382" height="556" frameX="-45" frameY="-34" frameWidth="495" frameHeight="617"/>
+	<SubTexture name="Uppose0030000" x="763" y="1643" width="382" height="551" frameX="-45" frameY="-39" frameWidth="495" frameHeight="617"/>
+	<SubTexture name="Uppose0040000" x="763" y="1643" width="382" height="551" frameX="-45" frameY="-39" frameWidth="495" frameHeight="617"/>
+	<SubTexture name="Uppose0050000" x="763" y="1643" width="382" height="551" frameX="-45" frameY="-39" frameWidth="495" frameHeight="617"/>
+	<SubTexture name="Uppose0060000" x="763" y="1643" width="382" height="551" frameX="-45" frameY="-39" frameWidth="495" frameHeight="617"/>
+	<SubTexture name="Leftpose0010000" x="1498" y="540" width="396" height="553" frameX="-62" frameY="-48" frameWidth="518" frameHeight="636"/>
+	<SubTexture name="Leftpose0020000" x="1952" y="0" width="394" height="552" frameX="-65" frameY="-49" frameWidth="518" frameHeight="636"/>
+	<SubTexture name="Leftpose0030000" x="1952" y="552" width="393" height="552" frameX="-69" frameY="-49" frameWidth="518" frameHeight="636"/>
+	<SubTexture name="Leftpose0040000" x="1952" y="552" width="393" height="552" frameX="-69" frameY="-49" frameWidth="518" frameHeight="636"/>
+	<SubTexture name="Leftpose0050000" x="1952" y="552" width="393" height="552" frameX="-69" frameY="-49" frameWidth="518" frameHeight="636"/>
+	<SubTexture name="Leftpose0060000" x="1952" y="552" width="393" height="552" frameX="-69" frameY="-49" frameWidth="518" frameHeight="636"/>
+	<SubTexture name="Downpose0010000" x="455" y="1105" width="390" height="528" frameX="-67" frameY="-69" frameWidth="515" frameHeight="629"/>
+	<SubTexture name="Downpose0020000" x="1145" y="1643" width="388" height="530" frameX="-68" frameY="-67" frameWidth="515" frameHeight="629"/>
+	<SubTexture name="Downpose0030000" x="1952" y="1104" width="388" height="533" frameX="-68" frameY="-64" frameWidth="515" frameHeight="629"/>
+	<SubTexture name="Downpose0040000" x="1952" y="1104" width="388" height="533" frameX="-68" frameY="-64" frameWidth="515" frameHeight="629"/>
+	<SubTexture name="Downpose0050000" x="1952" y="1104" width="388" height="533" frameX="-68" frameY="-64" frameWidth="515" frameHeight="629"/>
+	<SubTexture name="Downpose0060000" x="1952" y="1104" width="388" height="533" frameX="-68" frameY="-64" frameWidth="515" frameHeight="629"/>
+</TextureAtlas>

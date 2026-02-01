@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				41,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				65,
+				20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Leftpose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				23
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "rightpose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				10
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Uppose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				20
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Downpose",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Frisk",
+	"position": [
+		100,
+		230
+	],
+	"healthicon": "frisk",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		151,
+		237
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.999999999999999
+}
