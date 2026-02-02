@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				19,
+				-288
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Brightside NOTE DOWN"
+		},
+		{
+			"offsets": [
+				-30,
+				51
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Brightside NOTE UP"
+		},
+		{
+			"offsets": [
+				-272,
+				-39
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Brightside NOTE RIGHT"
+		},
+		{
+			"offsets": [
+				112,
+				-176
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Brightside NOTE LEFT"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "idle",
+			"loop": false,
+			"name": "Brightside Idle Dance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/side",
+	"position": [
+		-130,
+		-250
+	],
+	"healthicon": "brightbitch",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		161,
+		21
+	],
+	"camera_position": [
+		-60,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

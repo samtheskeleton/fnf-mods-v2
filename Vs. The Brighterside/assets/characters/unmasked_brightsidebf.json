@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Boy Idle Dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-14
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Boy NOTE DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				27
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Boy NOTE UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				40,
+				-11
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Boy NOTE RIGHT"
+		},
+		{
+			"offsets": [
+				-13,
+				-9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Boy NOTE LEFT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/unmasked_brightside",
+	"position": [
+		-10,
+		60
+	],
+	"healthicon": "femboy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		215,
+		141
+	],
+	"camera_position": [
+		-140,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

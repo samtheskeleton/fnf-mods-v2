@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				90,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "world"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/World Rewrite",
+	"position": [
+		200,
+		-180
+	],
+	"healthicon": "rewrite-icon",
+	"flip_x": false,
+	"healthbar_colors": [
+		52,
+		0,
+		116
+	],
+	"camera_position": [
+		-110,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

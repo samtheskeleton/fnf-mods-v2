@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				102,
+				-140
+			],
+			"anim": "singLEFT",
+			"fps": 14,
+			"name": "minionleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				98,
+				-130
+			],
+			"anim": "singDOWN",
+			"fps": 14,
+			"name": "miniondown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-100
+			],
+			"anim": "singUP",
+			"fps": 14,
+			"name": "minionup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-180
+			],
+			"anim": "singRIGHT",
+			"fps": 14,
+			"name": "minionright",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				100,
+				-100
+			],
+			"anim": "idle",
+			"fps": 14,
+			"name": "minionidle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BentlyCellulaBreat",
+	"position": [
+		-100,
+		-150
+	],
+	"healthicon": "bently",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		255,
+		81
+	],
+	"camera_position": [
+		-370,
+		160
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}
