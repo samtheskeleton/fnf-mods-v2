@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tuberia1.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tuberia0000" x="0" y="0" width="733" height="706" frameX="-90" frameY="-1001" frameWidth="916" frameHeight="1718"/>
+	<SubTexture name="tuberia0001" x="733" y="0" width="490" height="776" frameX="-212" frameY="-931" frameWidth="916" frameHeight="1718"/>
+	<SubTexture name="tuberia0002" x="733" y="0" width="490" height="776" frameX="-212" frameY="-931" frameWidth="916" frameHeight="1718"/>
+	<SubTexture name="tuberia0003" x="1223" y="0" width="898" height="408" frameX="-8" frameY="-1300" frameWidth="916" frameHeight="1718"/>
+	<SubTexture name="tuberia0004" x="1223" y="0" width="898" height="408" frameX="-8" frameY="-1300" frameWidth="916" frameHeight="1718"/>
+	<SubTexture name="tuberia0005" x="2121" y="0" width="898" height="409" frameX="0" frameY="-1295" frameWidth="916" frameHeight="1718"/>
+	<SubTexture name="tuberia0006" x="2121" y="0" width="898" height="409" frameX="0" frameY="-1295" frameWidth="916" frameHeight="1718"/>
+	<SubTexture name="tuberia0007" x="3019" y="0" width="898" height="408" frameX="-4" frameY="-1310" frameWidth="916" frameHeight="1718"/>
+	<SubTexture name="tuberia0008" x="3019" y="0" width="898" height="408" frameX="-4" frameY="-1310" frameWidth="916" frameHeight="1718"/>
+	<SubTexture name="tuberia0009" x="0" y="776" width="898" height="408" frameX="-8" frameY="-1304" frameWidth="916" frameHeight="1718"/>
+	<SubTexture name="tuberia0010" x="0" y="776" width="898" height="408" frameX="-8" frameY="-1304" frameWidth="916" frameHeight="1718"/>
+	<SubTexture name="tuberia0011" x="898" y="776" width="898" height="407" frameX="-18" frameY="-1298" frameWidth="916" frameHeight="1718"/>
+	<SubTexture name="tuberia0012" x="898" y="776" width="898" height="407" frameX="-18" frameY="-1298" frameWidth="916" frameHeight="1718"/>
+	<SubTexture name="tuberia0013" x="1796" y="776" width="488" height="1707" frameX="-213" frameY="0" frameWidth="916" frameHeight="1718"/>
+	<SubTexture name="tuberia0014" x="2284" y="776" width="488" height="810" frameX="-213" frameY="-897" frameWidth="916" frameHeight="1718"/>
+	<SubTexture name="tuberia0015" x="2284" y="776" width="488" height="810" frameX="-213" frameY="-897" frameWidth="916" frameHeight="1718"/>
+	<SubTexture name="tuberia0016" x="733" y="0" width="490" height="776" frameX="-212" frameY="-931" frameWidth="916" frameHeight="1718"/>
+	<SubTexture name="tuberia0017" x="733" y="0" width="490" height="776" frameX="-212" frameY="-931" frameWidth="916" frameHeight="1718"/>
+	<SubTexture name="tuberia0018" x="733" y="0" width="490" height="776" frameX="-212" frameY="-931" frameWidth="916" frameHeight="1718"/>
+</TextureAtlas>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mario.png">
+	<!-- Made using Maru Aseprite JSON to XML converter -->
+	<SubTexture name="idle0000" x="0" y="0" width="48" height="47"/>
+	<SubTexture name="right0000" x="48" y="0" width="48" height="47"/>
+	<SubTexture name="right0001" x="96" y="0" width="48" height="47"/>
+	<SubTexture name="down0000" x="0" y="47" width="48" height="47"/>
+	<SubTexture name="down0001" x="48" y="47" width="48" height="47"/>
+	<SubTexture name="left0000" x="96" y="47" width="48" height="47"/>
+	<SubTexture name="left0001" x="0" y="94" width="48" height="47"/>
+	<SubTexture name="up0000" x="48" y="94" width="48" height="47"/>
+	<SubTexture name="up0001" x="96" y="94" width="48" height="47"/>
+</TextureAtlas>

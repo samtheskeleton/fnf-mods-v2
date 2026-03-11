@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				54,
+				212
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				53,
+				161
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				13,
+				222
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				83,
+				206
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-18,
+				213
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				74,
+				704
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "cae",
+			"loop": false,
+			"name": "cae"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/luigire",
+	"position": [
+		-50,
+		20
+	],
+	"healthicon": "mario",
+	"flip_x": false,
+	"healthbar_colors": [
+		243,
+		27,
+		26
+	],
+	"camera_position": [
+		700,
+		-460
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="heavy.png">
+	<!-- Made using Maru Aseprite JSON to XML converter -->
+	<SubTexture name="idle0000" x="0" y="0" width="73" height="53"/>
+	<SubTexture name="left0000" x="73" y="0" width="73" height="53"/>
+	<SubTexture name="left0001" x="146" y="0" width="73" height="53"/>
+	<SubTexture name="up0000" x="0" y="53" width="73" height="53"/>
+	<SubTexture name="up0001" x="73" y="53" width="73" height="53"/>
+	<SubTexture name="right0000" x="146" y="53" width="73" height="53"/>
+	<SubTexture name="right0001" x="0" y="106" width="73" height="53"/>
+	<SubTexture name="down0000" x="73" y="106" width="73" height="53"/>
+	<SubTexture name="down0001" x="146" y="106" width="73" height="53"/>
+</TextureAtlas>

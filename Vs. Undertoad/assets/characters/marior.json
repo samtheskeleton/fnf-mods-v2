@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				54,
+				112
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle0"
+		},
+		{
+			"offsets": [
+				27,
+				66
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down0"
+		},
+		{
+			"offsets": [
+				34,
+				152
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up0"
+		},
+		{
+			"offsets": [
+				63,
+				116
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left0"
+		},
+		{
+			"offsets": [
+				128,
+				112
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right0"
+		},
+		{
+			"offsets": [
+				228,
+				363
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "guitarra",
+			"loop": false,
+			"name": "guitarra"
+		},
+		{
+			"offsets": [
+				55,
+				110
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": false,
+			"name": "idle alt"
+		},
+		{
+			"offsets": [
+				36,
+				286
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "up alt"
+		},
+		{
+			"offsets": [
+				7,
+				150
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "right alt"
+		},
+		{
+			"offsets": [
+				74,
+				168
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "left alt"
+		},
+		{
+			"offsets": [
+				21,
+				80
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "down-alt"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/marios",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "mario",
+	"flip_x": false,
+	"healthbar_colors": [
+		243,
+		27,
+		26
+	],
+	"camera_position": [
+		-50,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

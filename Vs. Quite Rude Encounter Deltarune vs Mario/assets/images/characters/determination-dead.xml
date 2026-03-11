@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="determination-dead.png">
+	<!-- Made using Maru Aseprite JSON to XML converter -->
+	<SubTexture name="anim0000" x="0" y="0" width="30" height="26"/>
+	<SubTexture name="anim0001" x="0" y="0" width="30" height="26"/>
+	<SubTexture name="anim0002" x="0" y="0" width="30" height="26"/>
+	<SubTexture name="anim0003" x="0" y="0" width="30" height="26"/>
+	<SubTexture name="anim0004" x="0" y="0" width="30" height="26"/>
+	<SubTexture name="anim0005" x="0" y="0" width="30" height="26"/>
+	<SubTexture name="anim0006" x="0" y="0" width="30" height="26"/>
+	<SubTexture name="anim0007" x="0" y="0" width="30" height="26"/>
+	<SubTexture name="anim0008" x="0" y="0" width="30" height="26"/>
+	<SubTexture name="anim0009" x="0" y="0" width="30" height="26"/>
+	<SubTexture name="anim0010" x="0" y="0" width="30" height="26"/>
+	<SubTexture name="anim0011" x="0" y="0" width="30" height="26"/>
+	<SubTexture name="anim0012" x="0" y="0" width="30" height="26"/>
+	<SubTexture name="anim0013" x="0" y="0" width="30" height="26"/>
+	<SubTexture name="anim0014" x="0" y="0" width="30" height="26"/>
+	<SubTexture name="anim0015" x="0" y="0" width="30" height="26"/>
+	<SubTexture name="anim0016" x="0" y="0" width="30" height="26"/>
+	<SubTexture name="anim0017" x="0" y="0" width="30" height="26"/>
+	<SubTexture name="anim0018" x="0" y="0" width="30" height="26"/>
+	<SubTexture name="anim0019" x="0" y="0" width="30" height="26"/>
+	<SubTexture name="anim0020" x="0" y="0" width="30" height="26"/>
+	<SubTexture name="anim0021" x="0" y="0" width="30" height="26"/>
+	<SubTexture name="anim0022" x="0" y="0" width="30" height="26"/>
+	<SubTexture name="anim0023" x="30" y="0" width="30" height="26"/>
+	<SubTexture name="anim0024" x="60" y="0" width="30" height="26"/>
+	<SubTexture name="anim0025" x="90" y="0" width="30" height="26"/>
+	<SubTexture name="anim0026" x="120" y="0" width="30" height="26"/>
+	<SubTexture name="anim0027" x="150" y="0" width="30" height="26"/>
+	<SubTexture name="anim0028" x="180" y="0" width="30" height="26"/>
+	<SubTexture name="dead0000" x="180" y="0" width="30" height="26"/>
+</TextureAtlas>

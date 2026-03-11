@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="susie.png">
+	<!-- Made using Maru Aseprite JSON to XML converter -->
+	<SubTexture name="idle0000" x="0" y="0" width="69" height="60"/>
+	<SubTexture name="idle0001" x="69" y="0" width="69" height="60"/>
+	<SubTexture name="idle0002" x="138" y="0" width="69" height="60"/>
+	<SubTexture name="idle0003" x="207" y="0" width="69" height="60"/>
+	<SubTexture name="down0000" x="0" y="60" width="69" height="60"/>
+	<SubTexture name="down0001" x="69" y="60" width="69" height="60"/>
+	<SubTexture name="left0000" x="138" y="60" width="69" height="60"/>
+	<SubTexture name="left0001" x="207" y="60" width="69" height="60"/>
+	<SubTexture name="up0000" x="0" y="120" width="69" height="60"/>
+	<SubTexture name="up0001" x="69" y="120" width="69" height="60"/>
+	<SubTexture name="right0000" x="138" y="120" width="69" height="60"/>
+	<SubTexture name="right0001" x="207" y="120" width="69" height="60"/>
+	<SubTexture name="laugh0000" x="0" y="180" width="69" height="60"/>
+	<SubTexture name="laugh0001" x="0" y="180" width="69" height="60"/>
+	<SubTexture name="laugh0002" x="69" y="180" width="69" height="60"/>
+	<SubTexture name="laugh0003" x="138" y="180" width="69" height="60"/>
+	<SubTexture name="laugh0004" x="138" y="180" width="69" height="60"/>
+	<SubTexture name="laugh0005" x="138" y="180" width="69" height="60"/>
+	<SubTexture name="laugh0006" x="138" y="180" width="69" height="60"/>
+</TextureAtlas>

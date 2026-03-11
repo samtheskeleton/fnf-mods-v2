@@ -1,0 +1,174 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-73,
+				93
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				181
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-105,
+				113
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-32,
+				130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left0"
+		},
+		{
+			"offsets": [
+				-22,
+				130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "MISS left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-65,
+				85
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "MISS down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				257
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "MISS up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-91,
+				222
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "MISS right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				134,
+				399
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "ded",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				128,
+				609
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "accept",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-55,
+				110
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle0",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"offsets": [
+				73,
+				-119
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [
+				3,
+				4
+			],
+			"name": "loop"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/gombiado",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "gombiado",
+	"flip_x": true,
+	"healthbar_colors": [
+		102,
+		255,
+		255
+	],
+	"camera_position": [
+		200,
+		-160
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}
